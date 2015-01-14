@@ -3,9 +3,9 @@ import os
 import multiprocessing as mp
 
 
-def tag(path):
-    print path
-    os.system('cd /corpora/bokm/tools/The-Oslo-Bergen-Tagger/ && ./tag-bm.sh ' + path + ' > ' + path + '.obt')
+def tag(corpora_path, obt_path):
+    print corpora_path
+    os.system('cd ' + obt_path + ' && ./tag-bm.sh ' + corpora_path + ' > ' + corpora_path + '.obt')
     os.system('pwd')
     # os.system('./tag-bm.sh ' + path + ' > '
     #           + path + '.obt')
