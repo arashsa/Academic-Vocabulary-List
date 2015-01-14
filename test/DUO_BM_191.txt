@@ -1,0 +1,3165 @@
+Felles Akutt Mottak -  
+Visjonen om én gang ett sted -  
+et uoppnåelig mål? 
+ 
+Niels Kristian Thybo og Karin Rønning 
+    
+Masteroppgave ved Medisinsk fakultet, Institutt for helseledelse og 
+helseøkonomi, kull XXI 
+UNIVERSITETET I OSLO  
+16. november 2010 
+  
+2 
+ 
+Innhold 
+Forord .....................................................................................................5 
+Sammendrag ..........................................................................................6 
+1 Innledning.........................................................................................7 
+2 Organiseringen av akutt helsehjelp i Asker og Bærum i historisk 
+perspektiv .......................................................................................10 
+2.1 Beskrivelse av tidligere interkommunal legevaktordning.......................... 10 
+2.2 Prosessen som førte frem til FAM. ............................................................ 12 
+2.3 Beskrivelse av gjennomføringen ................................................................ 14 
+2.4 Endringer i rammebetingelser i løpet av prosessen mot FAM................... 15 
+2.5 Innhold i det opprinnelige FAM - konseptet .............................................. 18 
+2.6 Beskrivelse av organisasjonen FAM ved oppstart i 2006 .......................... 19 
+2.7 FAM – beskrivelse av innhold og pasientflyt ............................................ 22 
+3 Organisering og finansiering...........................................................25 
+3.1 Organisering av helsetjenester i et samhandlingsperspektiv...................... 25 
+3.2 Kostnader til akuttmedisinske tjenester...................................................... 27 
+3.3 Økonomiske konsekvenser av FAM .......................................................... 30 
+3.4  Drøftinger ................................................................................................... 31 
+4 Brukerundersøkelser og kvalitetsmålinger ......................................33 
+4.1 Bakgrunn .................................................................................................... 33 
+4.2 Brukermedvirkning og brukerundersøkelser ved FAM ............................. 33 
+4.4 Drøftinger ................................................................................................... 37 
+  
+3 
+ 
+5 Personalundersøkelsen..................................................................39 
+5.1 Metode........................................................................................................ 39 
+5.2 Statistiske metoder ..................................................................................... 40 
+5.3 Deskriptiv statistikk.................................................................................... 41 
+5.3.1 Kommunikasjon og behandlingsnivå ..................................................... 42 
+5.3.2 Hva hindrer behandling på riktig nivå .................................................... 44 
+5.3.3 Samarbeid, arbeidsmiljø og kompetanseoverføring ............................... 46 
+5.3.4 Vurderinger av henvisninger til akuttmottaket ....................................... 49 
+5.3.5 Akuttmedisinske tjenester etter innføring av FAM ................................ 51 
+5.4 Åpne spørsmål i personalundersøkelsen. ................................................... 53 
+5.5 Ambulansetjenesten.................................................................................... 55 
+5.6 Drøftinger ................................................................................................... 57 
+6 FAM 2010.......................................................................................63 
+6.1 Organisasjon ............................................................................................... 63 
+6.2 Pasientsortering (”Triage”) i FAM............................................................. 63 
+6.3 Pasientflyt og – prosess i FAM .................................................................. 64 
+6.4 Observasjonspost........................................................................................ 65 
+6.5 Kompetanseheving ..................................................................................... 66 
+6.6 Rotasjon av personell ................................................................................. 67 
+6.7 Målstyring................................................................................................... 68 
+7 Diskusjon........................................................................................70 
+  
+4 
+ 
+7.1 Våre funn .................................................................................................... 70 
+7.2 Svakheter ved våre studier ......................................................................... 71 
+7.3 Norske erfaringer........................................................................................ 72 
+7.4 Utenlandske erfaringer ............................................................................... 73 
+7.5 Andre integrerte modeller for akuttmedisinske tjenester ........................... 76 
+7.6 Ulike aspekter ved full integrering............................................................. 76 
+7.7 Mulige endringer i dagens modell for å nå målene med FAM .................. 78 
+7.8  Alternative modeller for å nå målene ........................................................ 79 
+8 Oppsummering og konklusjon ........................................................81 
+9 Referanser......................................................................................84 
+10 Vedlegg........................................................................................86 
+  
+5 
+ 
+Felles akutt mottak - visjonen om én gang ett sted - 
+et uoppnåelig mål? 
+Forord 
+Felles akutt mottak (FAM) for kommunene Asker og Bærum, og Sykehuset Asker og 
+Bærum åpnet 1.3.2006. Utredning av tiltaket startet allerede tidlig i 1990 - årene, og 
+har vært preget av en rekke omorganiseringer med tilsvarende endring av 
+rammebetingelser. Masteroppgaven er en beskrivelse og analyse av FAM, med fokus 
+på samhandling mellom forvaltnings - og tjenestenivåer, og på mulige 
+kvalitetsforbedringer av tjenestene som følge av tiltaket FAM. 
+Vi har vår bakgrunn som hhv seksjonsoverlege ved akuttmedisinsk seksjon, Sykehuset 
+Asker og Bærum og som kommuneoverlege i Bærum kommune. Vi har begge deltatt i 
+utrednings - og forhandlingsprosessene knyttet til etablering av FAM i Asker og 
+Bærum, prosesser som har tatt svært lang tid. 
+Våre veiledere har vært dr. polit Hilde Lurås og dr. scient Fredrik A. Dahl, Helse Sør - 
+Øst kompetansesenter for helsetjenesteforskning (HØKH). Professor Terje P. Hagen 
+ved Institutt for helseledelse og helseøkonomi, Universitetet i Oslo har vært vår 
+veileder i sluttfasen. Vi takker dem alle for gode råd og innspill ved utarbeidelsen av 
+masteroppgaven.  
+Vi takker spesielt personalet ved Sykehuset Asker og Bærum samt Bærum kommune 
+for positive bidrag til studien. Vi takker også legesekretær Camilla Johansson for 
+praktisk hjelp med datainnsamlinger og annet sekretærarbeid 
+Vi har mottatt stipend fra Forskningsprogram om ledelse og organisering i 
+helsetjenesten (HORN) ved UiO.  
+Bærum 16.11.2010 
+Karin Rønning      Niels Kristian Thybo 
+  
+6 
+ 
+ 
+Sammendrag 
+FAM kan forenklet beskrives som en enhet hvor kommunal legevaktordning og 
+sykehusets akuttmottak er samordnet. Det kan være ulike modeller for slik 
+samordning, fra kun samlokalisert, til bruk av enkelte felles ressurser og tjenester, til 
+en helt integrert organisasjon. FAM ved sykehuset Asker og Bærum synes å være det 
+eneste felles akuttmottak hvor legevakten delvis er samorganisert med sykehuset. 
+Etablering av FAM har vært en tidkrevende og kostbar prosess som i beskjeden grad 
+har klart å innfri de opprinnelige visjonene for prosjektet. Våre undersøkelser antyder 
+en beskjeden positiv effekt på kvaliteten av de akuttmedisinske helsetjenestene.  
+Vi har ikke gjort funn som sikkert indikerer at samhandlingen mellom 
+spesialisthelsetjenesten og kommunehelsetjenesten er bedret. De ansatte vurderte i 
+2008 kommunikasjonen og informasjonsflyten som dårligere etter at FAM ble etablert.  
+FAM har medført økte kostnader til akuttmedisinsk helsetjenester i Asker og Bærum. 
+Sykehusets øvrige drift er ikke skjermet slik visjonen for FAM beskrev, dette skyldes i 
+hovedsak at det ikke ble opprettet en observasjonsenhet. 
+Potensialet for FAM til å gi befolkningen enda bedre, tryggere og mer 
+kostnadseffektiv helsehjelp hindres av gjeldende lov - og avtaleverk 
+I dagens situasjon mener vi at FAM bør avsluttes som et delvis integrert tiltak, og 
+erstattes av en samlokalisert men separat organisert virksomhet. Ved å beholde 
+samlokaliseringen bevarer man fordelene som ligger i muligheter for samhandling til 
+pasientenes beste. Man kan skjerme sykehuset for henvendelser fra pasienter uten 
+behov for spesialiserte tjenester, samtidig som kritisk tid kan spares for dem som 
+trenger akutt avansert helsehjelp . 
+ 
+  
+7 
+ 
+1 Innledning 
+FAM ved sykehuset Asker og Bærum er en av få eksisterende samorganiserte 
+akuttmedisinske tjenester i Norge. I lys av Samhandlingsreformen har det vært stor 
+interesse for slike konstruksjoner. FAM representerer en mulig arena for integrerte 
+tjenester på tvers av forvaltningsnivåene. Det foreligger ingen evalueringer av FAM i 
+Norge. I vår oppgave har vi derfor ønsket å evaluere dagens FAM opp mot 
+intensjonene og visjonen i det opprinnelige FAM - prosjektet.  
+I begynnelsen av 1990-årene var ansvaret for legevakt fortsatt en ny oppgave for 
+kommunene. I tillegg var oppbygging av varslingssystemer knyttet til akutte 
+helsetjenester under oppbygging, noe som medførte at fylkene/ sykehusene skulle 
+bygge opp AMK-sentraler (akuttmedisinsk kommunikasjon), og kommunene 
+tilsvarende LV (legevakt)-sentraler bemannet med kvalifisert helsepersonell. I 
+kommuner som var vertskommuner for sykehus skulle disse funksjonene i henhold til 
+forskrift samorganiseres. I kjølvannet av disse endringene dukket ideen om et felles 
+akutt mottak i Asker og Bærum opp. 
+Den opprinnelige ideen med FAM var at samorganisering og samlokalisering av 
+kommunenes og sykehusets akuttfunksjoner skulle medføre rasjonell bruk av de 
+samlede akuttmedisinske ressursene, gi bedre kvalitet på tjenestene og sørge for at 
+pasientene fikk optimal behandling i en ”sømløs” helsetjeneste. En viktig del av 
+konseptet var at AMK-sentralen skulle bemannes av ansatte i begge organisasjonene. 
+Videre skulle det etableres en observasjonspost for å redusere problemet med pasienter 
+som ble håndtert på ”feil” forvaltnings-/ kompetansenivå. . Forventningene var at dette 
+skulle medføre rasjonell bruk av personell, og redusert press på sykehusets ressurser 
+fordi flere pasienter kunne undersøkes og behandles på laveste effektive 
+forvaltningsnivå (LEON prinsippet). Samtidig skulle de som henvendte seg til 
+kommunenes legevakt med behov for spesialisert helsetjeneste få direkte tilgang til 
+dette gjennom en akuttmedisinsk helsetjeneste som sorterte behovet på vegne av den 
+syke. ”En gang ett sted” ble mottoet for FAM. 
+  
+8 
+ 
+På 1990- tallet var det flere FAM-lignende konstruksjon under utredning og utvikling i 
+Norge, for eksempel Larvik og Trondheim. Noen av disse ble etter hvert avviklet. I det 
+neste tiåret gikk utviklingen mot interkommunale legevaktordninger i stedet for å 
+integrere tjenestene i et FAM.. Vi er ikke kjent med at andre FAM-lignende strukturer 
+i Norge har vært evaluert. 
+Vi har valgt å inkludere en historisk beskrivelse av bakgrunn og prosess ettersom 
+konseptet FAM var sterkt knyttet til disse. Resultatet kan vanskelig forståes uten 
+kjennskap til rammevilkår og epoke (kapittel 2). Vi har i tillegg analysert sykehusets - 
+og kommunenes kostnader knyttet til akuttmottak og legevakt før og etter innføringen 
+av FAM (kapittel 3). Som en del av vurderingen av bedret kvalitet på de 
+akuttmedisinske tjenestene har vi i tillegg til vår hovedundersøkelse gjennomgått og 
+vurdert brukerundersøkelser utført ved Legevakten i Asker og Bærum i årene 2003 - 
+2005, og ved FAM Legevakt i 2006, 2007 og 2008.(kapittel 4).  
+I vår hovedanalyse, som er basert på en spørreundersøkelse blant ansatte, har vi 
+samarbeidet med Helse Sør - Øst kompetansesenter for helsetjenesteforskning, HØKH. 
+Senteret startet i 2005 et forskningsprosjekt for å evaluere ulike effekter av å opprette 
+FAM. I februar 2006 (før opprettelsen av FAM) og i februar 2007 gjennomførte derfor 
+HØKH en spørreundersøkelse til ansatte ved legevakten, ansatte i sykehusets 
+akuttmottak og ansatte i ambulansetjenesten. Undersøkelsen inkluderte både 
+merkantilt ansatte, sykepleiere og leger. Datainnsamlingen ble godkjent av regional 
+komité for medisinsk forskningsetikk (REK) i desember 2005, og tilrådd av 
+personvernombudet for forskning i Norsk samfunnsvitenskapelig datatjeneste (NSD) i 
+januar 2006. 
+Spørreskjemaene fanget dels opp aspekter knyttet til den enkelte yrkesutøvers trygghet 
+og kompetanse, men også spesifikke spørsmål knyttet til om de ansatte opplever at 
+pasienter blir behandlet på rett nivå og om de opplever en god samhandling om 
+pasientene. Data fra spørreundersøkelsene i 2006 og 2007 ble av ulike grunner aldri 
+analysert, og en planlagt 3. datainnsamling ble ikke gjennomført av HØKH. 
+  
+9 
+ 
+Vår undersøkelse (2008) representerer således den manglende siste datainnsamlingen, 
+samt analyse av alle datasettene. Vi supplerte spørreskjemaene med fire spørsmål, 
+herav to åpne (vedlegg 5). Vi valgte etter hvert å utelate 2007 - undersøkelsen fordi 
+den ble gjennomført ganske kort tid etter etableringen av FAM (kapittel 5). 
+Etter at vår datainnsamling ble avsluttet i 2008 har det skjedd store endringer i 
+organisasjonen FAM. Disse er resultat av at man har forsøkt å løse de problemene som 
+var tilstede eller ble avdekket ved oppstart, og dels en videreutvikling av 
+organisasjonen både faglig og organisatorisk. Vi har derfor omtalt FAM pr. 2010 i 
+kapittel 6. Det har vært flere organisatoriske endringer ved sykehuset både før og etter 
+FAM. Endringene har bl.a. medført flere navneendringer av sykehuset. Vi har valgt å 
+benytte betegnelsen ”Sykehuset Asker og Bærum” i oppgaven.  Fra 1.1.2010 ble 
+sykehuset innlemmet i Vestre Viken HF, noe som har medført betydelige 
+organisatoriske endringer på overordnet nivå. Vi har imidlertid ikke omtalt denne 
+endringen, da den etter vår vurdering så langt ikke har hatt innvirkning på 
+organisasjonen FAM.  
+ 
+ 
+  
+10 
+ 
+2 Organiseringen av akutt helsehjelp i Asker og 
+Bærum i historisk perspektiv 
+2.1 Beskrivelse av tidligere interkommunal legevaktordning 
+Fram til ca. 1970 var Legevakt som begrep ukjent. Huslegen var privatpraktiserende, 
+og kunne tilkalles eller oppsøkes døgnet rundt. Legens ektefelle utgjorde oftest resten 
+av ”vaktkorpset” - ellers var det gjerne de manuelle telefonsentralene som holdt 
+oversikt over hvor legen til enhver tid befant seg. Publikum avgjorde selv om de 
+kontaktet allmennlegen eller sykehuset ved akutt sykdom og skade. 
+På 1970’ tallet utviklet det seg kollegiale vaktordninger, hvor legene seg i mellom 
+fordelte hvem som til enhver tid hadde vakt utenom ordinær kontortid. Dette ble 
+innført for å skjerme legen og legens familie. Fortsatt valgte publikum selv om de 
+skulle henvende seg til sykehuset eller til lokal lege.  
+Asker og Bærum kommuner har i mange år hatt en interkommunal legevaktordning. 
+På slutten av 1970’ tallet samarbeidet kommunene og sykehuset om en kirurgisk 
+skadepoliklinikk og legevakt fra klokken 16 - 23 og i helgene. Denne ble etter hvert 
+også bemannet med allmennlege og kommunalt ansatte sykepleiere i tillegg til 
+bemanning fra kirurgisk avdeling. Pasienter som møtte opp på sykehuset om natten ble 
+tilsett av turnuslegene. 
+De praktiserende legene i kommunene Asker og Bærum organiserte en kollegial 
+ambulerende vakttjeneste utenom ordinær arbeidstid fram til 1984. Sykehusets 
+ekspedisjon fungerte som formidler av beskjeder, og etter hvert også som inn - og 
+utleveringssted for mobiltelefon. I 1982 åpnet et nytt lokalsykehus for Asker og 
+Bærums befolkning. Skadepoliklinikk og legevakt holdt fortsatt til i lokalene til det 
+gamle sykehuset. 
+Asker og Bærum kommuner etablerte en felles interkommunal legevakt driftet av 
+Bærum kommune 1.10.1984. Legevakten i Asker og Bærum holdt til i en del av det 
+gamle sykehuset. Kommunene fikk leiekontrakt for 10 år, hvor oppussing på ca. 3,5 
+  
+11 
+ 
+millioner utgjorde hoveddel av husleien. Det ble også etablert et kommunalt legesenter 
+med tre fastlønnede kommuneleger i lokalene. Legesenteret var åpent hverdager fra 
+klokken 8 til 16. Ut over senterets åpningstid overtok Legevakten lokalene. Ved 
+inngåelse av kommunal driftsavtale i 1984 fikk allmennpraktiserende leger i 
+kommunene forhandlet seg til en begrenset vaktplikt fra klokken 16 til 19 på 
+hverdager. Resten av døgnet og uken baserte legevakten seg på frivillige leger med 
+annen hovedstilling. 
+Lov om helsetjenesten i kommunene trådte i kraft 1.10.1984. Den påla kommunene 
+ansvar for å organisere en kommunal legevaktsordning. Kommunene plikter å dekke 
+alle utgifter forbundet med organisering av legevakt, inklusive lokaler og 
+hjelpepersonell. Ordningen kunne være ambulerende, stasjonær eller blandet. 
+Kommunene fikk plikt til å utbetale en beredskapsgodtgjørelse til vaktlegene, med 
+stigende satser omvendt proporsjonalt med folketallet i vaktdistriktet. 
+Privatpraktiserende leger fikk rett til kommunalt driftstilskudd, og fikk plikt til å delta i 
+organisert legevakt. Større byer og kommuner ansatte fastlønnede 
+allmennpraktiserende leger, disse hadde samme plikt som sine privatpraktiserende 
+kolleger til å delta i vaktordningen. 
+Frem til 1992 var Asker og Bærum kommuner ansvarlig for vaktordning mellom 
+klokken 7 og 16. Dette ble løst med ulike former for avtaler med de 
+allmennpraktiserende legene. Dette systemet hadde flere geografiske og tidsmessige 
+gråsoner hvor plikt og ansvar var uklart. Det oppsto regelmessig situasjoner hvor 
+publikum ikke fikk adekvat hjelp, og systemet var vanskelig å forstå for de fleste. 
+Sykehuset opplevde pasienter som oppsøkte sykehuset direkte som et vedvarende og 
+stort problem. 
+Legevakten var, i likhet med de fleste andre norske legevakter på denne tiden, preget 
+av mangel på stillingsinstrukser, prosedyrebeskrivelser, prioriteringsverktøy og klare 
+medisinske ansvarslinjer. Legene var løst tilknyttet organisasjonen, og opererte som 
+selvstendig næringsdrivende. Hjelpepersonell var ansatt i og lønnet av Bærum 
+kommune, mens Asker kommune årlig refunderte sin forholdsmessige andel av 
+utgiftene. 
+  
+12 
+ 
+Legebemanningen ved Legevakten i Asker og Bærum har alltid ligget lavt 
+sammenlignet med andre kommuner i landet. Dette skyldes dels mangel på lokaler, 
+men også mangel på leger som ønsker å delta i vaktordningen. Antall legekontakter pr. 
+år ved Legevakten i Asker og Bærum har økt jevnt fra 1985, med en utflating siste to 
+til tre år før FAM. Det er nå en økende tendens igjen. Antall kontakter lå i 2007 på ca. 
+40 000 pr år, inkludert 7000 sykebesøk (vedlegg 8). 
+2.2 Prosessen som førte frem til FAM. 
+Ved Haukeland sykehus ble det i løpet av 1970’ årene utviklet en akuttmedisinsk 
+kommunikasjonssentral som hadde radioforbindelse mellom sykehusets akuttmottak, 
+deler av ambulansetjenestene og andre akuttmedisinske transportenheter i regionen 
+rundt Bergen. Pådriver var anestesilege Paul Forstrønen. Han ble engasjert av 
+Helsedirektoratet, og utviklet i begynnelsen av 1980 - årene retningslinjer som førte 
+frem til Forskrift om medisinsk nødmeldetjeneste (1990). Etter denne skulle hvert 
+fylke opprette en AMK - sentral (akuttmedisinsk kommunikasjonssentral) lokalisert 
+ved ett av sine sykehus. Kommunene ble pålagt å opprette en ”legevaktsentral” (LV) 
+med eget telefonnummer, knyttet opp mot AMK og til vakthavende helsepersonell ved 
+bruk av radioforbindelse i helsenettet. Der hvor AMK var lokalisert til vertskommunen 
+for interkommunal legevaktsordning skulle AMK og LV sentral etter forskriften 
+samlokaliseres. Dette medførte behov for å planlegge en samordnet AMK og LV - 
+enhet i Asker og Bærum.  
+Sykehusets ledelse mente at en alt for stor andel av pasienter med akutte 
+helseproblemer ble vurdert og behandlet i sykehuset i stedet for ved legevakten. 
+Mange pasienter oppfattet ikke forskjellen på sykehusets akuttmottak og kommunenes 
+legevakt. Dette førte til at mange ”gikk feil”. Samtidig var enkelte pasienter svært 
+misfornøyde med først å måtte henvende seg til legevakten med akutte tilstander, bli 
+henvist til sykehuset for røntgen, tilbake til lege ved legevakten, og eventuelt til slutt 
+nok en gang bli henvist til akuttmottaket for spesialistbehandling. I enkelttilfeller 
+innebar dette systemet også en helserisiko. Kommunene, sykehuset, Akershus 
+fylkeskommune (eier av sykehuset) og Fylkeslegen i Akershus startet utredning av et 
+felles prosjekt, Felles Akutt Medisinsk Mottak (FAMM) for å bedre forholdene, og 
+  
+13 
+ 
+samtidig tilpasse seg nytt lovverk. Prosjektet ble senere omdøpt til ”FAM”, Felles 
+Akutt Mottak. 
+For pasienten er det ikke viktig hvilket forvaltningsnivå som yter helsetjenester. 
+Tjenestene bør derfor organiseres slik at skillet mellom forvaltningsnivåene ikke er 
+synlig for brukeren. Mange pasienter vil ha behov som befinner seg i ”gråsonen” 
+mellom forvaltningsnivåene, eller ha behov for tjenester fra begge nivåene. Der hvor 
+det ligger til rette geografisk og med en tilstrekkelig befolkningstetthet kan man derfor 
+anta at den akuttmedisinske tjeneste på spesialisthelsetjeneste - og kommunalt 
+legevaktsnivå med fordel kan samorganiseres.  
+Visjonen for FAM ble: EN GANG ETT STED. Publikum skulle henvende seg til én 
+ekspedisjon som skulle sortere hvilket forvaltningsnivå tjenestene skulle ytes på. 
+Publikum skulle oppleve en ”sømløs helsetjeneste”.  
+Dette skulle medføre  
+• bedre kvalitet på helsetjenestene på begge nivå  
+• bedre samhandling mellom spesialisthelsetjenesten og 
+kommunehelsetjenesten 
+• effektive helsetjenester  
+• skjerming av sykehusets øvrige drift   
+Det var flere sterke motiver for å etablere FAM. Sykehuset hadde behov for et nytt og 
+funksjonelt akuttmottak, flere legekontorer, infeksjonsavdeling med godkjent isolat, 
+nytt journalarkiv mv. Uten samhandling med kommunene ville sykehusets behov for 
+utvidelser neppe nådd opp på ”prioriteringslisten” for investeringer i Akershus 
+fylkeskommune, og senere i Helse Øst RHF. Sykehuset var derfor gjennom hele 
+prosjektperioden en viktig pådriver for prosessen. 
+Kommunene hadde behov for nye, effektive og tidsmessige lokaler til sin legevakt. 
+Befolkningen i kommunene hadde økt jevnt og betydelig fra 1970, med nær dobling av 
+antall innbyggere. Pågangen ved legevakten hadde økt i enda større omfang. På grunn 
+  
+14 
+ 
+av mangel på legekontorer var det i liten grad mulig å tilpasse bemanningen til 
+svingninger i etterspørselen. Dette medførte at det i pressperioder oftest oppsto lange 
+ventetider, lengst for pasienter med middels eller lav hastegrad. Kommunene hadde 
+derfor også sterke incentiver til å delta i prosessen mot et FAM. 
+FAM har vært høyt politisk prioritert i begge kommuner og i Akershus 
+fylkeskommune. Prosjektet har vært til politisk behandling i ulike politiske fora en 
+rekke ganger, hver gang med politisk støtte og stor interesse. Den viktigste årsaken til 
+politisk støtte har sannsynligvis vært forventing om at det akuttmedisinske tilbudet til 
+borgerne skulle bli kvalitativt mye bedre. Troen på betydningen av nærhet til 
+spesialisthelsetjenesten var stor.  
+2.3 Beskrivelse av gjennomføringen 
+Den første prosjektgruppen ble nedsatt i 1992, og ble ledet av Michael Bjaanes, 
+Akershus fylkeskommune. Gruppen hadde representanter for fylkeslegen, kommunene 
+(kommuneoverlegene), allmennpraktikere i kommunene, sykehusledelsen, legevaktens 
+leder, tillitsvalgte for sykepleiere og leger ved sykehuset, ved legevakten, 
+ambulansetjenesten, og brukerne.  
+Akershus fylke etablerte en AMK - sentral ved sykehuset Asker og Bærum. 
+Kommunene samlokaliserte ikke sin legevaktstelefon med AMK - sentralen fordi 
+etablering av FAM skulle være løsningen på kravene som ble stilt i forskriften.  
+Sykehuset etablerte en ny prosjektledelse i et rent ”byggeprosjekt”, med prosjektleder 
+Fanny Sætre i perioden 1998 - 2000. Prosjektgruppen utarbeidet et 
+virksomhetsprogram for FAM i mai 1999. Det ble sendt søknad om prosjektmidler og 
+byggemidler til Fylkestinget i 2001. Etter sykehusreformen i 2002 ble Vivi Persson 
+engasjert som leder av prosjektets siste fase. Arkitektfirmaet som tegnet FAM sto for 
+utforming av lokalene i tett samarbeid med brukergrupper (ansatte). 
+Prosjektgruppens sammensetning var over tid omtrent uendret, men med en del 
+utskiftninger av personer. Ambulansetjenestens representant gikk ut når denne 
+virksomheten etter 2002 ble organisert utenfor SAB HF.  
+  
+15 
+ 
+2.4 Endringer i rammebetingelser i løpet av prosessen mot FAM 
+Fastlegereformen 
+Selv om den ikke hadde noen avgjørende innflytelse  preget forberedelser til – og 
+innføring av fastlegeordningen i Norge i april 2001 utredningen av FAM i perioden 
+rundt årtusenskiftet. Fastlegenes ansvar for øyeblikkelig hjelp til sine pasienter ble 
+regulert gjennom egne lokale tilleggsavtaler til standard rammeavtale mellom 
+kommunene og den enkelte fastlegen. Tilleggsavtalen regulerer bl.a. fastlegenes 
+ansvar opp mot legevaktens døgntjeneste. Fra kommunehelsetjenesteloven trådte i 
+kraft i 1984 har kommunene kunnet tilplikte fastlegene inntil 20 % stilling i offentlig 
+allmennmedisinsk arbeid, og også deltagelse i legevakt utenfor arbeidstid. Ved 
+innføringen av fastlegeordningen ble ikke den generelle plikten til å delta i 
+legevaktarbeid utvidet utover den allerede eksisterende, begrensede plikten tidligere 
+lokale avtaler innebar. Historisk har allmennlegene i Asker og Bærum i liten grad 
+deltatt i den organiserte legevaktstjenesten. Vaktene har vært - og er - i det vesentlige 
+dekket av frivillige leger med jobb annet sted enn i kommunene. 
+Nær 100 % av befolkningen i Asker og Bærum er tilknyttet fastlegeordningen. Mange 
+supplerer med bruk av legevakten og av private helsetjenester etter eget ønske og 
+prioriterting. Effekten av FAM målt i form av akutte henvisninger fra FAM LV og 
+akutte innleggelser i sykehuset via akuttmottaket kan derfor være vanskelig å tolke 
+ettersom mange ulike faktorer kan forklare endringene. 
+Sykehusreformen 
+Sykehusreformen i 2002 var en eierskapsreform, hvor ansvar for å yte spesialiserte 
+helsetjenester ble flyttet fra fylkene til staten ved Helse og omsorgsdepartementet 
+(HOD). Det ble opprettet fem regionale helseforetak som fikk et ”sørge for ansvar” for 
+spesialisthelsetjenester. Denne reformen innebar langt større endringer for prosessen 
+FAM enn fastlegereformen gjorde. Ambulansetjenesten ble skilt ut som enn egen 
+prehospital enhet, og var ikke lenger aktør i utredningen av FAM. AMK ved Bærum 
+sykehus ble en del av samme divisjon, og ble flyttet først til Akershus 
+Universitetssykehus, og senere til Ullevål Universitetssykehus. Samlokalisert AMK og 
+  
+16 
+ 
+legevakttelefon falt derved ut som premiss for - og del av FAM. Ved en inkurie falt 
+også FAM ut som investeringsprosjekt ved overføringen av Sykehuset Asker og 
+Bærum fra fylkeskommunalt til statlig eierskap. Dette medførte en ny 
+prosjektforsinkelse, og utredningen stoppet opp inntil det daværende Helse Øst 
+Regionalt Helseforetak og Sykehuset Asker og Bærum vedtok å finansiere nytt bygg 
+ved lån over driftsbudsjettet. Nytt bygg til FAM, og nye fasiliteter som kontorer, 
+infeksjonspost, hjertelungepost med mer sto klart til åpning 1.3.2006. Aktørene i FAM 
+- kommunene, sykehuset og ansattes tillitsvalgte gjennomførte omfattende 
+forhandlingsrunder før endelig driftsavtale ble undertegnet. 
+Opptrappingsplanen psykisk helse (1999 - 2008) 
+Allmennlegevakten var tradisjonelt den eneste veien inn til akuttpsykiatriske tjenester i 
+Asker og Bærum. Under utredningen ble det tidlig fokusert på muligheten for å 
+etablere en psykiatrisk legevakt i FAM etter modell av psykiatrisk legevakt i 
+Lillestrøm og i Oslo. Terskelen for å få akutt psykiatrisk helsehjelp ble oppfattet som 
+høy, og det var ofte tidkrevende å få en pasient innlagt akutt i psykiatrisk sykehus. 
+Pasienter med akutt psykiatrisk sykdom ble oppfattet som ”støy” i allmennlegevakten, 
+og det var lite mulighet for å skjerme slike pasienter. Økende andel pasienter med 
+samtidige rusproblemer og psykiatriske symptomer forsterket problematikken. Egen 
+psykiatrisk legevakt ble imidlertid nedprioritert etter flere del - utredninger da 
+spesialisthelsetjenesten verken ville prioritere økonomiske midler eller 
+personellressurser til formålet. Som et resultat av Opptrappingsplanen psykisk helse 
+ble det imidlertid bygget opp et mer pasientnært, mindre spesialisert tjenestenivå i 
+form av distriktspsykiatriske sentra. Disse retter seg i stor grad mot kronikergruppen, 
+og har både sengeplasser, akuttplasser og ambulerende akutt - team med 
+døgnfunksjon. Bærum kommune etablerte også en trygghetsavdeling for psykisk helse, 
+hvor personer som opplevde seg i psykisk krise selv kunne be om innleggelse for noen 
+dager uten henvisning fra lege. FAM har en nøkkelfunksjon i forhold til samarbeid 
+mellom akutt psykisk helsehjelp på kommunalt - og spesialisthelsetjenestenivå. Det er 
+i tillegg opprettet en Rusakutt lokalisert til det gamle Bærum sykehus, i legevaktens 
+tidligere lokaler. 
+  
+17 
+ 
+Helse Asker og Bærum 
+Kommunene hadde pr. 1.1.2009 et innbyggertall på ca.163 500. I løpet av årene FAM 
+ble utredet og planlagt til i dag har folketallet økt med nesten 50 %, se figur 2.1. 
+Alderssammensetningen tilsvarer nokså nært landsgjennomsnittet, mens andelen av de 
+eldste eldre forventes å øke mer enn landgjennomsnittet. 
+120000
+125000
+130000
+135000
+140000
+145000
+150000
+155000
+160000
+165000
+170000
+19
+90
+19
+92
+19
+94
+19
+96
+19
+98
+20
+00
+20
+02
+20
+04
+20
+06
+20
+08
+ 
+Figur 2.1 Befolkningsutvikling i Asker og Bærum 1999 - 2009 Kilde SSB 
+Folketallet i kommunene Asker og Bærum ventes å øke til rundt 170 -175 000 i 2015, 
+med en samtidig økning av andel og antall eldre innbyggere. Sykehuset og 
+kommunene Asker og Bærum har gjennom mange år hatt fokus på samhandling og 
+forbedring av behandlingslinjer. Som et resultat av dette er det blant annet ikke innført 
+noen kommunal betalingsplikt for pasienter ferdigbehandlet i sykehus slik lovverket 
+gir anledning til. I 2003 inngikk partene en intensjonsavtale om å videreutvikle 
+samhandling, og etablerte prosjektet Helse Asker og Bærum (HAB). Etableringen av 
+FAM er også en del av samarbeidet i HAB. I løpet av 2006 ble HAB evaluert, og 
+partene vedtok å videreføre samarbeidet. I tillegg til den løpende kontakten mellom 
+partene, lages det en årlig felles handlingsplan med nye prosjekt som innebærer felles 
+utredninger. Arbeidet i HAB har samhandling mellom forvaltningsnivåene og 
+forbedring av behandlingslinjer som hovedfokus. I den siste delen av prosjektperioden 
+for FAM, og i dag i forbindelse med drift, er HAB det samlende styringsleddet. 
+  
+18 
+ 
+Andre prosjekter under paraplyen HAB er 
+- Hospice Stabekk, en spesialisert kommunal avdeling for terminal kreftomsorg.  
+- Intermediæravdeling ved Henie Onstad eldresenter, spesialisert på aktiv og 
+tidlig rehabilitering av pasienter som utskrives fra sykehuset med behov for 
+videre oppfølging som ikke kan tilbys i andre kommunale institusjoner eller 
+pasientens hjem. 
+Prosjektene har vært planlagt i fellesskap mellom sykehus og kommunene, til dels 
+også med medfinansiering i en prosjektperiode. Asker kommune har etter hvert trukket 
+seg ut av disse prosjektene av økonomiske grunner, og har lagt tilsvarende funksjoner 
+til sykehjemmet Bråset i Røyken. 
+Fremvekst av private helsetjenester 
+I løpet av prosjektperioden skjedde det en liberalisering av ”helsemarkedet”, og private 
+helsetjenester i form av både klinikker og poliklinikker vokste frem med start i Oslo - 
+området. Slike klinikker opererte både med medlemskap, og med ”drop in” 
+konsultasjoner. En del av tilbudene er typiske legevaktstrukturer både med 
+allmennlegevakt tjenester og akutte konsultasjoner hos spesialist. Slike tjenester 
+betales i sin helhet av publikum. En ganske stor andel av befolkningen i Asker og 
+Bærum har både økonomi og anledning til å benytte slike tjenester, og mange av de 
+lokale bedriftene tilbyr sine ansatte medlemskap eller refunderer utgifter til private 
+helsetjenester. Slike private helsetjenester er ikke åpne for akutte konsultasjoner om 
+natten, og akutte innleggelser kanaliseres til offentlige sykehus gjennom sykehusenes 
+akuttmottak. 
+ 
+2.5 Innhold i det opprinnelige FAM - konseptet 
+I prosjektplanene for FAM inngikk følgende deler: 
+• Allmennlegevakt 
+• Bemannet legevaktbil 
+  
+19 
+ 
+• AMK og LV sentral 
+• Akuttmottak 
+• Ambulansestasjon 
+• Observasjonspost 
+Bemannet legevaktbil ble ikke videreført som en del av totalprosjektet da 
+finansieringsordninger ikke fantes. Etter politisk initiativ ble anskaffelse av slik bil 
+likevel utredet av Bærum kommune i 2008, med planlagt prøvedrift i 2009. Slik 
+bemannet legevaktsbil er forøvrig en viktig del av fremtidig legevaktstjeneste 
+beskrevet i ”Forslag til nasjonal handlingsplan for legevakt”, Nasjonalt 
+kompetansesenter for legevaktmedisin 2009, (1). Ambulansestasjon ble bygget, men 
+ble administrativt underlagt Ullevål Universitetssykehus. Observasjonspost ble ikke 
+etablert pga manglende finansiering. 
+Kommunene forutsatte at kostnadene til legevakt ikke skulle øke ved innføring av 
+FAM, utover utgifter knytte til leie og drift av nye lokaler. Av historiske grunner 
+hadde kommunene tilnærmet gratis lokaler i Bærum gamle sykehus. Det redegjøres for 
+økonomiske konsekvenser av et nytt FAM i kapittel 3. 
+2.6 Beskrivelse av organisasjonen FAM ved oppstart i 2006 
+FAM ble organisert som en avdeling i somatisk divisjon ved Sykehuset Asker og 
+Bærum, med nytilsatt avdelingssjef. Avdelingssjefen har personal - og budsjettansvar i 
+FAM, og er faglig ansvarlig for kvalitet og prosedyrer for alt arbeid som utføres i 
+FAM. I tillegg til stab har han en ledergruppe bestående av ledere for 
+sykepleietjenesten i legevakten, leder for sykepleietjenesten i akuttmottaket og leder 
+for merkantile tjenester. Til tross for prinsippet om samorganisering valgte man en 
+modell med delt ledelse for sykepleiertjenestene, etter de gamle organisasjonenes 
+linjer. En av begrunnelsene var faren for å miste spesifikk og nødvendig 
+sykepleiefaglig kompetanse knyttet til allmennlegevakt. Enkelte i organisasjonen gir i 
+dag uttrykk for at tettere integrering av sykepleiergruppene ville ha lykkes bedre om 
+  
+20 
+ 
+de allerede fra start hadde hatt enhetlig ledelse. Organisasjonskartet (Figur 2.2) viser 
+den kompliserte organisasjonsstrukturen i FAM (2006).  
+Organisasjonskart F AM
+Samarbeidsavt
+Kontrakt
+Over le ge FAM  LV
+Me rkantile F AM Daglege r
+Fa stleger
+Vaktleger
+Turnuska ndidate r
+Fo lkehelsekonto ret
+Fastleger turnusle ger
+Asker kom mun e
+B¾rum  komm une
+Ass avd. sje f 50%+100 %
+Fagutv sp l
+Sykepleiere
+FAM LV a vd spl
+Fa gutv sp l
+Sykepleiere
+FAM AM avd spl
+GAT-  konsulent og sekr et¾r
+FAM m erka ntil
+kont orleder
+Avd. sjef FAM
+Direktær somatikk
+Adm. d irektær
+Figur 2.2 Organisasjonskart FAM 
+Legetjenesten ved legevakten 
+FAM LV har fra 2006 hatt en 50 % overlegestilling som medisinsk faglig rådgiver, 
+samt tre fastlønnede leger på dagtid til pasientbehandling. På hverdager fra klokken 16 
+- 23 er det to leger på vakt. Denne vakten dekkes av 90 fastleger fra kommunene. Om 
+natten, på helg samt helligdag dekkes vaktene av 55 frivillige leger etter en turnusplan. 
+Det er ulik honorering og avlønning i de forskjellige typer av vakter. 
+Dagtid på hverdager: Fast kommunal lønn (refusjonsinntektene fra NAV, samt pasient 
+egenandeler tilfaller kommunene)  
+Natt, alle dager: eget tariffestet timehonorar på vel 700 kroner pr time (refusjon fra 
+NAV og egenandel fra pasientene tilfaller kommunene). 
+Kvelder og helgedager: legen er selvstendige næringsdrivende, og mottar egenandel 
+fra pasientene og refusjon fra NAV. Kommunene utbetaler i tillegg en mindre 
+tariffestet beredskapslønn per time til alle legene som tar vakter i legevakten. 
+Disse ulike avlønningsformene er uendret fra før innføring av FAM. 
+  
+21 
+ 
+Kommunene overfører årlig et avtalt beløp for leie av lokaler og drift av FAM. 
+Avlønning av hjelpepersonell (sykepleiere) inngår i dette beløpet. Kommunene måtte 
+beholde arbeidsgiveransvaret for legetjenestene knyttet til FAM LV, og 
+administrasjonen av disse tjenestene. Det finnes ikke avtaleverk som regulerer 
+ansettelse av leger med oppgaver etter Kommunehelsetjenesteloven i et helseforetak. 
+Kommunenes fastleger har vaktplikt i legevaktordningen. Denne plikten kan ikke 
+overføres til sykehuset. 
+Akuttmottaket 
+På akuttmottaket tar man imot pasienter med behov for øyeblikkelig helsehjelp. I 
+tillegg til mottak av pasienter som trenger innleggelse fungerer akuttmottaket som 
+akuttpoliklinikk for kirurgiske, og til en viss grad også for medisinske pasienter. I 
+2008 ble det behandlet omkring 6700 pasienter poliklinisk i akuttmottaket. De fleste 
+av sykehusets 15.000 innleggelser kommer via akuttmottaket (vedlegg 4). 
+Lege - og sykepleietjenesten i akuttmottaket 
+Legene som har oppgaver i FAM AM er turnuskandidatene og assistentleger ved 
+medisinsk avdeling, kirurgisk avdeling og ortopedisk avdeling, samt i noe mindre grad 
+gynekologisk avdeling. Overlege i bakvakt tilkalles ved behov. Alle legene på vakt har 
+arbeidsoppgaver i alle sykehusets avdelinger, inklusive akuttmottaket. Kirurger og 
+ortopeder utfører akutte operasjoner parallelt med arbeidsoppgavene i FAM. Dette 
+medfører til tider lange ventetider for både akutte og polikliniske pasienter. Det 
+medfører at det oftest er legene i utdanningsstillinger og med minst erfaring som har 
+ansvar for å behandle pasienter med akutte tilstander. 
+Sykehuset Asker og Bærum har ca 110 ansatte med arbeidsoppgaver i FAM, av disse 
+er 40 sykepleiere som kun har FAM AM som tjenestested. 
+Ansatte som har hele eller deler av sine oppgaver i FAM AM har ordinær lønn fra 
+sykehuset. 
+  
+22 
+ 
+Intern organisering i SAB HF  
+Sykehuset endret ikke sin interne struktur ved innføring av FAM. FAM har ikke 
+myndighet (”instruksjonsrett”) inn i sykehusets øvrige avdelinger. Dette medfører at 
+pasienter ofte må vente i akuttmottaket på lege med den rette kompetansen, og at 
+ferdigbehandlede pasienter blir liggende på akuttstuer i FAM i påvente av en ledig 
+seng på avdeling, evt. på ledig ambulanse for hjem - eller videre transport. Dette 
+medfører unødig venting for nye pasienter, og kan gå utover faglig forsvarlig oversikt 
+over hvem som til en hver tid venter på hva. Personell - og arealbehov blir større enn 
+nødvendig fordi slike pasienter trenger tilsyn og eventuelt pleie mens de venter på å bli 
+fraktet til riktig sted. Disse forholdene representerer et betydelig potensial for å spare 
+kostnader, i tillegg til at pasienttrygghet og – bekvemmelighet kan bedres. Vi viser til 
+kapittel 6 hvor planlagte og iverksatte tiltak (2009) for å bedre disse forholdene er 
+nærmere beskrevet. 
+2.7 FAM – beskrivelse av innhold og pasientflyt 
+FAM inneholder følgende komponenter: 
+Felles 
+• Inngang for gående pasienter med ekspedisjon for pasientmottak og triage 
+• Ventearealer med tilgang til publikumsfasiliteter  
+• Lager, laboratorium, skyllerom 
+• Felles personalbaser 
+• Samtalerom 
+• Kontor til administrasjon og ledelse 
+ 
+Legevakten 
+• Legekontorer og behandlingsrom for LV 
+  
+23 
+ 
+• Telefontjeneste (LV – sentral) 
+• Observasjonssenger (ventesenger) for dårlige pasienter før og etter 
+legeundersøkelse 
+Akuttmottaket 
+• Inngang for pasienter på båre (og pasienter som må skjermes) 
+• Akuttmottak med telefontjeneste 
+• Rom for isolat, skjerming 
+• Akuttstuer for traumer, hjertestans  
+• Undersøkelses – og behandlingsrom for AM 
+• Akutt røntgenavdeling (”satellitt”) 
+• Dikterings – og skriverom 
+Legevaktens og akuttmottakets lokaler er lokalisert på hver side av felles kjernerom, 
+som kan nås fra begge sider. Det er lagt til rette for enkel fysisk kontakt mellom 
+personellgruppene i AM og LV, samt rask forflytning av pasienter når det er 
+nødvendig. Ettersom det ikke ble opprettet noen observasjonspost er legevaktens 
+hvilesenger de eneste som er tilgjengelige for pasienter som må vente i seng på 
+transport videre, eller trenger en avklarende observasjon. I motsetning til en 
+observasjonspost (del av sykehuset) er det ingen finansiering av tjenester knyttet til 
+slike ventesenger, men disse sengene er personellkrevende. Ansvarsforholdet kan også 
+være i en gråsone. 
+Pasienter i AM som skal innlegges kan bli liggende på behandlingsrommene eller i 
+korridor i påvente av at sykehusavdelingene gir klarsignal for innleggelse. Dette lager 
+fort propper i systemet, og derved unødig forlenget ventetid for nye pasienter. 
+  
+24 
+ 
+ 
+Figur 2.3 Pasientflyt og samhandling i FAM. Svarte piler angir pasientflyt. Røde piler angir pasientflyt og 
+typiske samhandlingsarenaer 
+Inngang 
+gående 
+Inngang båre 
+Fastleger 
+Andre leger 
+FAM 
+Felles mottak 
+FAM  
+legevakt 
+FAM  
+akuttmottak 
+FAM 
+LV telefon 
+FAM 
+AM telefon 
+Sykehuset Asker og 
+Bærum 
+Andre sykehus 
+Hjem 
+Kommunal omsorg 
+  
+25 
+ 
+3 Organisering og finansiering 
+Ulike finansierings - og organisatoriske ordninger påvirker helsetjenestene. De gir 
+rammevilkår som legger føringer for virksomhetene, og derved påvirker utøvelsen av 
+praksis. I Norge har finansieringsordningene i helsetjenesten variert over tid, og er 
+ulike innen de forskjellige forvaltningsnivåene (2). Også internasjonalt i 
+sammenlignbare land er det påfallende ulike og komplekse finansieringsformer og – 
+modeller i helsevesenet (3). 
+3.1 Organisering av helsetjenester i et samhandlingsperspektiv 
+Kommunene har full anledning til å organisere sine tjenester i interkommunale 
+ordninger. Det er laget egne særavtaler om lønn og beredskapsgodtgjørelse for leger 
+som er tilknyttet interkommunale legevaktordninger (IKL). Det eksisterer i dag rundt 
+40 IKL i Norge, 21 av disse er lokalisert ved et sykehus. IKL gir reduserte kostnader 
+for staten. I små kommuner er det ikke vanlig med stasjonær legevakt, kun 
+sykebesøksordninger. Sykebesøksordninger utløser høyere utgifter for staten i form av 
+refusjoner fra NAV (fra 2009 Helfo) ettersom takst for sykebesøk er vesentlig høyere 
+enn takst for konsultasjon i et vaktlokale. Sykebesøk er også dyrere for pasienten på 
+grunn av høyere egenandel. IKL innebærer derfor økte kostnader for kommunene, 
+særlig for de minste kommunene(12). Etter at kostnader til transport av helsepersonell 
+ble overført til kommunene (2004) er imidlertid forskjellen i drift av en ambulerende 
+vaktordning og en stasjonær vaktordning noe mindre. IKL - ordningene innebærer en 
+profesjonalisering av legevakten. Det gir mindre vaktbelastning for legene i berørte 
+kommuner, og derved totalt mer robuste systemer. En viktig intensjon ved IKL var å 
+bedre stabiliteten av legebemanningen i distriktene ved at vaktbelastningen går ned. Vi 
+finner lite sikker dokumentasjon på at dette har skjedd. Sogn og fjordane legeforening 
+hevder i en artikkel fra 2004 at redusert vaktbelastning bedre rekrutteringen: ”Redusert 
+legevaktbelastning er det enkelttiltak som i størst grad vil bedre rekruttering av nye og 
+stabile leger til mindre kommuner” (13). Helsetilsynets tilsynsrapport fra legevakter 
+2006 sier at ”Etter Helsetilsynets erfaring er det sjelden svikt ved organisering av vakt 
+utenom vanlig arbeidstid. Imidlertid kan det i kommuner med få allmennleger være et 
+problem med stor vaktbelastning. Dette – sammen med ønske om en høyere faglig 
+  
+26 
+ 
+standard på legevakttjenesten – har ført til opprettelse av interkommunale legevakter. 
+Dette synes å ha vært vellykket en rekke steder, og Helsetilsynet har gitt uttrykk for 
+støtte til slike interkommunale ordninger. De virker rekrutterende og stabiliserende på 
+legedekningen, gir en kvalitetsmessig bedre tjeneste og sikrer en forsvarlig vaktplan” 
+(14).  
+Antall fastlegelister uten fastlege har gradvis gått ned de siste årene, noe som tyder på 
+en bedret rekruttering til allmennlegetjenesten. Andelen lister uten lege (2008) er 
+fortsatt høy i de tre nordligste fylkene hvor over 8 prosent av listene er uten lege. På 
+landsbasis er 2,1 prosent av listene uten lege. I 2001 var denne andelen på 4,3 prosent 
+(15). 
+Selv om utførelsen av tjenester er delegert til et interkommunalt organ beholder 
+imidlertid kommunen ”sørge for” ansvaret som følger av Kommunehelsetjenesteloven. 
+Lovverket setter klare begrensninger i kommunenes og foretakenes adgang til å 
+organisere tjenestene sammen. Det følger av Helseforetaksloven (hfl.) § 43 andre ledd 
+at ”(helse)foretak kan ikke eie virksomhet som yter spesialisthelsetjenester sammen 
+med andre enn foretak”. Det betyr at helseforetak ikke kan danne virksomhet som yter 
+spesialisthelsetjenester sammen med kommuner. Bestemmelsen er en forlengelse av 
+Helseforetaksloven (hlf) § 7, som forbyr helseforetakene å eie virksomhet som yter 
+spesialisthelsetjenester i annen form enn gjennom et ubegrenset ansvar. Bakgrunnen er 
+bl.a. å forankre ”sørge for ”- ansvaret (å yte spesialisthelsetjenester) til de statlige 
+foretakene. Spesialisthelsetjenesten er definert som en statlig velferdsoppgave og 
+bestemmelsen sikrer en selskapsform hvor staten gjennom foretakene er fullt ansvarlig 
+for å sørge for og finansiere tjenestene. 
+Virksomheter som ikke yter spesialisthelsetjenester (for eksempel kommune -
+helsetjenesten) eller annen kjernevirksomhet innenfor spesialisthelsetjenesten, kan eies 
+i sameie mellom foretak og annen offentlig virksomhet, jf hfl § 43 tredje ledd. Slike 
+virksomheter forutsetter et begrenset ansvar (BA) som organisasjonsform.  
+Kommunene kan på sin side eie eller drive tjenesteenheter sammen med andre, 
+herunder helseforetak. Kommunene kan imidlertid ikke uten lovhjemmel overføre 
+  
+27 
+ 
+adgangen til å fatte enkeltvedtak eller annen myndighetsutøvelse til selskap eller andre 
+organisasjonsmodeller utenfor kommunens egne organer” (4). Integrering og 
+organisert samhandling mellom spesialisthelsetjenester og allmennlegetjenester er 
+derfor en betydelig utfordring. Utfordringene er knyttet til så vel 
+finansieringsordninger, ansvarsforhold, lønns - og avtalemessige forhold og 
+lovmessige reguleringer. 
+3.2 Kostnader til akuttmedisinske tjenester 
+Om finansiering av helsetjenester 
+Rammetilskudd har vært en vanlig finansieringsmåte både i spesialisthelsetjenesten og 
+i kommunal sektor. Rammefinansiering er vanlig ved finansiering av institusjoner hvor 
+det er vanskelig å måle aktivitet og / eller kvalitet. Systemet kombineres ofte med 
+målstyring, eller en kontrakt som beskriver volum, kvalitet eller andre mål.  
+Aktivitetsbasert finansiering (ISF) er knyttet til aktivitet, eks. en sum pr. operasjon, pr. 
+konsultasjon, pr. møte, pr. liggedøgn. I Norge er det knyttet egenandeler til 
+polikliniske offentlige helsetjenester. Kostnadene deles mellom offentlige 
+finansieringskilder og personen som mottar tjenester. Systemet fremmer høy aktivitet, 
+og fører derved potensielt til dårlig kvalitet. Det innebærer også risiko for dårlig 
+økonomisk kontroll dersom det ikke er knyttet et tak til finansiering av aktiviteten. 
+Sykehuset finansieres med en blandet modell av rammetilskudd og ISF. Legene på 
+legevakten er enten ansatt i kommunen, eller er selvstendig næringsdrivende. De siste 
+er selv ansvarlige for helsehjelpen de yter. De mottar et lavt rammetilskudd fra 
+kommunen (beredskapsgodtgjørelse), egenandel fra pasienten og ISF (takster) regulert 
+gjennom Normaltariff-forskriften. Det er ikke noe øvre tak for ISF i dette systemet. 
+Det kan derfor ha som effekt at legen tilpasser seg systemet ved å prioritere aktivitet 
+som gir høy inntjening uten å ha høy prioritet ut fra faglige kriterier og medisinske 
+behov  
+Oversikt over kostnader og overføring knyttet til FAM 
+FAM i sin nåværende form har en kompleks finansiering.  
+  
+28 
+ 
+Staten 
+Kostnadene er dels overføringer fra statens to instanser:  
+• Helse og omsorgsdepartementet (HOD) sin eieravdeling 
+(Utbetaler rammetilskudd og DRG refusjon) 
+•  Helsetjenesteforvaltningen (Heltef- tidligere NAV) 
+(Stykkprisrefusjon helsetjenester utenfor sykehus, inklusive pasienttransport) 
+Staten yter også kompensasjon for sykelønn og svangerskapspermisjoner, refusjon for 
+egenandeler som kommer inn under frikortordningen samt rett til fri legehjelp for visse 
+pasientgrupper. 
+Kommunene 
+Kommunene kjøper legevakttjenester fra SAB, dekker gjenværende drift samt 
+reiseutgifter for helsepersonell.  
+Pasientene 
+Brukere betaler egenandeler til sykehuset, til kommunen eller vaktlegen og egenandel 
+ved transport. På grunn av manglende samordning kan de bli avkrevd egenandeler til 
+flere av instansene knyttet til undersøkelse og behandling for samme helseproblem. 
+Kostnadene er illustrert i figur 3.1. Der hvor kostnaden er kjent fra tilgjengelige 
+regnskap (2007) er de oppført i parentes.  
+  
+29 
+ 
+Figur 3.1 Kostnader og pengeoverføringer i FAM – systemet 
+ 
+Staten 
+RHF  
+SAB 
+FAM 
+drift 
+(47 mill) 
+Selvstendige 
+vaktleger LV 
+Staten 
+(Heltef) 
+Refusjoner (stykkpris) 
+(7 mill) 
+DRG + 
+ramme 
+Kommunene 
+Gjenværende drift 
+(8 mill) 
+Egenandeler 
+(10 mill) 
+Pasienter 
+Rammetilskudd 
+(Kjøp av tjenester) 
+(18 mill + husleie 4 mill) 
+ 
+  
+30 
+ 
+3.3 Økonomiske konsekvenser av FAM 
+For kommunene Asker og Bærum 
+Kommunenes netto kostnader til legevakt har økt betydelig utover budsjettert nivå. I 
+prosjektfasen la kommunene til grunn at utgiftene til legevakt ikke skulle øke mer enn 
+utgiftene forbundet med høyere leieutgifter. Det eksisterende lovverk og 
+finansieringssystem har imidlertid medført at kommunene måtte beholde 
+arbeidsgiveransvar for legene på dagtid, overlegestillingen, samt arbeidsgiveransvaret 
+for legevaktslegene. Dette inkluderer turnusplanlegging, utbetaling av beredskapslønn 
+med videre. Kommunene sitter derfor igjen med store administrative kostnader i 
+tillegg til økte leieutgifter. Administrative utgiftene alene utgjorde i 2007 i overkant av 
+8 millioner kroner (regnskapstall). Timehonorar til lege på vakt alle netter klokken 23 - 
+07 er inkludert i dette beløpet.  
+Netto kostnader til legevakttjenester per innbygger har utviklet seg slik:  
+År Netto kostnad kr. Kroner pr innbygger 
+2004 18.721 mill 122 
+2005 18.985 mill 118 
+FAM innført 1.3. 2006 
+2007 30.062 mill 187 
+2008 31.384 mill 192 
+Tabell 3.2.2 Kostnader til legevakt pr innbygger i Bærum kommune 2004 - 2008 
+Tallene er indeksjusterte. Kostnader til leie av lokaler er inkludert. Landsgjennomsnitt 
+er ikke tilgjengelig. Tallene er hentet fra Regnskap Bærum kommune formål Legevakt 
+2004, 2005, 2007, 2008 (vedlegg 1). Det er vanskelig å finne sammenligningstall fra 
+andre kommuner i samme periode på grunn av svært ulik regnskapspraksis.  Vi har 
+valgt å utelate kostnadene i oppstartåret 2006. Regnskapet innholdt dette året 
+betydelige kostnader til flytting og implementering. 
+  
+31 
+ 
+For Sykehuset Asker og Bærum. 
+Sykehuset Asker og Bærum har nær doblet sine utgifter til akuttmottak etter innføring 
+av FAM. Regnskapet inneholder imidlertid ikke kostnader knyttet til lokaler og 
+investeringer. Legenes lønn inngår i de respektive avdelingsbudsjettene. DRG - 
+inntjening er også i det vesentlige knyttet til avdelingsbudsjettene. Sykehusets 
+regnskap er derfor vanskeligere å sammenligne før og etter oppstart av FAM i 2006.  
+Regnskap 2006 2007 2008 
+Inntekter 40, 0 43, 0  47, 7 
+Kostnader 41, 8 46, 6 47, 8  
+Resultat -1, 8 -3, 6 -0,1 
+Tabell 3.2.3 Regnskapstall (mill kroner) FAM. For detaljer, se vedlegg 2. 
+Dette er et internt driftsregnskap for FAM. Felles administrasjon, lønn til leger samt til 
+avdelingssjef, kostnader til serviceavdelinger, ned - og avskrivninger på inventar og 
+utstyr, samt finanskostnader og drift knyttet til lokaler er ikke tatt med. Merinntektene 
+utgjøres i det vesentlige av tilskuddene fra kommunene. Helseforetakets totale 
+kostnader for FAM var i 2007 på 46,6 mill., i 2008 var den totale kostnad 47,8. 
+Tallene er ikke medregnet renter og avskrivning av investeringer til lokaler og utstyr. 
+Helseforetakets samlede utgift til drift av akuttmottaket steg fra 23,8 i 2005 til 28,6 
+mill. i 2007 og 28,6 mill. i 2008. Økningen i akuttmottakets utgifter er ut fra 
+avdelingsregnskapet i det vesentlige en følge av økte kostnader til lønn. 
+Administrasjonen i akuttmottaket er økt ved at det er tilsatt nyopprettet stilling som 
+avdelingsleder, i tillegg til flere nye mellomlederstillinger. 
+3.4  Drøftinger 
+Arealene i den nye FAM Legevakt var større enn de gamle, med flere kontorer og 
+større avstander mellom legekontor/ behandlingsrom og ventearealer/ 
+personalknutepunkt. Ettersom FAM ikke inneholder observasjonsavdeling ble 
+legevaktens observasjons- og ventesenger det eneste sted hvor pasienter i gråsonen 
+mellom hjem og sykehus kunne observeres. Dette medførte behov for økt bemanning. 
+  
+32 
+ 
+Det har derfor så langt ikke vært mulig å se noen stordriftsfordeler ved å slå sammen 
+kommunal legevakt og sykehusets akuttmottak. Dimensjonering av bemanningen i 
+FAM viste seg i etterkant å være for liten, noe som også medførte økte kostnader 
+sammenlignet med budsjett. 
+Det er krevende å organisere en ”sømløs” og kostnadseffektiv tjeneste på tvers av 
+lovverk, forvaltningsnivåer og avtaleverk. Disse hindringene synes å ha vært en 
+effektiv begrensning for å nå målene med FAM. Den komplekse finansiering 
+visualisert i figur 3.1 er i seg selv en utfordring. Sykehusets regnskapssystem er 
+organisert slik at det er tilnærmet umulig å få frem de reelle, totale kostnadene ved 
+FAM. 
+  
+33 
+ 
+4 Brukerundersøkelser og kvalitetsmålinger 
+4.1 Bakgrunn 
+Sosial og helsedirektoratet (fra 2008 Helsedirektoratet) overtok fra 2004 det 
+overordnede ansvaret for utvikling av kvalitet i helsetjenestene. Direktoratet ble 
+statens organ for implementering av vedtatte helsepolitiske mål. Dette resulterte bl.a. i 
+en 10 - årig strategi 2005 - 20015 ”Og bedre skal det bli”, utviklet i samarbeid med 
+fagmiljøene (4).  
+Nasjonalt kompetansesenter for legevaktsmedisin samhandler med Helsedirektoratet 
+og Kunnskapssenteret for helsetjenesten om flere prosjekter knyttet til 
+kvalitetsutvikling i legevaktstjenester.  
+For å videreutvikle bruk av avviksrapportering som læringsmetode ved legevakter har 
+Statens Helsetilsyn startet et prosjekt i samarbeid med Nasjonalt kompetansesenter for 
+legevaktsmedisin (5).  
+Et kvalitetsmål er å involvere brukere og gi dem innflytelse. Nasjonalt 
+kompetansesenter for legevaktsmedisin har sammen med Kunnskapssenteret for 
+helsetjenesten utviklet en mal for brukerundersøkelser ved legevakt. Overordnet 
+målsetting er å forbedre kvaliteten på tilbudet (6).  
+Forskrift om internkontroll i sosial- og helsetjenesten pålegger tjenestene å gjøre bruk 
+av erfaringer fra pasienter/tjenestemottakere og pårørende til forbedring av 
+virksomheten. Brukere av helsetjenester skal så langt som mulig involveres i utvikling, 
+utforming og innhold av tjenestene, både på systemnivå og vedrørende tjenester til den 
+enkelte pasient. Denne metodikken har kommet ulike langt i de forskjellige deler av 
+helsetjenesten, fra godt implementert til helt fraværende.  
+4.2 Brukermedvirkning og brukerundersøkelser ved FAM 
+Brukere har vært representert i utredningene frem til etableringen av FAM. Ettersom 
+de fleste bare er sporadiske brukere av akutte helsetjenester som legevakt og 
+akuttmottak var det vanskelig å finne ”representative” brukere som også var interessert 
+  
+34 
+ 
+i å delta i denne type arbeid. I utredningens første fase var også politikere representert, 
+de er som folkevalgte naturlige ”brukerrepresentanter”. 
+Bærum kommune er organisert etter en ”konsernmodell”, inspirert av New Public 
+Management. Modellen tar i bruk markedsmekanismer og begreper som bestiller - 
+utfører modeller. Som ledd i modellen gjøres det regelmessige brukerundersøkelser, 
+som setter fokus på brukerens tilfredshet med mottatte tjenester. Hensikten er at 
+resultatene følges over tid, og at avvik fra ønskede eller vedtatt måltall skal føre til 
+tiltak. Disse tiltakene skal inn i den enkelte leders resultatavtale med henblikk på 
+kontinuerlig overvåkning av effekt. Ledere i kommunen lager hvert år en ny 
+resultatavtale med sin overordnede, hvor kommende års målsettinger fremgår. 
+Fra 2003 - 2005 ble det gjennomført årlige brukertilfredshetsundersøkelser ved 
+Legevakten i Asker og Bærum i regi av vertskommunen Bærum. Undersøkelsene ble 
+gjennomført ved at et uttrekk av pasientene fikk utdelt spørreskjema etter konsultasjon 
+på legevakten. Skjemaet kunne leveres på stedet, eller returneres pr. post. Antall 
+spurte, samt svarprosent fremgår av tabellen under.  I 2006 og 2007 er det gjort 
+tilsvarende undersøkelse ved FAM i regi av TNS Gallup. De benyttet imidlertid postal 
+levering av skjemaene, og fikk markert lavere svarprosent (29 %).  
+År Antall forespurt Antall svar Svarprosent 
+2003 430 203 47% 
+2004 746 277 37% 
+2005 800 246 31% 
+2007 748 217 29% 
+2008 569 187 33% 
+ 
+Tabell 4.1 Brukerundersøkelser ved Legevakten 2003-2008 Tallene fra 2006 har ikke vært 
+tilgjengelige 
+  
+35 
+ 
+Vi har analysert brukerundersøkelsene fra Legevakten i Asker og Bærum i perioden 
+2003 til 2008. Spørsmålene i undersøkelsene kan deles i følgende undergrupper: 
+• Fornøydhet og trygghet med faglig kompetanse hos personell 
+• Informasjon om alternative helsetjenester, om egen tilstand, om ventetid og 
+prioritering ved legevakten 
+• Tilgjengelighet 
+• Totalvurdering 
+Brukeren ble bedt om å gi score fra 1 - 6, der høyest verdi uttrykker høyest tilfredshet. 
+Spørsmål, skår og fordeling mellom svaralternativene (2003 - 2007) fremkommer i 
+tabell 4.1. Oppsummert viser undersøkelsene at fire av fem følte seg tatt på alvor og 
+behandlet med respekt. Tre av fire var trygge på kompetansen hos personalet, 7 av ti 
+var fornøyd med behandlingen. Lavest skårer tilgjengelighet og informasjon, særlig 
+om prioriteringssystem og ventetid ved legevakten. Det er påfallende lite forskjell 
+mellom funnene før og etter FAM. 
+Parametre som tilgjengelighet, trygghet, opplevelse av respekt og informasjon er 
+grunnleggende for brukere av akutte helsetjenester. Disse bør derfor følges over tid. 
+Rikshospitalet har de siste årene testet ut en løpende registrering av pasienters (evt. 
+pårørendes) tilfredshet med avdelinger og poliklinikker ved hjelp av utplasserte 
+datamaskiner med programvare. Fra 2008 er et slikt system også tatt i bruk ved FAM i 
+det felles venterommet for polikliniske pasienter. Resultatene følges regelmessig 
+sammen med annen rapportering. 
+ 
+ 
+ 
+ 
+  
+36 
+ 
+ 2003 2004 2005 2006 2007 2008 
+Jeg følte meg trygg på sykepleiernes faglige dyktighet 5.1 5.1 5.1 5.1 5.1 5.1 
+Jeg følte meg trygg på legenes faglige dyktighet 5.2 4.9 5.0 5.0 5.0 4.9 
+Jeg opplevde at de ansatte utførte jobben sin på en 
+profesjonell måte 
+5.2 5.0 5.0 5.0 5.0 5.1 
+Legen behandlet meg med respekt 5.4 5.2 5.3 5.3 5.3 5.1 
+Sykepleieren behandlet meg med respekt 5.4 5.4 5.4 5.4 5.4 5.4 
+Jeg er fornøyd med behandlingen på legevakten 5.0 4.8 4.7 4.8 4.8 4.7 
+Jeg fikk informasjon om det som feilte meg 5.0 4.5 4.7 4.7 4.6 4.7 
+Jeg fikk forklaring på viktige forhold for meg i min 
+situasjon 
+4.9 4.3 4.3 4.3 4.3 4.4 
+Jeg fikk informasjon om videre behandling 4.9 4.3 4.4 4.4 4.4 4.5 
+Jeg fikk den informasjon jeg trengte om andre aktuelle 
+helsetjenester 
+4.1 3.6 3.5 3.4 3.6 3.7 
+Det var lett å komme frem til legevakten på telefon 5.1 4.8 4.6 4.7 5.4 5.1 
+Ventetiden på behandling var akseptabel i forhold til det 
+som feilte meg 
+4.7 4.8 4.4 4.4 4.5 4.6 
+Jeg ble raskt mottatt i ekspedisjonen 5.5 5.4 5.2 4.4 4.5 5.1 
+Legevaktens lokaler er lett tilgjengelig 5.1 4.9 4.6 4.7 5.4 5.4 
+Jeg fikk forståelig informasjon om rutinene for 
+prioritering og ventetid på Legevakten 
+4.4 4.2 4.1 4.2 4.0 4.1 
+Jeg opplevde at legen tok min situasjon på alvor 5.3 4.9 5.1 5.1 5.1 5.0 
+Jeg opplevde at sykepleieren tok min situasjon på alvor 5.3 5.2 5.2 5.2 5.2 5.2 
+Gjennomsnitt score alle spørsmål 5.04 4.78 4.74 4.71 4.80 4.83 
+Tab. 4.2 Brukerundersøkelse for legevakten, gjennomsnitt score for alle påstander. Skala 1 - 6, 6 er 
+best. Det er ingen statistisk signifikant forskjell mellom gjennomsnittsscore (alle spørsmål) fra 2003 til 
+2008. 
+ 
+  
+37 
+ 
+Verdien av brukerundersøkelser ligger i at fallende tilfredshetsnivå på et av 
+undersøkelsenes spørsmål gjør det mulig for virksomheten å gjennomføre spesifikke 
+tiltak og vurdere effekten av disse. Svar fra brukerundersøkelser er imidlertid ikke lette 
+å tolke. Det som måles er en subjektiv oppfatning av kvalitet, ”tilfredshet”. Lave 
+forventninger til tjenesten kan lett gi høy slutt-tilfredshet, mens høye forventninger kan 
+gi misnøye.. Brukerundersøkelser gir ingen informasjon om behandlingen ved en 
+helsetjeneste følger ”best practice”, det vil si. om faglige vurderinger, prioriteringer og 
+behandlingstiltak er i tråd med god faglig standard.  
+I perioden 2003 - 2005 er bare 63 % av respondentene fornøyd med lokalenes 
+tilgjengelighet, mens 67 % mente telefontilgjengeligheten var god eller svært god. 
+Etter etablering av FAM (2007) har andelen som er fornøyd eller svært fornøyd med 
+lokalenes tilgjengelighet økt til vel 80 %, mens telefontilgjengeligheten vanskelig kan 
+vurderes gjennom disse undersøkelsene da nesten 60 % svarer ”vet ikke” eller ”ikke 
+aktuelt”.  Det er vanskelig å vurdere betydningen av de enkelte spørsmålene for 
+hvordan pasientene oppfatter kvalitet i helsetjenesten. Variabler som er viktige for én 
+pasient kan være uten betydning for andre. Gjennomsnittlige score for samtlige 
+spørsmål vil derfor etter vår mening være et mer robust parameter for pasientenes 
+vurdering av kvalitet. Som tabellen viser er det ingen signifikant forskjell i 
+gjennomsnittlig vurdering fra 2003 til 2008.  
+4.4 Drøftinger 
+Publikum er gjennomgående ganske fornøyd med legevakttjenesten. Dette er i 
+overensstemmelse med en rekke tidligere brukerundersøkelser som alle har vist en høy 
+grad av brukertilfredshet. Lav svarprosent kan medføre at en overvekt av de mest 
+misfornøyde tar seg bryet med å svare (11). Dette kan innebære at gjennomsnittlig skår 
+er litt lavere enn reelt. Det er ikke gjort noen undersøkelse av ”non responders” for å 
+sammenligne verdiene. Det at fornøydheten gjennomgående er høy over tid gjør det 
+lite sannsynlig at en slik mulig effekt behøver å vektlegges. Det er ellers påfallende 
+like gjennomsnittlige verdier på undersøkelsens 17 variabler i årene 2003 - 2008. Vi 
+mener derfor at verdiene kan tillegges vekt til tross for lav svarprosent. Det må 
+  
+38 
+ 
+imidlertid understrekes at formålet med brukerundersøkelser har vært å identifisere 
+forbedringspunkter, og ikke å vurdere kvaliteten på helsetjenesten. 
+ Det er ikke utført brukerundersøkelser ved akuttmottaket. 
+Brukerundersøkelser gir som tidligere nevnt ingen informasjon om den medisinske 
+behandlingen er i tråd med god faglig standard. Det er svært mange leger som deltar i 
+legevaktordningen i Asker og Bærum. De har svært forskjellig erfaringsbakgrunn, det 
+er derfor viktig å utvikle gode prosedyrer og behandlingsprotokoller. Dette bør gjøres 
+for ”volumtilstander” (eks. barn med feber), og for de alvorlige, ofte sjeldne 
+tilstandene som kan ha alvorlige konsekvenser. Et eksempel: Legevaktsleger som 
+skriver ut antibiotika eller smertestillende medisiner uten streng faglig indikasjon vil 
+stort sett ha svært fornøyde pasienter. De får resept, og legen slipper tidkrevende 
+informasjon og ”forhandling” med pasient eller pårørende. Legen får også fornøyde 
+medarbeidere (det går fort unna, ventetiden blir kortere, sykepleiere slipper å utføre 
+supplerende diagnostiske prosedyrer). Slik behandling strider imidlertid mot god faglig 
+standard, og mot nasjonale målsettinger om restriktiv legemiddelpolitikk både hva 
+gjelder antibiotika og vanedannende medisiner.  
+  
+39 
+ 
+5 Personalundersøkelsen  
+5.1 Metode 
+Vi startet planleggingen av oppgaven tidlig høsten 2007, og gjennomførte en 
+omfattende kartlegging og planlegging av oppgaven ved møter og intervjuer med 
+tidligere og nåværende involverte parter. Personalundersøkelsen i vår oppgave er en 
+datainnsamling basert på 3. gangs innhenting av synspunkter fra ansatte i FAM ved 
+hjelp av et spørreskjema. Spørreskjemaet ble i utgangspunktet utviklet av HØKH i 
+2005 som et ledd i en planlagt evaluering av FAM. Vi benyttet det samme 
+spørreskjemaet supplert med to åpne spørsmål i vår undersøkelse i 2008. 
+Spørreskjemaene ble laget i 3 forskjellige versjoner, spesielt tilpasset målgrupper ut fra 
+hvor de arbeidet i systemet før FAM. Skjemaene finnes i sin helhet i vedlegg 5. De 
+ulike skjemaene er: 
+1. Å jobbe i Akuttmottaket 
+2. Å jobbe i Legevakten  
+3. Å jobbe i ambulansetjenesten (prehospitale tjenester) 
+I hvert skjema ble respondenten bedt om å krysse av for yrke (sykepleier, hjelpepleier, 
+lege, merkantilt ansatt, ambulansearbeider, paramedic, annet) og for hvor lenge den 
+enkelte hadde tatt vakter i organisasjonen. Videre ba vi om opplysninger om kjønn og 
+alder i 10 - års grupperinger. 
+Spørreskjema 1 hadde en egen del for legene i akuttmottaket. Årsaken var at 
+sykehuslegene som gruppe ikke er ansatt i akuttmottaket, men tjenestegjør der som del 
+av vaktene på respektiv sykehusavdeling. Enkelte av sykehusets leger tar også 
+frivillige vakter ved Legevakten. Videre ble sykehuslegene bedt om å vurdere innhold 
+og kvalitet på henvisningene fra Legevakten. Spørreskjema 2 inneholder ikke egne 
+spørsmål for legegruppen. 
+Spørreskjemaet for akuttmottak og legevakt er besvart av gruppen ”merkantilt 
+ansatte”. I våre analyser har vi valgt å utelate besvarelsene fra disse da de var svært få.  
+  
+40 
+ 
+Alle ansatte ved FAM, ansatte i ambulansetjenesten og leger som tok vakter i FAM 
+legevakt ble presentert for undersøkelsen via egne brev både utlevert direkte og sendt 
+den enkelte som e post og som brev. Vi presentert også undersøkelsen muntlig i 
+diverse personalmøter. Undersøkelsen var anonym. Skjemaene var påført et 
+løpenummer, og ble samkjørt med en koblingsliste oppbevart ved HØKH. Listen 
+dannet grunnlaget for én purring, og ble makulert etter denne. Innsamlede skjemaer ble 
+lest optisk ved HØKH. Rådataene ble utlevert oss som ubearbeidede filer i 
+statistikkprogrammet SPSS. HØKH har ikke vært involvert i den praktiske utføringen 
+av denne tredje datainnsamlingen, og har ikke analysert noen av datasettene. 
+Vi distribuerte og samlet inn spørreskjemaene i februar 2008, og gjennomførte en 
+purring i april 2008. Det ble ikke foretatt noen purring i 2006 og 2007.  
+Datafilene vi fikk utlevert fra HØKH inneholdt innsamlede data fra 2006 (før FAM), 
+2007 (et år etter FAM), og fra våre egne innsamlinger i 2008. Åpne spørsmål i 2006, 
+2007 og 2008 har vi kommentert i oppgavens kapittel 5.7 
+5.2 Statistiske metoder 
+Sammenheng mellom demografiske data og ansattes svar på de ulike spørsmålene i 
+spørreskjemaet ble analysert ved hjelp av Chi - Square test på dikotomerte data. 
+Spørsmålsskalaene er kodet fra 1 til 5 hvor verdien av de ulike koder er oppgitt for 
+hvert enkelt spørsmål. Chi - Square test er også benyttet på dikotomerte data for å se 
+om det var forskjell mellom svarene i 2006 og 2008. Fischer exact test ble brukt hvor 
+gruppestørrelsen var mindre enn 10. Dikotomering ble utført slik at gruppe 1+2 
+(stemmer helt + stemmer delvis)=1 og 3+4+5 (både og + stemmer dårlig + stemmer 
+ikke) = 2.  Analysene er utført med statistikkpakkene SPSS 17.0, Chicago, IL., USA 
+og Open Source Epidemiologic Statistics for Public Health, versjon 2.3. En p - verdi < 
+0,05 ble ansett som statistisk signifikant. Undersøkerne er oppmerksomme på at den 
+aktuelle undersøkelse ikke er hypotesetesting, og at med en p verdi på 0,05 vil 
+gjennomsnittlig hvert 20. spørsmål falle positivt (signifikant) ut. Det er tatt hensyn til 
+dette i tolkningen av data. 
+  
+41 
+ 
+5.3 Deskriptiv statistikk  
+Det ble i alt utlevert 856 skjemaer til ansatte i de tre undersøkelsene hvorav 450 (53 
+%) svarte. Både antall spurte og svarprosentene økte fra 2006 til 2008. Størst økning 
+fant vi i legegruppen i akuttmottaket, hvor antall spurte økte fra 91 til 131. De 
+tilsvarende svarprosenter økte fra 42 % i 2006 til 55 % i 2008.  I tabell 5.1.1 er det 
+angitt detaljer for de enkelte undersøkelsene. 
+Den store økningen i antall leger som besvarte fra 2007 til 2008 kan blant annet 
+forklares ved at gynekologene ved SAB ikke deltok i de to første undersøkelsene, men 
+ble inkludert undersøkelsen i 2008. 
+ 2006 2006 2006 2007 2007 2007 2008 2008 2008 
+ utlevert besvart % utlevert        besvart % utlevert besvart % 
+Akuttmottaket 161 67 42 156 63 40 180 99 55 
+           leger 91 32 35 101 34 34 131 73 56 
+           sykepleier 62 29 46 40 24 60 38 21 55 
+           merkantil 8 6 75 15 5 33 11 5 45 
+Legevakten 71 36 51 100 61 61 124 70 56 
+           leger 44 22 50 75 36 48 94 50 53 
+           sykepleier 23 13 57 21 12 57 30 20 67 
+           merkantil 4 1 25 4 1 25 0 0 0 
+Ambulansetjenesten 21 21 100 20 20 100 23 13 57     
+Totalt 253 124 49 276              144 52 327 182 57 
+ 
+Tabell 5.1.1 Oversikt over utleverte og besvarte spørreskjemaer i 2006, 2007 og 2008   
+Erfaringsgrunnlaget målt som antall år ansatt for personalet i akuttmottaket var 
+nærmest identisk ved undersøkelsene i 2006 og 2008, for personalet på legevakten og 
+ambulansetjenesten var det en tendens til litt kortere erfaring i 2008. Det var ingen 
+forskjell i kjønnsfordelingen fra 2006 til 2008 for noen av tjenestene, men det var en 
+tendens til økende alder hos de ansatte i akuttmottaket. 
+Betydningen av alder samt erfaring målt i antall år ansatt ble undersøkt med Chi - 
+Square test på de enkelte spørsmål. Verken alder eller erfaring påvirket svarene.  Yrke 
+samt tjenestested var de eneste av de demografiske dataene som slo ut. For de fleste 
+spørsmål var det forskjell i måten sykepleiere og leger svarte på. Når det gjelder 
+tilleggsspørsmålene i 2008 - undersøkelsen var det ingen forskjell på svarene fra leger 
+  
+42 
+ 
+og sykepleiere. Det var tendens til forskjell mellom leger og sykepleiere på legevakten 
+på spørsmålet om endring av arbeidssituasjon etter innføring av FAM. For alle 
+spørsmålene er den grafiske fremstillingen og de statistiske beregningene derfor gjort 
+separat for de 2 yrkesgruppene. Samtlige svar på undersøkelsens spørsmål er fremstilt 
+i tabell form med angitt signifikansnivå. I tillegg er utvalgte data fremstilt grafisk.  
+5.3.1 Kommunikasjon og behandlingsnivå 
+I undersøkelsen ble det spurt om personalets vurdering av kommunikasjon og 
+informasjonsflyt.  
+ 
+Fig. 5.4.1  Prosent av personalet som er helt eller delvis enig i spørsmålet. *:p<0,01 (2008 mot 2006). 
+Det var færre av legene i akuttmottaket i 2008 som mente at kommunikasjonen og 
+informasjonsflyten mellom legevakten og akuttmottaket er god.  Samme tendens ses i 
+sykepleiergruppen, men her var forskjellen ikke så tydelig. 
+  
+43 
+ 
+ 
+Fig.5.4.2 Prosent av personalet som er helt eller delvis enig i spørsmålet.  
+For både leger og sykepleiere på legevakten var det en tendens til at færre i 2008 enn i 
+2006 var helt eller delvis enige i at kommunikasjonen og informasjonsflyten mellom 
+legevakten og akuttmottaket var god.   
+Selv om det generelt var færre som var positive til spørsmålet om kommunikasjon og 
+informasjonsflyt etter innføring av FAM avslørte undersøkelsen stor forskjell i 
+vurderingen mellomlegevakt og akuttmottak. Både i 2006 (p<0,01) og i 2008 
+(p<0,001) var det flere leger ved legevakten enn i akuttmottaket som var helt eller 
+delvis var enige i at kommunikasjonen og informasjonsflyten mellom legevakten og 
+akuttmottaket var god.  Det samme gjorde seg gjeldende for sykepleiergruppen, men 
+her var forskjellen ikke så uttalt. 
+Det var få både i akuttmottaket og ved legevakten som var helt eller delvis enige i at 
+pasienter ofte ble feil sendt hjem. Det var ingen forskjell på svarene i 2006 og 2008 
+(tabell 5.4.1). Litt over halvparten av både leger og sykepleiere i akuttmottaket var helt 
+eller delvis enige at pasienter ble behandlet på rett nivå.  Det var flere leger og 
+sykepleiere ved legevakten som svarte at de var helt eller delvis enige i dette 
+spørsmålet. Det var ingen forskjell på fordelingen av svarene før og etter etableringen 
+av FAM for de to gruppene. 
+  
+44 
+ 
+ 
+  
+Akuttmottaket 
+ 
+Legevakten 
+Hvor godt stemmer følgende utsagn? 2006 2008 2006 2008 
+ 
+ 
+Leger 
+(n=32) 
+Sykepl. 
+(n=28) 
+Leger 
+(n=73) 
+Sykepl. 
+(n=21) 
+Leger 
+(n=22) 
+Sykepl. 
+(n=11) 
+Leger 
+(n=50) 
+Sykepl. 
+(n=20) 
+ 
+Jeg synes kommunikasjonen og 
+informasjonsflyten mellom legevakten 
+og akuttmottaket er god 
+ 
+31,2 
+ 
+28,6 
+ 
+20,5‡‡ 
+ 
+23,8 
+ 
+72,7** 
+ 
+63,6 
+ 
+62,0*** 
+ 
+40,0 
+ 
+Jeg synes at pasienter ofte blir feil sendt 
+hjem  
+ 
+3,1 
+ 
+7,1 
+ 
+2,7 
+ 
+14,3 
+ 
+4,5 
+ 
+36,4 
+ 
+6,0 
+ 
+25,0 
+ 
+Stort sett opplever jeg at pasienter blir 
+behandlet på rett nivå 
+ 
+59,4 
+ 
+50,0 
+ 
+54,8 
+ 
+52,4 
+ 
+100*** 
+ 
+81,8 
+ 
+90,0*** 
+ 
+75,0 
+ 
+Det er mange pasienter på legevakten / 
+akuttmottaket som burde vært behandlet 
+på akuttmottaket / legevakten 
+ 
+46,9 
+ 
+67,3 
+ 
+52,4 
+ 
+52,4 
+ 
+4,5** 
+ 
+63,6 
+ 
+20,0 
+ 
+55,0 
+ 
+Jeg får oftest informasjon om pasienter 
+til rett tid 
+     
+77,3 
+ 
+72,7 
+ 
+70,0 
+ 
+70,0 
+ 
+Tabell 5.4.1. Prosent av personalet som var helt eller delvis enig i spørsmålene. ‡‡ angir p<0,01 for 2008 
+mot 2006. **: p<0.01 for legevakt mot akuttmottak. ***: p<0.001 for legevakt mot akuttmottak. 
+ 
+5.3.2 Hva hindrer behandling på riktig nivå 
+Spørsmålene som vedrører eventuelle hindringer for behandling på rett nivå er listet i 
+Tabell  5.5.1. Det ble ikke funnet noen forskjell på vurderingen av disse spørsmålene 
+etter etableringen av FAM, men det var en tendens til at legene i akuttmottaket 
+sjeldnere mente at pasienten var kommet til feil sted etter innføringen av FAM 
+(p=0,065).  
+  
+45 
+ 
+   
+Fig. 5.5.1 Prosent av gruppen leger som svarte at de aldri, eller et par ganger i året, opplever at pasienters 
+problemer ikke blir behandlet fordi…   
+   
+Fig. 5.5.2       Fig.5.5.3 
+Prosent av personalet som svarte at de aldri eller et par ganger om året opplever at pasienters problemer ikke blir 
+behandlet fordi … 
+I 2008 var det flere leger ved legevakten enn i akuttmottaket som svarte at de aldri 
+eller et par ganger i året opplever at pasienters problemer ikke blir behandlet på grunn 
+av en av de nevnte problemstillinger (tabell 5.5.1). 
+For sykepleiene på Legevakten var det en økning i andel som mente at de aldri eller et 
+par ganger om året opplever at riktig kompetanse ikke er tilgjengelig. For de øvrige 
+spørsmålene var det for sykepleiergruppen ingen forskjell over tid eller mellom 
+legevakt og akuttmottak 
+  
+46 
+ 
+ 
+ 
+ 
+Akuttmottaket 
+ 
+Legevakten 
+Hender det at du opplever at pasienters 
+problemer ikke blir behandlet fordi: 
+        2006         2008         2006          2008 
+ 
+ 
+ 
+Leger 
+(n=32) 
+ 
+Sykepl. 
+(n=28) 
+ 
+Leger 
+(n=73) 
+ 
+Sykepl. 
+(n=21) 
+ 
+Leger 
+(n=22) 
+ 
+Sykepl. 
+(n=11) 
+ 
+Leger 
+(n=50) 
+ 
+Sykepl. 
+(n=20) 
+ 
+Pasienten er kommet til feil sted 
+ 
+68,8 
+ 
+46,3 
+ 
+50,7 
+ 
+52,4 
+ 
+63,6 
+ 
+54,5 
+ 
+74,0* 
+ 
+35,0 
+ 
+ Nødvendig utstyr er ikke tilgjengelig 
+ 
+71,9 
+ 
+64,3 
+ 
+58,9 
+ 
+66,9 
+ 
+86,4 
+ 
+72,7 
+ 
+80,0** 
+ 
+70,0 
+ 
+Riktig kompetanse er ikke tilgjengelig 
+ 
+68,8 
+ 
+46,6 
+ 
+56,2 
+ 
+19 
+ 
+77,3 
+ 
+54,5 
+ 
+84,0** 
+ 
+80,0*** 
+ 
+Riktig informasjon er ikke tilgjengelig 
+ 
+43,9 
+ 
+46,4 
+ 
+50,7 
+ 
+57,1 
+ 
+77,3* 
+ 
+54,5 
+ 
+78,0** 
+ 
+75,0 
+ 
+Organiseringen av samarbeidet 
+mellom legevakten og sykehuset 
+hindrer det 
+ 
+65,6 
+ 
+50,0 
+ 
+56,2 
+ 
+42,9 
+ 
+77,3 
+ 
+72,7 
+ 
+70,0* 
+ 
+70,0 
+ 
+Tabell. 5.5.1 Prosent av personalet som svarte at de aldri eller et par ganger om året opplever at pasienters 
+problemer ikke blir behandlet fordi; * angir p<0.05 for legevakt mot akuttmottak.  **: p<0.01 for legevakt mot 
+akuttmottak.  ***: p<0.001 for legevakt mot akuttmottak. 
+5.3.3 Samarbeid, arbeidsmiljø og kompetanseoverføring 
+De fleste (85,7 %) av sykepleierne i akuttmottaket i 2006 mente at arbeidsmiljøet var 
+preget av faglig utvikling (tabell 5.6.1). Etter innføring av FAM var andelen 
+signifikant lavere. Samme tendens var gjeldende for legene i akuttmottaket. Det var 
+ingen forskjell i vurderingen av arbeidsmiljøet mellom leger og sykepleiere ved 
+legevakten, og det var ingen endring mellom 2006 og 2008 for de to personalgruppene 
+ved legevakten. 
+  
+47 
+ 
+   
+Fig. 5.6.1  Prosent av personalet som er helt eller delvis enig i spørsmålet.     ‡‡: p<0.01 (2008 mot 2006). 
+ 
+   
+Fig. 5.6.2 Prosent av personalet som er helt eller delvis enig i spørsmålet.      *p<0.05 (legevakten mot 
+akuttmottaket) 
+ 
+*
+  
+48 
+ 
+ 
+ 
+ 
+Akuttmottaket 
+ 
+Legevakten 
+Hvor godt stemmer følgende 
+utsagn? 
+      2006       2008          2006           2008 
+ 
+Leger 
+(n=32) 
+Sykepl. 
+(n=28) 
+Leger 
+(n=73) 
+Sykepl. 
+(n=21) 
+Leger 
+(n=22) 
+Sykepl. 
+(n=11) 
+Leger 
+(n=50) 
+Sykepl. 
+(n=20) 
+Jeg opplever stort sett godt 
+samarbeid mellom legevakten og 
+sykehuset 
+ 
+62,5 
+ 
+42,9 
+ 
+50,7 
+ 
+42,9 
+ 
+95,5** 
+ 
+90,9* 
+ 
+88,0*** 
+ 
+65,0 
+ Jeg synes at pasienter ofte blir 
+innlagt uten at de trenger det 
+ 
+37,5 
+ 
+53,6 
+ 
+30,1 
+ 
+52,4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Arbeidsmiljøet i akuttmottaket / 
+legevakten er preget av faglig 
+utvikling 
+ 
+43,8 
+ 
+85,7 
+ 
+26,0 
+ 
+47,6‡‡ 
+ 
+40,9 
+ 
+54,5 
+ 
+40,0 
+ 
+55,0 
+Det skjer en systematisk 
+kompetanseoverføring mellom 
+sykehus og legevakt 
+ 
+6,2 
+ 
+21,4 
+ 
+9,6 
+ 
+19,0 
+ 
+36,4* 
+ 
+36,6 
+ 
+18,0 
+ 
+50,0 
+Jeg mener at min kompetanse 
+stemmer med de arbeidsoppgaver 
+jeg har 
+ 
+81,2 
+ 
+89,3 
+ 
+68,5 
+ 
+81,0 
+ 
+81,8 
+ 
+81,8 
+ 
+90,0 
+ 
+90,0 
+Min faglige utvikling preges 
+positivt av samarbeidet med 
+legevakten / akuttmottaket 
+ 
+25,0 
+ 
+28,6 
+ 
+15,1 
+ 
+33,3 
+ 
+63,6* 
+ 
+63,6 
+ 
+54,0*** 
+ 
+75,0* 
+Jeg føler ikke at det er noen 
+barriere mot å ta kontakt med 
+kolleger på legevakten / 
+akuttmottaket 
+ 
+62,5 
+ 
+71,4 
+ 
+56,2 
+ 
+66,7 
+ 
+90,9* 
+ 
+81,8 
+ 
+90,0*** 
+ 
+80,0 
+ 
+Tabell 5.6.1. Prosent av personalet som er helt eller delvis enig i spørsmålene. ‡‡ angir p<0,01 for 2008 mot 
+2006. *: p<0,05 for legevakt mot akuttmottak.**: p<0.01 for legevakt mot akuttmottak. ***: 
+p<0.001 for legevakt mot akuttmottak  
+Det var et fåtall av både sykepleiere og leger i akuttmottaket som var helt eller delvis 
+enig i spørsmålet om at det skjer en systematisk overføring av kompetanse mellom 
+sykehus og legevakt, omtrent 20 % før og 10 % etter etableringen av FAM. Personalet 
+på legevakten svarte generelt mer positivt på dette spørsmålet. Det var her en klar 
+  
+49 
+ 
+tendens til at sykepleirne var mere postive og legene mindre positive i 2008 i forhold 
+til 2006. 
+Det var flere leger og sykepleiere på legevakten enn i akuttmottaket som opplevde 
+godt samarbeid mellom legevakten og sykehuset. Det synes å være et lite fall i 
+opplevelsen av et godt samarbeid både for legene i akuttmottaket og ved legevakten 
+etter innføring av FAM. Omtrent 1/3 del av legene og halvparten av sykepleierne 
+mente at pasienter ofte ble innlagt uten at de trengte det. Det var her ingen endring 
+over tid. 
+Personalgruppene både i akuttmottaket og ved legevakten mente generelt at deres 
+kompetanse stemmer med de arbeidsoppgavene de får. Det var ingen endring i dette 
+etter innføring av FAM. Det var få sykepleiere og leger i akuttmottaket som mente at 
+deres faglige utvikling ble preget positivt av samarbeidet med legevakten. Motsatt 
+mente flertallet av sykepleiene og legene på legevakten at den faglige utviklingen  ble 
+positivt preget av samarbeidet. Etter innføringen av FAM var det generelt færre leger, 
+men flere sykepleiere, som mente at den faglige utviklingen ble positivt preget. 
+Endringene var ikke signifikante. Ingen av personalgruppene følte noen barriere mot å 
+ta kontakt med kolleger i henholdsvis akuttmottak og legevakt. Imidlertid var det flere 
+leger på legevakten som ikke følte noen barriere mot å ta kontakt. Funnet var uendret 
+fra 2006 til 2008. 
+5.3.4 Vurderinger av henvisninger til akuttmottaket 
+Det ses av fig. 5.7.1 at det i 2008 var en stor økning i andelen av leger som oppga ikke 
+å ha vakter. Dette må ses i sammenheng med økt svarprosent i 2008, og tendens til økt 
+alder hos legene i akuttmottaket i perioden mellom 2006 og 2008. 
+Av de 32 legene ved akuttmottaket som deltok i undersøkelsen i 2006 tok 5/29 (17,2 
+%) også vakter på legevakten. I 2008 deltok 73 leger mens bare 2/62 (3,1 %) også tok 
+vakter på legevakten. Dette var et absolutt fall på 14,9 %. 
+  
+50 
+ 
+ 
+Fig. 5.7.1 Prosentvis andel av legene i akuttmottaket med henholdsvis 0; 1 - 5; 6 - 10; 11 - 30 og mer enn 
+30 vakter det siste halve året (2006; n=29. 2008; n= 62). 
+ 
+  
+Fig. 5.7.2 Prosentvis andel av legene i akuttmottaket 2006 (n=28) og 2008 (n=53) som vurderte andelen 
+av tilstrekkelig underbyggende henvisningene fra legevakten til henholdsvis <25 %, 26-50 %, 
+51-75 % og 76-100 %. 
+25 % av legene i akuttmottaket (2006) mente at under halvparten av henvisningene fra 
+legevakten i tilstrekkelig grad var underbygd.  I 2008 var det 35,9 % legene som mente 
+det samme. (NS). 
+  
+51 
+ 
+ 
+Fig. 5.7.3 Prosentvis andel av legene i akuttmottaket 2006 (n=28) og 2008 (n=53) som vurderte andelen 
+av henvisningene som inneholdt alle relevante opplysninger fra legevakten til henholdsvis <25 
+%, 26-50 %, 51-75 % og 76-100 %. 
+35,7 % av legene i akuttmottaket (2006) mente at under halvparten av henvisningene 
+fra legevakten inneholdt alle relevante opplysninger.  I 2008 var det 41,5 % legene 
+som mente dette. 
+5.3.5 Akuttmedisinske tjenester etter innføring av FAM 
+Personalet ble i 2008 - undersøkelsen stilt spørsmål om effekten av å innføre FAM på 
+henholdsvis kvaliteten av den akuttmedisinske tjenesten og på egen arbeidssituasjon. 
+Den totale fordeling av svarene på spørsmålet om kvaliteten er vist i figur 5.8.1.a og 
+5.8.1.b 
+  
+52 
+ 
+   
+Fig. 5.8.1.a      Fig. 5.8.1.b 
+Prosentvis svar fra personalet i henholdsvis akuttmottaket og legevakten.  
+ 
+Både leger og sykepleiere ved legevakten var generelt mer positive enn personalet i 
+akuttmottaket på spørsmålet om innføringen av FAM har medført en bedre 
+akuttmedisinsk tjeneste. Av fig. 5.8.2 fremgår det at omkring 50 % av både legene og 
+sykepleierne på legevakten som var helt eller delvis enige i dette spørsmålet. Under 
+1/3 del av personalet i akuttmottaket mente det samme. 
+ 
+        
+Fig. 5.8.2  Prosent av personalet som er helt eller delvis enig i spørsmålene. *: p<0,05 for legevakt mot 
+akuttmottak. 
+  
+53 
+ 
+Forskjellen mellom personalet i akuttmottaket og på legevakten var enda tydeligere i 
+forhold til betydningen av FAM på egen arbeidssituasjon. Av fig. 5.8.3 fremgår at over 
+halvdelen av legene på legevakta var helt eller delvis enig i at deres arbeidssituasjon 
+var blitt bedre, mens 15 % av legene i akuttmottaket mente det samme. Man så den 
+samme tendens hos sykepleierne, hvor 38 % var helt eller delvis enig på legevakten 
+mot 9,5 % på akuttmottaket. 
+ 
+ 
+Fig. 5.8.3 Prosent av personalet som er helt eller delvis enig i spørsmålene.           
+**: p<0,01 for legevakt mot akuttmottak. 
+  
+5.4 Åpne spørsmål i personalundersøkelsen. 
+Ved spørreundersøkelsen i 2008 stilte vi to åpne spørsmål: 
+• Hvordan mener du at den akuttmedisinske tjenesten til befolkningen har endret 
+seg etter innføring av FAM? 
+• Hvordan mener du at din arbeidssituasjon har endret seg etter innføringen av 
+FAM? 
+  
+54 
+ 
+Om lag 90 av respondentene benyttet anledningen til å gi en eller flere 
+tilbakemeldinger på disse spørsmålene. Vi har ikke bearbeidet utsagnene systematisk, 
+men har gjengitt et utvalg av svarene i bilag 9. 
+Etter vår vurdering gir en rekke av disse tilbakemeldinger grunnlag for refleksjoner. Vi 
+har nedenfor forsøkt at gi et overordnet inntrykk av tilbakemeldingene fra de enkelte 
+personalgrupper. 
+Ambulansearbeidere gir uttrykk for at pasientene opplever ” å være til bry”, at de er 
+”kasteballer”. Systemet synes ikke å gi klare retningslinjer for hvor pasientene skal tas 
+i mot. Likeledes at ambulanse feilaktig blir brukt i stedet for drosje, eller i stedet for at 
+lege rykker ut. En ambulanseansatt hevder at ”sykepleiere er pasientadministratorer i 
+stedet for helsepersonell”. 
+Legene ved legevakten gir tildels uttrykk for motstridende oppfatninger: kontakten 
+med sykehuslegene er/ er ikke bedret, lokalene er bedre, men lite effektive. En oppgir 
+at legene ved Legevakten er lite integrert i FAM. Det påpekes at FAM inneholder 
+hvilerom for dårlige pasienter, noe som manglet tidligere. 
+Leger i akuttmottaket hevder at det er for mange vikarleger i FAM legevakt, at det 
+mangler erfarne fastleger. Videre påpeker både disse legene og annet personell (særlig 
+sykepleiere i FAM legevakt) at pasientene møter et uforståelig system med ventetid i 
+flere ledd, flere regninger m.v., men at de dårligste pasientene får lettere og bedre hjelp 
+enn før. Flere påpeker at sykepleiere bruker mye tid på dokumentasjon på bekostning 
+av pasientnært arbeid. De etterlyser mer teknisk assistanse ved prosedyrer i 
+akuttmottaket. 
+Sykepleiere ved Legevakten påpeker mangel på felles pasientadministrativt IKT - 
+system, og at merkantile oppgaver bør utføres av andre enn sykepleiere. 
+Sykepleiere i akuttmottaket gir flere uttalelser som viser at de har det for travelt, 
+ikke har tid til å spise eller gå på wc. De opplever økt tilstrømming av pasienter og økt 
+arbeidspress. De kommenterer også at det er bedre samhandling mellom 
+akuttjenestene, at systemet oppleves mer helhetlig. 
+  
+55 
+ 
+Generelt oppfatter vi det som positivt at så mange har benyttet anledningen til å gi 
+uttrykk for sine oppfatninger om FAM. I sum tolker vi meningsytringene dit hen at det 
+fortsatt mangler mye på at systemet oppleves helhetlig, at samhandlingsrutinene og 
+sorteringsverktøyene ikke er helt på plass. Mange gir uttrykk for at de dårligste 
+pasientene får raskere og bedre hjelp enn før, noe som har vært en hovedmålsetning 
+for FAM. 
+5.5 Ambulansetjenesten 
+Vi fikk 21 svar fra ambulansetjenesten i 2006 mot 13 i 2008. Svarprosenten var høy, 
+men gruppen var så liten at det er vanskelig å dra generaliserbare konklusjoner av 
+materialet. Det er av samme årsak ikke mulig å påvise forskjeller i demografiske data. 
+Svar fra ambulansetjenesten vises samlet i tabell 5.10.1.  
+  
+56 
+ 
+ 
+ Ambulansetjenesten 
+Spørsmål      2006   2008 
+Jeg opplever at informasjon jeg har om pasienter alltid blir 
+mottatt på legevakten 
+    66,7        50,0 
+Jeg opplever at informasjon jeg har om pasienter alltid blir 
+mottatt på akuttmottaket 
+    76,2    75,0 
+Jeg synes at pasienter ofte blir feil sendt hjem       4,8        16,7 
+Når det er avtalt at pasienten skal til legevakten henstilles vi 
+likevel ofte om å kjøre pasienten til akuttmottaket 
+    23,8        33,3 
+Når det er avtalt at pasienten skal til akuttmottaket henstilles vi 
+likevel ofte om å kjøre pasienten til legevakten 
+    28,6    41,7 
+Jeg opplever stort sett godt samarbeid mellom 
+ambulansetjenesten og legevakten 
+    66,7       41,7 
+Jeg opplever stort sett godt samarbeid mellom 
+ambulansetjenesten og sykehuset 
+    90,5       75,0 
+Stort sett opplever jeg at pasienter blir behandlet på rett nivå     85,7    66,7 
+Jeg opplever aldri at pasientopplysinger gitt på telefon blir 
+feiltolket 
+    57,1        25,0 
+Det hender at jeg opplever at pasienten må overhøre diskusjon 
+om hvilket behandlingsnivå han/hun skal til 
+    81,0        66,7 
+ 
+Tabell 5.10.1. Prosent av personalet som er helt eller delvis enig i spørsmålene.  
+  
+57 
+ 
+5.6 Drøftinger 
+Kvalitet  
+Undersøkelsen i 2008 inneholdt et direkte spørsmål til de ansatte om de mente 
+innføringen av FAM i 2006 hadde medført bedre kvalitet på de akuttmedisinske 
+tjenestene til befolkningen i Asker og Bærum, de ble dessuten spurt om de mente eget 
+arbeidsmiljø var endret som følge av FAM. 
+Her kom det frem at den overveiende andelen av de ansatte ved FAM mente kvaliteten 
+på den akuttmedisinske tjeneste var uendret eller bedret etter innføringen av FAM. En 
+mindre andel mente kvaliteten var forverret. De ansatte ved FAM legevakt var i større 
+grad positive enn ansatte ved FAM akuttmottak, hvor faktisk en fjerdedel mente 
+kvaliteten var blitt dårligere. Vi fant liten forskjell mellom yrkesgruppene leger og 
+sykepleiere. I den grad arbeidsmiljøet kan være en indikator på en velfungerende 
+helsetjeneste var forskjellen på svarene mer avvikende mellom de to tjenestestedene. 
+Over 60 prosent av legene på FAM legevakt var helt eller delvis enig i at deres 
+arbeidssituasjon var bedret, mens bare 15 prosent av legene i akuttmottaket mente 
+dette. Samme tendens var tilfellet for sykepleiene. Så store forskjeller i vurderingene 
+mellom behandlingsnivåene ses også i en rekke andre spørsmål i undersøkelsen.  
+Flere av spørsmålene som ble stilt i begge datainnsamlingene er viktige for å vurdere 
+kvalitet:  
+Mener de ansatte at pasientene blir behandlet på rett nivå 
+Nesten alle leger og sykepleiere på legevakten mente at pasientene ble behandlet på 
+rett nivå både i 2006 og i 2008, men med en fallende tendens. Bare halvdelen av leger 
+og sykepleiere i akuttmottaket mente pasientene ble behandlet på riktig nivå. Det var 
+liten forskjell mellom undersøkelsene i 2006 og 2008.  
+Blir pasientene som burde vært innlagt sendt hjem 
+Dette er en viktig indikator på god kvalitet i den akutt medisinske tjenesten. Pasienter 
+som sendes ”feil hjem” har ikke fått den kvalifiserte helsehjelpen de skulle ha, og 
+  
+58 
+ 
+risikerer både tap av helse og i verste fall liv. Antall reinnleggelser i løpet av en 
+definert tidsperiode er mye brukt som parameter på kvalitet ved sykehusavdelinger.  
+De aller fleste legene i akuttmottaket og på legevakten mente at pasienter sjelden blir 
+feil sendt hjem. Det var liten forskjell etter innføringen av FAM. I sykepleiergruppen 
+var det flere som mente at pasientene ofte ble feil sendt hjem, men her viser svarene en 
+tendens til bedring etter FAM. Det er imidlertid som forventet at de fleste legene synes 
+at pasientene sjelden blir feil sendt hjem, idet det er legene som er ansvarlige for om 
+pasienten skal sendes hjem eller innlegges. Vi registrer at sykepleierne på legevakten 
+mener problemet med feil hjemsendte pasienter er mindre etter FAM. Man kunne 
+forvente at økt nærhet, innsyn og samarbeide med akuttmottakets personal ville øke 
+forventningen om utvidede undersøkelser og behandling, og derved heller forsterke 
+deres vurdering av at pasientene ofte blir feil sendt hjem. Når vi da registrerer det 
+motsatte tolker vi det som en reell forbedring av kvaliteten på den akuttmedisinske 
+tjenesten etter etableringen av FAM.  
+Riktig kompetanse 
+Undersøkelsen vår viser at både leger og sykepleiere på legevakten ofte opplevde at 
+pasientenes problemer ikke ble behandlet fordi riktig kompetanse ikke var tilgjengelig, 
+og med økende tendens etter FAM. Ved akuttmottaket opplevde de ansatte dette 
+derimot sjelden som et problem. Både leger og sykepleiere opplevde i tillegg dette som 
+ytterligere forbedret etter FAM. Disse vurderingene står i kontrast til svarene på 
+spørsmålet om de ansatte i FAM mener egen kompetanse stemmer med 
+arbeidsoppgavene de har. Før FAM opplevde fire femtedeler av både leger og 
+sykepleiere i FAM at deres kompetanse sto i samsvar med arbeidsoppgavene. Etter 
+FAM mente hele 90 % av leger og sykepleiere i legevakten at de hadde riktig 
+kompetanse, mens både leger og sykepleier i akuttmottaket i 2008 opplevde at de i 
+mindre grad enn i 2006 hadde riktige kompetanse til å løse sine arbeidsoppgaver.  
+Også svarene på spørsmålet om arbeidsmiljøene var preget av faglig utvikling står i 
+kontrast til vurderingene om riktig kompetanse. I legevakten mente omtrent halvparten 
+av leger og sykepleiere at arbeidsmiljøet var preget av faglig kompetanse, men med 
+  
+59 
+ 
+liten endring etter FAM. I akuttmottaket derimot var det stor forskjell mellom 
+yrkesgruppene både i 2006 og i 2008. I tillegg halveres her andelen både i lege - og 
+sykepleiergruppen som opplever at arbeidsmiljøet er preget av faglig utvikling etter 
+FAM. For sykepleiergruppen var denne reduksjonen markant.  
+I 2008 - undersøkelsens åpne spørsmål om bedre kvalitet kommer det frem at 
+personalet mener det primært er de dårligste pasienter som får raskere og bedre hjelp 
+etter etableringen av FAM. Vi finner ingen enkelt faktor som peker seg ut som 
+forklaring på dette. Det ser derfor ut til at det kan være den fysiske samlokaliseringen i 
+seg selv som har bedret muligheten for raskere adekvat innsats for de dårligste 
+pasientene. 
+Bedre samhandling og kommunikasjon   
+Bedre samhandling forutsetter at kommunikasjon og informasjonsflyt bedres. 
+Undersøkelsen viser imidlertid en klar forverring. Det var få i begge yrkesgrupper i 
+akuttmottaket som mente at kommunikasjon og informasjonsflyt mellom legevakt og 
+akuttmottak var god i 2006, og enda færre i 2008. Reduksjonen var signifikant for 
+legegruppen. Det var signifikant flere leger ved legevakten som mente kommunikasjon 
+og informasjonsflyt var god i 2006 sammenlignet med legene ved akuttmottaket 
+samme år. Det samme finner vi når det gjelder sykepleiergruppene sammenlignet med 
+hverandre. Imidlertid viste svarene fra leger og sykepleiere ved legevakten også en 
+fallende tendens fra 2006 til 2008.  
+Det ser ut til at kommunikasjon og informasjonsflyt mellom legevakt og akuttmottak 
+har vært et problem for ansatte i akuttmottaket før FAM. Innføringen av FAM har ikke 
+bedret dette, snarere medført en forverring. Problemet synes ikke å ha vært så stort ved 
+legevakten før FAM, men også der har utviklingen gått i gal retning. Det var ikke 
+mulig å endre systemer for kommunikasjon og informasjonsflyt ved innføring av FAM 
+(se kap. 8.2). Samlokaliseringen har derved muligens eksponert denne mangel og 
+derved påvirket de ansattes vurderinger i negativ retning.  
+  
+60 
+ 
+Noe overraskende viser undersøkelsene både i 2006 og i 2008 at der er større barriere 
+for personalet i akuttmottaket mot å ta kontakt med personalet på legevakten enn 
+omvendt. FAM har ikke påvirket dette. 
+Effektive helsetjenester 
+Effektive helsetjenester var en av intensjonene med FAM. Prosjektet FAM har 
+imidlertid ikke definert hva som ligger i begrepet ”effektive helsetjenester”. 
+Effektivitet kan innebære økt produksjon med uendrede ressurser, reduserte kostnader 
+ved uendret aktivitet eller bedre kvalitet med uendret ressursbruk. 
+Det er helt avgjørende at de som behandler pasientene får relevant informasjon til rett 
+tid. Dette spørsmål er alene aktuelt for legevaktspersonalet og det er derfor kun i 
+spørreskjemaet til denne personalgruppe det er spurt om dette. Informasjonen til 
+legevakten formidles hovedsakelig fra pasient og pårørende samt personal fra den 
+prehospitale tjenesten og kan således ikke forventes å bli påvirket vesentlig av en 
+omstrukturering mellom legevakt og spesialisthelsetjenesten. I undersøkelsen gir de 
+fleste leger og sykepleiere uttrykk for at de får informasjon til rett tid og det er som 
+forventet ingen forskjell på dette etter etablering av FAM. Omkring halvparten av 
+personalet i akuttmottaket angir at de aldri eller nesten aldri opplever at pasientens 
+problemer ikke blir behandlet på grunn av at riktig informasjon ikke er tilgjengelig. 
+Det er ingen vesentlig forskjell i svarene fra 2006 til 2008. Enda færre opplever dette 
+på legevakten, men her er det en markant bedring å spore i forhold til sykepleienes 
+tilgang til riktig sykepleiefaglig informasjon. Dette kan muligens tilskrives endret 
+organisering med økt satsning på faglig kvalifisert personal i front i FAM. 
+Tilgjengelig nødvendig utstyr er en helt avgjørende forutsetning for effektive 
+helsetjenester.  Undersøkelsen viser at legevakten sjelden opplevde mangel på 
+nødvendig utstyr verken før eller etter FAM. Dette mente også sykepleierne i 
+akuttmottaket. Legene i akuttmottaket svarte derimot at de etter etableringen av FAM 
+oftere kunne oppleve pasienten ikke kunne behandles fordi nødvendig utstyr ikke var 
+tilgjengelig. Akuttmottaket er helt nyetablert med alle de nødvendige installasjoner på 
+plass. Det er investert i nytt teknisk utstyr. Det er derfor påfallende at legene angir at 
+  
+61 
+ 
+de oftere enn før opplever å mangle nødvendig utstyr. En mulig forklaring kan være at 
+personalet ikke ble involvert i tilstrekkelig grad i prosessen med planlegging og 
+anskaffelse av medisinsk teknisk utstyr. Svarene kan også være et uttrykk for at 
+informasjon om nytt utstyr har vært mangelfull. 
+Skjerming av sykehusets øvrige drift  
+Skjerming av sykehusets drift forutsetter at pasienter behandles etter LEON - 
+prinsippet. Pasienter som kan tas hånd om på legevakten skal ikke henvises eller kunne 
+henvende seg direkte til sykehuset. Dette temaet blir berørt i to av undersøkelsens 
+spørsmål. Halvparten av legene i akuttmottaket mente i 2006 at det var mange 
+pasienter som burde vært behandlet på legevakten. I 2008 var dette nesten uendret 
+(svak økning). I sykepleiergruppen var det i 2006 enda flere som mente mange 
+pasienter burde vært behandlet på legevakten, men med reduksjon etter FAM. Disse 
+svarene kan tyde på at sorteringen i det felles mottaket ikke var optimalt i 2008, og at 
+FAM ikke hadde medført noen skjerming av sykehuset. Ved legevakten er det 
+påfallende at under 5 % av legene mente at mange pasienter burde vært behandlet ved 
+akuttmottaket, mens over 60 % av sykepleiergruppen mente det samme i 2006. I 2008 
+endret vurderingene av dette spørsmålet seg, det er flere leger og færre sykepleiere 
+som opplever dette. Vi antar at det kan være ulik oppfatning av hva som ligger i 
+begrepet ”behandling” bak disse svarene. Behandling kan oppfattes både som 
+prosessen å vurdere å henvise pasienten til spesialist, og som det å ”ferdigbehandle” 
+eller avslutte behandling på legevakten. Vi mener derfor dette spørsmålet må tolkes 
+med stor forsiktighet. 
+Spørsmålet om pasientene ikke fikk behandling fordi de var kommet til feil sted er 
+også vanskelig å tolke. I 2006 mente to tredjedeler av legene i akuttmottaket at 
+pasientens problemer ikke ble behandlet fordi de kom til feil sted. Etter FAM mener 
+omtrent halvdelen av begge personalgrupper i akuttmottaket det samme. Dette mener 
+vi, som i spørsmålet over, kan bety at frontfunksjonen ikke har sortert pasientene 
+”riktig”. Ved legevakten er det (2008) så mange som tre fjerdedeler av legene som 
+mener at de ofte opplever at pasientene ikke blir behandlet fordi de har kommet til feil 
+  
+62 
+ 
+sted. Dette kan være et uttrykk for at pasientene burde ha oppsøkt fastlege, og ikke 
+akuttmedisinsk tjeneste. 
+  
+63 
+ 
+6 FAM 2010 
+6.1 Organisasjon 
+Ledelsen av FAM er uendret fra start slik den er beskrevet i kapittel 2.6. 
+Avdelingssjefen har 1,5 stilling som assisterende avdelingssjefer i sin stab. 
+Merkantiltjeneste, sykepleiertjenestene i FAM LV og i FAM AM har fortsatt egne 
+ledere. Kommunene har beholdt sin administrative organisasjon (se kapittel 2.6). I 
+tillegg kommer administrasjon og drift av bemannet legebil. Organisasjonskartet (fig. 
+2.2) viser hvor kompleks organisasjonen FAM er. Bærum kommune ønsket i 2007 å 
+virksomhetsoverdra også den administrative organisasjon knyttet til FAM legevakt til 
+SAB. Dette var imidlertid ikke mulig pga. de eksisterende lovkravene i forhold til 
+kommunenes ansvar.  Det var ikke mulig å få dispensasjon fra lovverket selv om både 
+KS og Legeforeningen var positivt innstilt til en slik løsning. 
+6.2 Pasientsortering (”Triage”) i FAM 
+Statens helsetilsyn utførte et omfattende systemtilsyn ved en rekke av landets 
+akuttmottak i 2007, etterfulgt av en tilsynsrapport. Det ble funnet til dels mange og 
+alvorlige avvik. Disse var vesentlig knyttet til mangel på skriftlige prosedyrer og 
+retningslinjer samt kjennskap til slike, og til mangel på systematisk pasientsortering 
+etter hastegrad (triage) og rutiner for god pasientflyt i mottakene. FAM ved sykehuset 
+Asker og Bærum var ikke gjenstand for tilsyn, ettersom organisasjonen var så ny. 
+Sykehuset har imidlertid gått grundig gjennom rapporten, og har analysert og forbedret 
+sine egne rutiner knyttet til kritiske prosesser (se 6.3).  Det er innført et verktøy for 
+pasientsortering som kalles Triage, tilpasset FAM. Det samme systemet er tatt i bruk i 
+akuttmottakene ved flere andre norske sykehus. Tidligere har både sykehuset og 
+legevakten benyttet systemet Medisinsk Indeks, som imidlertid er utviklet til bruk i 
+prehospitale tjenester (nødmeldetjenesten, ambulanser og helikopter). Det nye 
+systemet ”Triage” inndeler grad av hast i fem grupper. Systemet gir et mer nyansert 
+bilde av pasientenes behov for hastegradering, og egner seg både for sykehusets 
+akuttmottak og for legevakten. Det er prinsipielt viktig at samhandlende deler av 
+helsetjenesten bruker samme verktøy og samme begreper. Systemet er foreløpig 
+papirbasert. En IT basert versjon er en forutsetning for at verktøyet også kan benyttes 
+  
+64 
+ 
+til å holde god oversikt over pasientflyten i avdelingen, og sikre at tilsyn av sykepleier 
+og leger blir gitt innen satte frister tilpasset den enkeltes tilstand og behov. IT - versjon 
+krever imidlertid tilpasning til elektronisk pasientjournal (EPJ) ved sykehuset og ved 
+Legevakten. Det er et åpenbart hinder at sykehuset bruker EPJ - systemet DIPS, og 
+legevakten WinMed. Det var imidlertid ikke mulig å få til felles IT system ved 
+innføring av FAM på grunn av rammevilkårene som er gitt i eksisterende 
+lovbestemmelser. Spesielt lovverket vedrørende personvern var et hinder for at få til 
+dette. 
+6.3 Pasientflyt og – prosess i FAM 
+Pasientflyt kan beskrives som alle enkelthendelser og tiltak som skjer med en pasient 
+etter at han eller hun tar kontakt med akuttmedisinske tjenester, blir mottatt, undersøkt, 
+behandlet og blir sendt videre til hjemmet eller til sykehus. Det er svært viktig at hvert 
+enkelt element som inngår i pasientflyten blir overvåket og analysert for å sikre 
+kvalitet i det enkelte pasientforløp, og optimal kvalitet og ressursutnyttelse i 
+helsetjenesten i sin helhet. Det er viktig å analysere kritiske punkter i pasientflyten, og 
+sørge for at hvert enkelt ledd er riktig dimensjonert. Ledelsen i FAM har hatt fokus på 
+pasientflyt for å identifisere flaskehalser og kritiske områder. Dette er et komplisert 
+arbeid, noe som kommer tydelig frem av flytdiagrammet under. 
+  
+65 
+ 
+ 
+6.4 Observasjonspost 
+Håndtering av pasienter med et behov for akutt helsehjelp gjennomgår en rivende 
+utvikling både når det gjelder behandlingsmuligheter og diagnostikk. Det samme gjør 
+kostnadene knyttet til spesialisthelsetjenesten. Innleggelse i høyspesialiserte 
+sykehusavdelinger er svært resursskrevende. Tendensen både nasjonalt og 
+internasjonalt er å planlegge for bruk av færre senger og økt bruk av poliklinisk 
+undersøkelse og behandling. Dette krever riktig dimensjonering av tilbudene før og 
+etter behandlingsbehovet oppstår, slik at logistikken i systemet fungerer 
+strømlinjeformet. En observasjonspost som mellomledd mellom akuttmottak, legevakt 
+og sykehuset er et viktig ledd i en slik logistisk forbedring idet disse postene er 
+forberedt på rask utredning og behandling. Pasientene kan derfor rask vurderes og ofte 
+utskrives, evt. til fortsatt poliklinisk - eller dagpostbehandling.  
+  
+66 
+ 
+Observasjonspost var en vesentlig og viktig del av det opprinnelige prosjektet, men 
+måtte utgå i siste prosjektfase av økonomiske årsaker. De fleste involverte parter 
+mener en dette er en vesentlig mangel ved FAM, en mangel som medvirker til at 
+potensialet i FAM ikke kan hentes fullt ut. Denne problemstillingen drøftes i en 
+rapport fra 1999 som undersøkte betydning av å ha en observasjonspost ved Akershus 
+universitetssykehus (7). Undersøkelsen viste at en observasjonspost som kan håndtere 
+pasienter i grenseområdet mellom helsetjenestenivåene er viktig for å sikre pasientene 
+behandling på riktig nivå. Forfatterne konkluderer med at en slik observasjonspost må 
+ha adekvat og klar instruksjonsmyndighet i øvrige avdelinger og tjenester i sykehuset 
+for å fungere optimalt og derved effektivisere bruken av ressurser. Effektmål i 
+rapporten var blant annet ”sparte liggedøgn” og antall reinnleggelser. Nettopp en 
+observasjonspost er en viktig ”suksessfaktor” ved storbylegevakten i Oslo. Før 
+helseforetaksreformen i 2002 var Oslo som kommune og fylke ansvarlig for å 
+finansiere både primær - og spesialisthelsetjenesten. I en slik ramme er en 
+observasjonspost ressursbesparende, fordi innleggelser her er vesentlig billigere enn 
+innleggelse i sykehus. I tillegg øker inntjeningen fordi sykehuset kan behandle flere 
+pasienter (og få tilsvarende DRG -poeng) per seng per døgn. 
+6.5 Kompetanseheving 
+Det er innført felles opplæring av ansatt og involvert personell i viktige nød - og 
+hasteprosedyrer. Det er godt dokumentert at felles opplæring i akuttmedisinske 
+prosedyrer gir bedre overlevelse og mindre grad av helsesvikt hos pasientene etter 
+behandling for traumer og alvorlig akutt sykdom. Ikke minst er det viktig med 
+grunnleggende kjennskap til hvordan utstyret fungerer. Mange steder er det opprettet 
+egne ”traumeteam”, team for hjertelungeredning m.v. 
+Legene som er fast ansatt i FAM legevakt med tjeneste på dagtid deltar i disse 
+opplæringene sammen med sykepleiere og leger ved akuttmottaket og i legevakten. 
+Det er imidlertid et problem at legene som arbeider i FAM legevakt i ”vakttid” i liten 
+grad deltar (8), og derfor mangler slik viktig kompetanse. En stor andel av legene er 
+ikke er fast ansatte. Hver enkelt føler liten tilknytning til FAM og til annen lokal 
+helsetjeneste. Fastlegene deltar heller ikke i slike opplæringer og samhandlingsøvelser. 
+  
+67 
+ 
+De mister dermed en anledning til å opprettholde kompetanse i akuttmedisin. Så lenge 
+legevakt er definert som vakt(plikt) utover normal arbeidstid, og derved oppleves som 
+en uønsket ekstra belastning, vil dette forholdet neppe endre seg. Ved FAM dekker 
+fastlegene i hovedsak kun vakter mellom 16 og 23 på hverdager, utover dette dekkes 
+alle vakter av vikarer uten tilknytning til lokal helsetjeneste. Dette reduserer 
+fastlegenes kompetanse innen akuttmedisin, som igjen forsterker ønsket om ikke å 
+delta i legevaktarbeid.  
+I St.meld. nr. 43 (1999-2000) ”Om akuttmedisinsk beredskap” omtales akuttberedskap 
+i kommunene.   
+”Departementet oppfordrer til:  
+- At det formuleres forventninger til legevaktlegers akuttmedisinske kompetanse med 
+utgangspunkt i at det utarbeides faglige prosedyrer for samarbeid mellom første - og 
+annenlinjetjenesten, samt metoder for etterlevelse av disse.  
+- Samarbeid mellom kommuner og fylkeskommuner angående etterutdanning, slik at 
+allmennlegene og andre legevaktsleger kan vedlikeholde, eventuelt oppgradere 
+kompetansen.”  
+I Helsetilsynets Tilsynsrapport 2006 sies det: ”Kommunene må i større grad etablere 
+faste retningslinjer for legevakttjenesten når det gjelder kompetansekrav, opplæring, 
+journalsystemer, informasjon til fastleger og håndtering av prøvesvar. Kommunene 
+kan ikke løpe fra sitt ansvar ved å vise til det selvstendige forsvarlighetskravet legene 
+har.” 
+6.6 Rotasjon av personell 
+Rotasjon av sykepleiere i FAM var en del av den opprinnelige planen for å nå visjonen 
+med FAM. Dette var først og fremst begrunnet med at FAM skulle inneholde AMK - 
+sentral. Å arbeide ved en slik sentral ble vurdert som såpass belastende at tjenesten 
+skulle sirkulere blant flere. AMK ble altså nedlagt og funksjonen sentralisert før FAM 
+var en realitet. 
+  
+68 
+ 
+Det var ikke mulig å planlegge en integrert sykepleietjeneste som del av FAM før 
+oppstart. Det var for stor motstand blant de ansatte i begge organisasjonene. Integrert 
+sykepleietjeneste var imidlertid planlagt på ett til to års sikt. Dette viste seg vanskelig å 
+gjennomføre, men prøves ut i et lite omfang (to stillinger) fra 2009. Disse ansatte 
+roterer i 3- måneders bolker. Alle sykepleiere som er ansatt i FAM har jobbrotasjon 
+som del av stillingsbeskrivelsen. Det er mange praktiske vansker med å få til rotasjon, 
+bl.a. at mange arbeider deltid. Eksempelvis dekker enkelte ansatte dekker  bare 
+nattevakter hver tredje helg eller sjeldnere.  
+Full jobbrotasjon blant sykepleiere ved FAM synes å være et fjernt mål. I tillegg er det 
+viktig å være klar over at sykepleieres grunnutdanning i stor grad er knyttet til 
+helsehjelp som gis i sykehus. Så langt har det ikke vært etablert en formell 
+tilleggsutdanning som kvalifiserer sykepleiere til å arbeide i det allmennmedisinske 
+rom. Sykepleiere kan videreutdanne seg til helsesøster og jordmor, og til kliniske 
+spesialiteter som er knyttet til sykehusavdelinger. I kommunehelsetjenesten har videre 
+- og etterutdanning av sykepleiere hovedfokus mot pleie og omsorgssektoren samt 
+ledelse. Dette er i ferd med å endre seg. I 2008 startet Bergen legevakt og Haraldsplass 
+diakonale høyskole planlegging av et 60 vekttalls videreutdanningsprogram i 
+legevaktssykepleie. Sykepleiernes ulike spesialiseringer beskrives på 
+sykepleierforbundet.no. 
+6.7 Målstyring  
+Den enkelte helsetjenesteytende institusjon kan sette seg lokale mål, og følge disse 
+over tid. FAM benytter måltall som metode både for akuttmottaket og legevakten. 
+FAM hadde i 2007 blant annet satt seg følgende mål: 
+1 Antall ubesvarte anrop i LV <10 % 
+2 Ventetid i akuttmottaket < 2 timer 
+3 Ventetid pasienter med ”middels” haste - prioritering på legevakt < 90 min 
+I måltavlen fremkommer det vedtatte mål, og om disse nås i halvårsperioder. Det var 
+til dels betydelige avvik mellom mål og resultater i 2007. 
+  
+69 
+ 
+For en beredskapstjeneste er det et overordnet mål å kunne besvare alle telefoniske 
+henvendelser uten forsinkelser. For å dimensjonere telefontjenesten til faktiske 
+etterspørsel bestiller FAM årlige telefontellinger fra et teleselskap. Det registreres bl.a. 
+tid før svar, og andel ”mistede” anrop. Fra 2008 måles telefontilgjengeligheten 
+indirekte ved å gjennomføre telefonmålinger, dvs. en teknisk registrering av andelen 
+”ikke besvarte eller mistede anrop”. I 2007 var denne andelen 20 %, noe som klart er 
+for høyt for en akuttmedisinsk beredskapstjeneste. 
+ Det å følge pasientenes ventetider i de ulike fasene av pasientforløpet i legevakt og 
+akuttmottak er viktig for å dimensjonere resursbruken optimalt. Dette bidrar til å fjerne 
+de velkjente ”flaskehalsene”. På legevakten er det allikevel ikke nødvendigvis optimalt 
+å sikre kort ventetid på konsultasjoner som ikke har noen grad av hast. Vi ser en 
+økende tendens til bruk av legevakt ved ikke-akutte henvendelser til tross for innføring 
+av Fastlegeordningen i 2001. Dette undergraver ordningen i seg selv. På den andre 
+siden kan det å kunne søke lege for mindre komplekse problemstillinger utenfor egen 
+arbeidstid være gunstig for samfunnet i et kost-nytte perspektiv. Småbarnsforeldre er 
+et eksempel på en gruppe som ofte velger å benytte legevakt fremfor fastlege for å 
+unngå fravær fra jobb. Barn 0-9 år utgjør 13% av befolkningen, 5% av brukerne hos 
+fastleger og hele 20% av brukerne av legevakt (SSB/ Fastlegeregisteret). 
+ 
+  
+70 
+ 
+7 Diskusjon 
+ 
+Hensikten med å etablere FAM var å oppnå  
+• bedre kvalitet på helsetjenestene på begge forvaltningsnivå  
+• bedre samhandling mellom spesialisthelsetjenesten og 
+kommunehelsetjenesten 
+• effektive helsetjenester  
+• skjerming av sykehusets øvrige drift   
+FAM kan beskrives som en enhet hvor kommunal legevaktordning og sykehusets 
+akuttmottak er samordnet. Det kan være ulike modeller for samordning, fra bruk av 
+felles ressurser og av tjenester fra total samorganisering til kun samlokalisering.  
+Hensikten med å organisere et FAM er å bedre samhandling og samarbeid mellom 
+akutte helsetjenester slik at kvaliteten på tjenestene til akutt syke bedres, og at 
+ressursene brukes effektivt. Ved å tilrettelegge et FAM slik at det gir optimale forhold 
+for informasjonsutveksling, kunnskapsdeling og samhandling forventes det at tilbudet 
+til hver enkelt pasient blir bedret. FAM kan utforme og iverksette bedre prosedyrer 
+knyttet til sortering (triage) og behandling av alvorlig syke eller skadede.  
+For publikum er det en fordel å kunne henvende seg til ett mottak hvor grensegangen 
+mellom forvaltningsnivåene ikke er synlige. Faren for å forspille tid ved å oppsøke 
+”feil” forvaltningsnivå elimineres. Tiltaket vil derfor kunne forventes å gi en positiv 
+effekt på liv og helse. 
+7.1 Våre funn 
+Vi har undersøkt effekten av å etablere FAM ved å gjennomgå kostnader før og etter 
+for de deltagende partene(kapittel 3), brukerundersøkelser i årene 2003-2008 (kapittel 
+4) og ansatteundersøkelser i årene 2006 og 2008 (kapittel 5).  
+  
+71 
+ 
+Personalundersøkelsen viser at ansatte både i legevakten og ved sykehuset mener at 
+FAM har ført til bedre kvalitet på de akuttmedisinske tjenestene til befolkningen i 
+Asker og Bærum. De ansatte mener dette i størst grad gjelder de sykeste pasientene, 
+hvor den fysiske nærhet mellom legevakten og akuttmottaket er mest avgjørende.  
+Vi finner ikke støtte for at samhandlingen mellom forvaltningsnivåene har økt, eller at 
+den akuttmedisinske tjenesten er mer effektiv enn før. Bedret kvalitet synes derfor å 
+være relatert til samlokaliseringen og ikke til samhandling. Det å tilrettelegge for 
+samhandling i FAM har imidlertid vært kostnadsdrivende. Både legevakten og 
+akuttmottaket har fått vesentlig økt areal, noe som krevde økt bemanning. Mer enn 
+halvparten av kostnadsøkningen til personell kan tilskrives strukturtiltak på grunn av 
+økt samorganiseringen. Mulighetene for økt samhandling forhindres imidlertid som 
+tidligere nevnt av en rekke lover og avtaler (se kap 3.1).  
+Brukerundersøkelsene viser ikke at FAM har ført til en bedre legevakttjeneste. Det er 
+bare spørsmålet om tilgjengelighet som viser en klar bedring. Det er lettere å finne 
+frem til legevakten etter samlokaliseringen, hvilket i seg selv er en viktig forbedring 
+7.2 Svakheter ved våre studier 
+Det er knyttet store metodiske problemer til det å måle effekten av et tiltak som FAM. 
+I en så kompleks organisasjon vil kvalitetsbegrepet kunne knyttes til mange 
+forskjellige parametere, og det er ikke mulig å definere et eller noen få overordnede 
+kvalitetsmål. Pasienter, ansatte og samarbeidspartnere vil ha ulike oppfatninger av som 
+er god kvalitet i en akuttmedisinsk tjeneste.  
+For å undersøke om kvaliteten i de akuttmedisinske helsetjenestene til befolkningen i 
+Asker og Bærum er blitt bedre etter innføringen av FAM har vi derfor analysert både 
+undersøkelser blant brukere og blant ansatte ved akuttmottak og legevakt. Vårt 
+postulat er, at det er en positiv sammenheng mellom ansattes og brukeres vurderinger 
+av tjenestene og den medisinsk faglig kvalitet på helsehjelpen som ytes. Vi må 
+imidlertid ta visse forbehold. Innføring av FAM var en stor omveltning for mange 
+ansatte, særlig for tidligere kommunalt ansatte sykepleiere. Sykepleiernes tillitsvalgte 
+var sterkt i mot FAM i planleggingsfasen, og gjorde aktive forsøk på å stanse 
+  
+72 
+ 
+virksomhetsoverdragelsen selv lenge etter at den var et vedtatt politisk faktum. Alle 
+datainnsamlingene ble gjort nært i tid i forhold til oppstart av FAM. Vi må derfor 
+forvente at noen av respondentenes svar farges negativt av følelsesmessige reaksjoner 
+på prosessen, og derved ikke kan sies å være en nøktern vurdering av kvaliteten på 
+helsetjenestene.  En senere datainnsamling vil ventelig kunne gi en mer positiv 
+vurdering enn vi kunne måle i 2006, 2007 og 2008. Samtidig vil færre ansatte ha 
+erfaring med tjenestene ”før og etter”. Det har i tillegg vært en betydelig utskiftning av 
+sykepleiere ansatt i FAM frem til i dag, særlig gjelder dette FAM legevakt. 
+7.3 Norske erfaringer 
+Nedleggelse av lokalsykehus med akuttfunksjoner har medført behov for å ruste opp 
+akuttkompetansen i distriktene. Det er etablert eller prosjektert former for integrerte 
+helsetjenester flere steder i Norge, slik som Fosen distriktsmedisinske senter (DMS), 
+Øya helsehus i Trondheim, Alta sykestue m.fl. Disse kan være ulike ut fra ulike behov 
+basert på avstand til sykehus, befolkningstetthet og andre lokale forhold. Et DMS vil 
+typisk ligge i et område med lang vei til sykehus, og ha mulighet for observasjon og 
+overvåking sammen med mulighet for veiledning fra lokalt eller regionalt sykehus. 
+Trondheim og Bærum kommuner har etablert såkalte ”intermediæravdelinger”, hvor 
+pasienter kommer direkte fra opphold i sykehus for videre medisinsk behandling og 
+aktiv rehabilitering.  
+Oslo legevakt er den konstruksjon som vi finner mest lik FAM. Oslo legevakt har 
+imidlertid et tydelig og sterkt sosialmedisinsk tilsnitt i tillegg til somatisk akutte 
+behandlingstilbud. Dette til forskjell fra ulike akuttmedisinske tjenester i andre land, 
+og fra FAM.  
+Nasjonalt kompetansesenter for legevaktmedisin, Universitetet i Bergen, har opprettet 
+et nasjonalt legevaktregister. I følge dette er det registrert 12 ulike ”FAM” - lignende 
+konsepter i Norge. To er kjent nedlagt, Halden og Larvik. Nedleggelsene var følger av 
+helseforetaksreformen (2002), som førte til at flere lokalsykehus ble nedlagt og 
+funksjonene overført til større sykehus i regionen.  Noen slike ”FAM”- lignende 
+strukturer er organisert som interkommunale legevakter lokalisert ved et sykehus, og 
+  
+73 
+ 
+er i varierende grad samorganisert med sykehuset. Det finnes pr 2009 21 
+interkommunale legevakter lokalisert ved sykehus. Det er ingen kjent evaluering av 
+noen av disse.  
+Vi ønsket å gjøre en kartlegging av alle norske FAM - lignende enheter i vår oppgave. 
+Vi henvendte oss til alle landets fylkesmenn, samt direkte til organisasjonene vi kjente 
+til høsten 2007. Vi ba om prosjektbeskrivelser, rapporter, evalueringer eller andre 
+beskrivelser. Vi fikk bare svar fra Lillehammer kommune, hvor interkommunal 
+legevakt hadde flyttet inn i sykehusets lokaler. Ordningen kom i stand for å redusere 
+kostnader både ved sykehuset og i kommunene.  
+I rapporten ”er hjelpa nærmast - forslag til Nasjonal handlingsplan for legevakt” (1) 
+konkluderes det med at legevakttjenestene i Norge må reguleres bedre i forskrifts form 
+enn de er i gjeldende lovverk. Handlingsplanen foreslår at FAM – konseptet ikke 
+videreutvikles. Det forslås i stedet  å øke antallet interkommunale legevaktordninger, 
+styrke bruken av medisinsk nødnett og IKT - løsninger, innføre bemannet legevaktbil, 
+samt styrke forbindelsene mellom interkommunale legevakter og prehospitale tjenester 
+(ambulansetjenesten). Det tas også til orde for å samhandle tettere med andre 
+vaktordninger som for eksempel brannvesenet. 
+I Trondheim var kommunen og sykehuset i full gang med å utrede et FAM da 
+utredningen i Asker og Bærum startet. Prosessen ble imidlertid avbrutt etter få år på 
+grunn av de vanskelige rammevilkårene. Kommunen etablerte en stasjonær 
+allmennlegevakt i fysisk tilknytning til akuttmottak og skadepoliklinikk. Denne ble 
+bemannet med kommunalt ansatt personell og leger fra allmennlegetjenesten. Etter at 
+sykehuset ble erstattet av det nybygde St. Olavs hospital har kommunen etablert en 
+interkommunal allmennlegevakt noen få hundre meter fra sykehuset. 
+7.4 Utenlandske erfaringer 
+Vi har gjort systematiske søk i en rekke databaser, som Cochrane, Embase, Medline, 
+Med Nytt, PubMed og SveMed+. Vi har også søkt i nettsteder som sykehusplan.no (9) 
+og i diverse tidsskrifter. Vi har brukt søkeord som ”Primary care”, ”Secondary care”, 
+  
+74 
+ 
+“Health reform”, “Cooperation”, “Practice quidelines”, “Integrated care”, “Integrated 
+services”, ”Out of hours services”, “Shared care”.  
+Det er etter hvert en omfattende base av litteratur knyttet til integrerte helsetjenester 
+fra en rekke land. I flere publikasjoner vi fant var hovedproblemene beskrevet som et 
+overforbruk av spesialiserte akutt helsetjenester på grunn av manglende tilbud om 
+helsehjelp og omsorgstjenester på primærhelsetjenestenivå. Tjenestene finnes kanskje 
+ikke, har for dårlig kapasitet, mangler kompetanse eller er lite tilgjengelige av ulike 
+grunner. Andre rapporter og artikler beskriver utfordringer knyttet til svært spredt 
+befolkning med store avstander, hvor geografien i seg selv førte til forsøk med 
+etablering av DMS - lignende strukturer og telemedisinske tjenester. Antall 
+sykehussenger beregnet på akutt helsehjelp blokkeres av pasienter med behov for 
+behandling og pleie på et primærhelsetjenestenivå. Flere av prosjektene har bestått i å 
+styrke kompetanse og utstyr i primærhelsetjenesten ved å flytte deler av 
+spesialisthelsetjenesten ut til primærhelsetjenesten.  
+En annen viktig begrunnelse for å opprette integrerte helsetjenester er å møte behov 
+for akutt behandling og rehabilitering i den aldrende befolkningen. Dette er en 
+kommende stor utfordring for de fleste utviklede land. Presset på helsevesenet vil bli 
+størst i land med dårlig oppbygde primære helse - og ikke minst omsorgstjenester.  
+Nasjonalt kompetansesenter for legevaktsmedisin konkluderer slik i et innspill til 
+utredning av ”samhandlingsreformen” i 2008 (Vedlegg 7):  
+”Ut fra den tilgjengelige vitenskapelige litteraturen med relevans for området, er det 
+grunn til å være skeptisk til nytteeffektene av samordning av sykehusenes og 
+primærhelsetjenestenes oppgaver. Studier tyder på at man lett kan få økt ressursbruk 
+uten påviselige helseeffekter, og at man tilslører tjenestenes egenart der 
+primærhelsetjenestene skal bruke lite ressurser på de mange og sortere ut de mulig 
+sykeste, og at sykehusene skal bruke sine ressurser på en selektert gruppe med større 
+behov og større effekt av ressursbruken.” 
+  
+75 
+ 
+Erfaringer fra Sverige 
+I Sverige er all legetjeneste organisert og finansiert på ett forvaltningsnivå- länet 
+(tilsvarende fylkesnivået i Norge). Allmennlegetjeneste tilbys i lokale Vårdsentraler. 
+Tidligere ble all legevakttjeneste organisert ved at allmennlegene i nedslagsfeltet til et 
+sykehus bemannet sykehusets akuttmottak utenfor ordinær arbeidstid. De utgjorde en 
+integrert del av bemanningen i akuttmottaket. I de senere år har flere län gått over til å 
+tilby akutte allmennlegetjenester lokalt i vårdsentralene for å redusere antallet 
+pasienter som dukker opp i akuttmottaket uten avtale. Det er også utviklet et 
+landsdekkende system for telefonrådgiving (helsepersonell) kombinert med en 
+omfattende web-tjeneste med informasjon til publikum. Publikum kan henvende seg 
+direkte til sykehusspesialist, men mot en økt egenbetaling. 
+Erfaringer fra Danmark 
+Publikum henvender seg telefonisk ved behov for akutt helsehjelp. De blir henvist til 
+ambulanse, sykehus inklusive ”skadestuer”, egen lege neste dag eller til regionale 
+vaktsentraler. Også i Danmark er både allmenn- og spesialistlegetjenesten organisert 
+på et nivå tilsvarende norske fylker (amt).  
+Både i Sverige og i Danmark er ansvaret for akutte legetjenester i vanlig kontortid 
+dekket av den ordinære allmennlegetjenesten, døgnåpne legevakter finnes knapt 
+innenfor offentlig helsetjeneste. Det er også i stor grad allmennlegene som dekker 
+legevaktarbeidet, i motsetning til i Norge hvor en økende andel av legevaktsarbeidet 
+utføres av vikarer. 
+Erfaringer fra Finland 
+Regionale vaktsentraler (57) bemannes stort sett av innleid helsepersonell fra 
+bemanningsbyråer. De grunnleggende organisatoriske, økonomiske og regulatoriske 
+forholdene er ellers så forskjellige fra norske forhold at videre sammenligning ikke gir 
+mening. 
+(Kilder: Egne besøk, personlige meddelelser og presentasjoner av Legevakter i 
+Norden, Nklm: http://helse.uni.no/ContentItem.aspx?site=8&ci=4749&lg=1 ) 
+  
+76 
+ 
+7.5 Andre integrerte modeller for akuttmedisinske tjenester 
+Vi har ikke funnet FAM - lignende organiseringer utenfor Norge. Ulik organisering av 
+helsetjenestene samt demografiske forskjeller gjør at sammenlignende vurderinger er 
+vanskelige. I andre europeiske land, i USA, Canada, og i Australia er forskjellene 
+mellom rurale og sentrale strøk langt større enn i vårt land. Akutte helsetjenester 
+leveres ofte i storbyene som ”Accidents and Emergencies Departments”(AED), ulike 
+former for akuttmedisinske sentre med stort fokus på skader og ulykker. Det engelske 
+parlamentet har evaluert førstelinje helsetjenester i rapporten ”Inquiry report on GP 
+Access & Health Improvement in Primary Care” (10)  
+Om AED - lignende strukturer: 
+ “Overall respondents did not feel that AED departments were the right environment 
+for primary care services, one potential problem was with new rotations of trainee 
+doctors who tend to overestimate risk, and consequently overorder diagnostic tests, 
+unnecessarily driving up costs and patient time”. 
+Det å flytte primærhelsetjenestens akutte helsetjenestetilbud inn i 
+spesialisthelsetjenesten synes således å være særegent for FAM ved Sykehuset Asker 
+og Bærum. Tendensen i andre land ser ut til å være motsatt- det etableres akutte 
+helsetjenester i kommunene for å unngå at pasienter ”oversvømmer” den spesialiserte 
+helsetjenesten. 
+7.6 Ulike aspekter ved full integrering 
+Økonomiske aspekter ved full integrering 
+Med dagens finansieringsordninger vil full integrering medføre at inntektene fra 
+pasientegenandeler faller. Det vil bl.a. ikke lenger være mulig å innkreve opptil fire 
+egenandeler under samme behandlingsforløp. Likeledes vil deler av refusjonen fra 
+NAV falle bort, sammen med deler av DRG refusjonen fra staten.  
+Det er vanskelig å se for seg at man kan beholde stor ulikhet i avlønningssystemene 
+ved full integrering. Fastleger og frivillige vaktleger har i dag aktivitetsbasert 
+inntjening. God betaling for enkle problemstillinger gjør det vanskelig å lage rutiner 
+  
+77 
+ 
+hvor behandlingen av mindre kompliserte, vanlige tilstander blir delegert til 
+sykepleiere.  
+I perioden fra 23 til 07 alle dager mottar LV - legene et timehonorar basert på egen 
+tariffavtale for interkommunale legevaktordninger. Sykehuslegene betjener FAM som 
+en del av sitt lønnede arbeid i sykehuset. Sykepleiere og merkantilt ansatte er alle 
+ansatt i FAM, på likt lønnsnivå. En integrering kan derfor være lønnsom for staten, det 
+vil spare pasienter for egenandeler, men kan ødelegge en sårbar rekruttering av 
+frivillige leger til legevakter fordi legene vil tjene vesentlig mindre.  
+Mulige gevinster av faglig integrering og samhandling i FAM 
+Faglig integrering og samhandling kan medføre at en større andel akuttmedisinske 
+problemstillinger kan håndteres på allmennlegenivå, og således spare bruk av 
+spesialisthelsetjenestens ressurser. Primærlegenes portvakt funksjon må imidlertid 
+styrkes. Dette for å håndheve LEON prinsippet (helsetjenester skal ytes på laveste 
+effektive omsorgsnivå). Felles ansvarslinjer og evt. fravær av økonomiske incentiver 
+knyttet til ”mange lette pasienter” kan gjøre det mulig å delegere behandling av 
+enklere eller lite alvorlige tilstander fra lege til sykepleiere. Dette er i seg selv et tiltak 
+som kan spare bruk av legeressurser, men vil også påvirke summen av egenandeler og 
+refusjoner (FFS) som tilflyter FAM – systemet ettersom det bare finnes få ISF-baserte 
+refusjoner for behandling hos sykepleier.  
+Nødvendige forutsetninger for full integrering 
+Kommunene må virksomhetsoverdra hele legevaktsfunksjonen til Sykehuset Asker og 
+Bærum for å oppnå full integrering. Gjenværende administrative oppgaver i 
+kommunene må i så fall overføres til sykehuset. Det mangler imidlertid et avtaleverk 
+(tariffavtale) som regulerer ansettelse av allmennleger i et HF. Dette må forhandles 
+frem mellom KS og Den norske legeforening som en egen særavtale. Fastlegeavtalene 
+må også reforhandles, slik at fastlegenes plikt til å delta i kommunal legevaktordning 
+overføres til helseforetaket.  
+Det bør vurderes om deler av den offentlige finansieringen (refusjoner fra NAV) i 
+dagens FAM kan overføres som et rammetilskudd til sykehuset, slik at midlene kan 
+  
+78 
+ 
+omdisponeres lokalt. Det er sannsynligvis mange hindringer som må forseres for å 
+oppnå dette. Bl.a. er rett til refusjon for legehjelp (også ved legevakt) en individuell 
+rett etter Folketrygdloven.  
+Elektroniske verktøy (IKT) 
+IKT - verktøy kan utnyttes mye bedre enn tilfellet er i dag. Det har ikke vært mulig å 
+ta i bruk et felles pasientadministrativt system (elektronisk journal - EPJ, og 
+regnskapssystem) fordi tjenestene er forankret i ulike forvaltningsnivå og i ulikt 
+lovverk. Dette lager rigide og tungvinte IKT prosedyrer. Lovverket setter i dag en 
+hinder for å dele informasjon fra journal på annet vis enn gjennom epikrise. Mangel på 
+informasjonsdeling er potensielt helsefarlig. Det er viktig å etablere en felles IT - 
+plattform for effektiv og trygg informasjonsutveksling. I dag skjer 
+informasjonsutveksling stort sett manuelt.  
+I utenlandske integrerte prosjekter er oftest informasjonsdeling via felles EPJ en 
+forutsetning for integreringen, og en viktig del av prosjektene. Det ser ut som at andre 
+lands lovverk knyttet til informasjonssikkerhet og forvaltningsnivåer i mindre grad er 
+til hinder for felles IKT - løsninger. 
+7.7 Mulige endringer i dagens modell for å nå målene med FAM 
+Dagens FAM er en samlokalisert, men bare delvis integrert helsetjeneste. Ett av 
+tiltakene som kan føre til at man når målsettingen med FAM er at kommunene ansetter 
+leger på fast lønn ved alle ”tilstedevakter” i legevakten. Dette vil gi FAM 
+instruksjonsrett overfor legene på samme måte som de har for alt øvrig personell i 
+FAM. Vi mener at dagens kompliserte ansettelses- og avlønningssystem ikke er 
+forenlig med behovet for å utvikle felles prosedyrer, felles trening, opplæring og felles 
+forståelse av prioriteringer. Konsekvensene blir imidlertid at fastlegene i ennå større 
+grad enn i dag slipper sin plikt til å delta i den organiserte legevakten. Det vil være 
+hensiktsmessig fortsatt å la fastlegene ha ansvar for ambulerende vakt. Vi antar det kan 
+bli problemer med å rekruttere det nødvendige antallet kvalifiserte leger til faste 
+stillinger til å dekke legevaktens totale behov. Det vil i tillegg kreve at 
+Helsedirektoratet godkjenner tilstrekkelig antall nye legehjemler. 
+  
+79 
+ 
+Et annet tiltak som kan gjøres innenfor dagens modell er å etablere den planlagte 
+observasjonsposten. Det vil øke mulighetene for å nå målene om at FAM skal føre til 
+kostnadseffektive helsetjenester og skjerme sykehusets øvrige drift. 
+7.8  Alternative modeller for å nå målene 
+Helt integrert FAM i helseforetaksregi. 
+En annen mulig løsning for å øke samhandling i den akutt medisinske tjenesten er å 
+overdra ansvaret til de eksisterende HF-er. Dette vil imidlertid fortsette en lovendring 
+som gir kommunene mulighet for å overdra behandlingsansvaret til 
+sekundærhelsetjenesten. En slik løsning ville umiddelbart løse kompetanseproblemet 
+og gi bedre mulighet for kvalitetsforbedrende tiltak i form av felles opplæring og 
+prosedyrearbeid samt bedre samhandling ved å etablere felles IKT-løsninger, men vil 
+samtidig kreve en styrkelse av legevaktens ”gate-keeper” funksjon for å minske 
+risikoen for at for mange pasienter vil bli håndtert på et for høyt behandlingsnivå. 
+Konsekvensene av full integrering er grundig diskutert i kapittel 3.4. Det er ikke mulig 
+med dagens lov- og regelverk å gjennomføre en sådan modell. 
+Samlokalisering uten samorganisering. 
+Våre undersøkelser antyder at den moderate positive effekt på kvaliteten av den akutt 
+medisinske tjenesten primært er knyttet till samlokalisering og at en betydelig del av 
+de økte omkostningene er betinget av samorganiseringstiltak. En nærliggende 
+fremtidig modell kunne således være å bevare samlokaliseringen men reverserer den 
+delvise samorganisering. Beslutning om dette kan tas av Helseforetaket og Asker og 
+Bærum kommune innen gjeldende lov- og regelverk.  
+Reversering av FAM. 
+Tjenesten kan fremover flyttes helt ut av sykehuset og organiseres under 
+primærhelsetjenesten som en form for interkommunal tjeneste med styrket 
+akuttmedisinsk faglig deltakelse. Denne løsningen betinger en bevist satsing på faglig 
+utdanning av akuttmedisinere i primærhelsetjenesten, og vil i stor grad være avhengig 
+av et fremtidig samarbeide med både legeforeningen og sykepleierforbundet. Sett i 
+  
+80 
+ 
+forhold til de aktuelle politiske føringer er dette sannsynligvis den mest aktuelle 
+løsning for fremtidig akuttmedisinske helsehjelp generelt, men løsningen er, jvf. 
+tidligere argumentasjon mest hensiktsmessig i områder hvor avstandene er store og 
+befolkningstettheten er lav. I et område som Asker og Bærum er kravet til helsehjelp 
+stort og avstanden til sykehuset kort, hvilket øker den direkte kontakten til sykehuset 
+og dermed risikoen for at pasientene tas hånd om på et for høyt behandlingsnivå og vil 
+således ikke være en effektiv helsetjeneste eller skjerme sykehusets øvrige drift. 
+ 
+ 
+ 
+  
+81 
+ 
+8 Oppsummering og konklusjon 
+ 
+I dagens helsesystem er det mange, og tilsynelatende uoverstigelige utfordringer i 
+knyttet til å få FAM til å fungere som tenkt i visjonen ”en gang ett sted”. Hindringene 
+er knyttet til ulik regulering i lov og forskrift, manglende avtaleverk mellom aktørene, 
+mangel på felles IKT - systemer og et komplisert finansieringssystem. Potensielle 
+stordriftsfordeler er derfor vanskelige å hente ut, og den interne samhandlingen blir 
+unødvendig vanskelig. Viktige elementer i et effektivt FAM mangler finansiering i 
+dagens system - for eksempel en observasjonsenhet og en bemannet ambulerende 
+legevaktbil. 
+Økonomisk har FAM vært et kostbart prosjekt. Sykehusets utgifter til drift av 
+akuttmottaksdelen av FAM har fra 2005 till 2007 økt med ca. 3,8 mill kr (16 %), noe 
+som i stor grad kan tilskrives lønnsoppgjør og prisindeks. Kommunene økte i samme 
+periode sine utgifter til legevakt med ca.10,2 mill. (54 %). Kommunene er således 
+påført en betydelig ekstra kostnad knyttet til legevakttjenesten 
+Samkjøring av to kulturer (sykepleiere i legevakt og sykehusets akuttmottak) koster tid 
+og penger. Det samme gjør utvikling av felles prosedyrer, pasientadministrative 
+systemer osv. FAM har synliggjort behovet for opplæring, samhandling og 
+fagutvikling. Eksempelvis arrangeres det (og stilles krav om) jevnlige felles kurs i 
+hjertelungeredning. Slike tiltak var ikke ivaretatt i de gamle organisasjonene. 
+Kostnader til opplæringstiltak og fagutvikling har derfor vært en nødvendig økning 
+som ikke kan belastes FAM i seg selv. 
+Når kommunehelsetjenesten og spesialisthelsetjenesten skal fungere i team i et felles 
+akutt mottak avdekkes store kulturforskjeller. Slike utfordringer lar seg løse over tid, 
+og det er stort potensial for kompetansebygging og – overføring i et FAM. Selve 
+innføringen er en stor omveltning for mange av de ansatte. Dette må håndteres 
+profesjonelt, med riktig fokus og tilstrekkelig ressursbruk i omstillingsfasen.  
+Enkelte målbærer frykt for at for mange ”kommunale” akutt syke pasienter vil bli 
+behandlet på spesialistnivå i et FAM. Dette vil i så fall ikke være forenlig med LEON - 
+  
+82 
+ 
+prinsippet, og vil ikke være kostnadseffektivt. Utenlandske studier har vist at det å 
+sette erfarne generalister inn i ”sorteringsfunksjonen” i et akuttmottak tvert i mot fører 
+til redusert forbruk av spesialiserte og begrensede ressurser. 
+En observasjonspost er viktig for å sikre at pasienter blir behandlet på riktig nivå, og 
+sparer ressurser ved at pasienter som viser seg ikke å ha behov for sykehusinnleggelse 
+kan vurderes og eventuelt behandles utenfor en høyspesialisert og kostbar 
+sykehusavdeling. 
+De fleste akuttmottak i norske sykehus og de fleste legevaktordninger har store 
+problemer med å sikre tilstrekkelig kompetanse og erfaring hos personell i frontlinjen. 
+Norske sykehus bruker sine akuttmottak som en viktig arena for opplæring av 
+turnuskandidater og underordnede leger. Det er derfor gjennomgående leger med liten 
+erfaring som møter akutt syke personer først. I kommunehelsetjenesten er det en stor 
+utfordring å sikre fastlegereformens ideologi om legens gjennomgående ansvar for 
+sine ”listepasienter” - også når tilstanden er akutt. Det er også en klar trend at 
+legevaktene i hele landet i økende grad betjenes av legevikarer uten tilknytning til 
+lokal eller regional helsetjeneste, mange er korttidsvikarer fra andre land. Ved FAM, 
+Sykehuset Asker og Bærum, er fastlegenes andel av samlet vakttid svært lav. Få av 
+legene som tar vakter har noen tilknytning til lokal helsetjeneste. 
+Legenes arbeid ved legevakt er i hovedsak avlønnet med stykkpris, og legene har et 
+selvstendig ansvar for kvaliteten på arbeidet som utføres. Dette gjør det vanskelig for 
+FAM som organisasjon å sikre gjennomgående god kvalitet og gode retningslinjer for 
+prioritering, samhandling og behandling. 
+Trolig vil et tettere samarbeid mellom fastlegene og sykehusene gi positive effekter på 
+kommunikasjon og samhandling ut over den som rent konkret skjer i FAM, og bidra til 
+forbedring også innenfor andre områder enn i det akuttmedisinske feltet. 
+Norsk helsevesen er i endring. Behovene for helsetjenester endrer seg i takt med 
+demografiske endringer, endring i sykelighet og forventninger til helsevesenet. 
+Oppgaver omfordeles både innen spesialisthelsetjenesten og mellom 
+forvaltningsnivåene. Et av resultatene er reduksjon av antall lokalsykehus med 
+  
+83 
+ 
+akuttfunksjoner. I kommunehelsetjenesten sentraliseres legevaktfunksjonene, ofte i 
+form av interkommunale løsninger. Disse strukturendringene gjør at befolkningens 
+behov for akutte helsetjenester må dekkes på nye måter. Ulike varianter av FAM - 
+konseptet tilpasset lokale forhold kan være gode alternativer. Noen forutsetninger må 
+etter vår vurdering være på plass for å lykkes: 
+• Fastlegene må ha hovedansvaret for legevaktsfunksjonene, og bør være ansatt i 
+organisasjonen når de har vakt 
+• Akuttmottakene må ha umiddelbar tilgang til riktig fagkompetanse 
+• Nødvendige deltjenester, som observasjonsenhet og bemannet legevaktbil må 
+sikres finansiering 
+• Det må gjøres nødvendige endringer i lov - og avtaleverk.  
+Etter vår vurdering ville FAM hatt større muligheter for å innfri forventninger og 
+visjoner om man hadde forankret tiltaket i en forsøkslov. 
+Våre anbefalinger: 
+I dagens situasjon mener vi at FAM bør avsluttes som et delvis integrert tiltak, og 
+erstattes av en samlokalisert men separat organisert virksomhet. Ved å beholde 
+samlokaliseringen bevarer man fordelene som ligger i gode muligheter for 
+samhandling, og kan skjerme sykehuset for henvendelser fra pasienter uten behov for 
+spesialiserte tjenester. Vi anbefaler kommunene i så stor grad som mulig å ansette 
+leger ved legevakten i stedet for å benytte frivillige vikarleger. Dette kan sikre kvalitet 
+og samhandling, og samtidig opprettholde LEON-prinsippet og fastlegens ansvar for 
+egne pasienter. Vi mener at dagens forsøksordning med bemannet legevaktbil gir 
+nødvendig økt kapasitet og kvalitet i den ambulerende legevaktsordningen. Ordningen 
+bør kontinueres. Ettersom flere interkommunale legevakter har innført en slik ordning 
+er det sannsynlig at finansieringen sikres på kort sikt. Ordningen møter også behovet 
+som ”eldrebølgen” utløser. Sykehuset på sin side bør etablere en observasjonspost for 
+å oppnå mer kostnadseffektiv bruk av sykehussengene. 
+  
+84 
+ 
+9 Referanser  
+1 Nklm rapport 1- 2009 ”Forslag til nasjonal handlingsplan for legevakt”  
+   Nasjonalt kompetansesenter for legevaktmedisin UiB 2009. 
+2 NOU 2003:1 Behovsbasert finansiering av spesialisthelsetjenesten. 
+3 OECD 2004: The OECD Health Project Summary Report 
+4 NOU 2005:3 Fra stykkevis til helt. (kap. 8.1.5 3., tredje avsnitt)  
+5 Klagesaker fra legevakttjenesten – hvilke forhold kan føre til behandlingsfeil? 
+http://www.unifobhelse.no/upload/Pasopp_08_7_legevakt[1].pdf 
+6 Utvikling av metode for å måle pasienters og pårørendes erfaringer med 
+legevakt 
+http://www.unifobhelse.no/Projects.aspx?site=8&description=0&project=2326 
+7 H. Melsom, S. Mellesmo: Nødvendighet av innleggelser belyst ved en 
+undersøkelse av øyeblikkelig hjelp ved Sentralsykehuset i Akershus”  
+Senter for helseadministrasjon UiO, Rapport 1999:2 
+8 NAV 2007, J.P.Nossen; Hva skjer på legekontorene  
+Hva skjer på legekontorene? 
+9 Rapport SINTEF 2009 
+http://www.sykehusplan.no/data/rapport_a12019_sluttrapport_fra_internasjonal
+t_seminar.pdf 
+10 ”Inquiry report on GP Access & Health Improvement in Primary Care”  
+3.2.3 A & E Departments, All Party Parliamentary Group, Primary Care and 
+Public Health, Juli 2008 11  
+11 B. Eidsvoll, L. Gullestad: Kvalitet av legevakt, akuttmottak og 
+observasjonsenhet bedømt av pasienter og personalet  
+Senter for helseadministrasjon UiO, Spesialoppgave 2003 
+12 Rapport fra arbeidsgruppe: Økonomiske forhold ved interkommunalt 
+legevaktsamarbeid med stasjonær legevakt og LV-sentral (IKL) 
+HOD 2007 
+Økonomiske forhold ved interkommunalt legevaktsamarbeid med stasjonær 
+legevakt og LV-sentral (IKL) - regjeringen.no 
+  
+85 
+ 
+13  Kommuner med liten legevaktsbelastning foretrekkes  
+Tdnlf 2004 
+14 Kommunale legevakter - Helsetilsynets funn vurderinger - Helsetilsynet 
+Helsetilsynet 2006 
+15 Data fra allmennlegetjenesten 
+Helsedirektoratet 2010 
+  
+86 
+ 
+ 
+ 
+10 Vedlegg 
+ 
+Vedlegg 1: Regnskap formål 43250 Legevakt Bærum Kommune 2007 + 
+2008 
+Vedlegg 2:   Regnskap 2006, 2007, 2008 FAM, SAB HF 
+Vedlegg 3:  NAV, Jon Petter Nossen: Regnskapstall Legevakt Asker og 
+Bærum 2007 
+Vedlegg 4:  Aktivitetsrapportering i Akuttmottaket SAB HF 
+Vedlegg 5:  5a:  Spørreskjema for akuttmottaket 
+5b:  Spørreskjema for legevakten 
+   5c: Spørreskjema for ambulansetjenesten  
+   (tilleggsspørsmål i 2008 ligger i hvert enkelt skjema) 
+Vedlegg 6:  Utvalg av svar på de åpne spørsmålene 
+Vedlegg 7: Rapport om FAM. Steinar Hunskår, Nasjonalt 
+kompetansesenter for legevakt 2009 
+  
+87 
+ 
+Vedlegg 1  Regnskap formål 43250 Legevakttjenester 2007 + 2008, 
+Bærum kommune 
+ 
+ 
+Utgifter:                2 007  2008 
+Lønn og sosiale utgifter                 8 131 602                  9 069 772  
+Driftsutg./ Sykepleierlønn til SAB*               17 999 151                19 001 718  
+Kjøp av varer og tjenester                    732 430                     225 293  
+Ekstern husleie til SAB                 3 913 443                  3 913 443  
+Overføringsutgifter/ 
+Forbr.matr+medisiner                  1 668 029                  1 155 011  
+Sum brutto utgifter  32 444 655   33 365 236  
+   
+Inntekter:   
+Salgsinntekter (Egenandeler)               (1 951 301)               (2 717 331) 
+Overføringer fra staten (Refusjoner Nav)               (1 431 154)               (1 393 814) 
+Sykelønnsrefusjoner                  (139 821)                  (335 349) 
+Refusjon moms                    (37 780)                      (9 396) 
+Innbet av tap på fordringer                      (1 155)                         (535) 
+Sum inntekter               (3 561 211)               (4 456 425) 
+   
+Sum netto utgifter  28 883 444   28 908 811  
+ 
+Note: Regnskapet viser totale utgifter til formål legevakt, inkludert lønns - og 
+driftsutgifter knyttet til administrasjon av legetjenestene som kommunene måtte 
+beholde ved virksomhetsoverdragelsen. Overføringer til SAB HF utgjøres 
+utgiftspostene merket med *  - kr. 21 912 594 (2007), kr. 22 915 161 (2008) 
+ 
+  
+ 
+ 
+  
+88 
+ 
+Vedlegg 2  Regnskapstall FAM SAB HF HF 2006 - 2007 - 2008 
+  
+  
+89 
+ 
+ Vedlegg 3  NAV Regnskapstall Legevakt Asker og Bærum 2007  
+  
+Total refusjon fra NAV: Kroner 
+Konsultasjoner     6 059 894 
+Sykebesøk             648 734 
+Andre kontakter      115 483 
+I alt refusjoner                   6 824 111 
+   
+Egenandeler belastet pasienten:  
+Konsultasjoner     3 839 362 
+Sykebesøk             168 343 
+Andre kontakter          1 123 
+I alt egenandeler                    4 008 828 
+Legevaktkontakter med Asker og Bærum som praksiskommune 2007(personlig 
+meddelelse, J.P. Nossen, NAV ) 
+ 
+ 
+ 
+  
+90 
+ 
+Vedlegg 4 Aktivitetsrapportering i Akuttmottaket SAB HF 
+2008
+Antall innleggelser 2008
+83 % 83 %
+85 %
+79 %
+83 % 82 %
+90 % 91 %
+79 %
+83 %
+81 %
+86 %
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+1 600
+Januar Mars Mai Juli September November
+0 %
+10 %
+20 %
+30 %
+40 %
+50 %
+60 %
+70 %
+80 %
+90 %
+100 %
+Sum innleggelser
+Sum ØH-innleggelser
+Andel ØH
+ 
+Poliklinisk aktivitet i akuttmottaket 2008
+98 % 96 % 97 % 97 %
+99 % 99 % 99 % 99 % 97 % 98 % 98 %
+99 %
+0
+100
+200
+300
+400
+500
+600
+700
+Januar Mars Mai Juli September November
+0 %
+10 %
+20 %
+30 %
+40 %
+50 %
+60 %
+70 %
+80 %
+90 %
+100 %
+Sum konsultasjoner
+Sum ØH-konsultasjoner
+Andel ØH
+ 
+  
+91 
+ 
+Vedlegg 5 Spørreskjemaer brukt i datainnsamlingen 2008  
+ 
+  
+92 
+ 
+ 
+  
+93 
+ 
+ 
+  
+94 
+ 
+ 
+  
+95 
+ 
+ 
+  
+96 
+ 
+ 
+  
+97 
+ 
+ 
+  
+98 
+ 
+ 
+ 
+  
+99 
+ 
+Vedlegg 6 Utvalg av svar på de åpne spørsmålene i 2008 
+ 
+Ved spørreundersøkelsen i 2008 stilte vi to åpne spørsmål: 
+ 
+1. Hvordan mener du at den akuttmedisinske tjenesten til befolkningen har endret 
+seg etter innføring av FAM? 
+ 
+2. Hvordan mener du at din arbeidssituasjon har endret seg etter innføringen av 
+FAM? 
+ 
+Om lag 90 av respondentene benyttet anledningen til å gi en eller flere 
+tilbakemeldinger på disse spørsmålene. Tilbakemeldingene er ikke systematiserte i noe 
+spesielt analyseverktøy. Et utvalg av svarene er sitert under: 
+ 
+Tilleggsspørsmål 1:  
+Hvordan mener du at den akuttmedisinske tjenesten til befolkningen har endret seg 
+etter innføring av FAM? 
+ 
+Ambulanseansatte: 
+Vanskelig å finne rette vedkommende på lv som skal ha rapport. Ofte føles det som om ingen 
+hverken på mottak eller lv vil ha pasienten. 
+ 
+Bedret for dem med størst medisinsk behandlingsbehov - forverret til de øvrige (grunnet en 
+voldsom redusert effektivitet).  
+ 
+ 
+  
+100 
+ 
+Pas blir ikke feilsendt hjem pga tilstand, men feilsendt til oss, kunne tatt drosje/annen transport 
+svært ofte. Lgv rekvirerer sykebil til oppegående pasienter, ofte. Til tider store vanskeligheter å 
+få kjørelege ut i svært nødvendige situasjoner (dødsfall). 
+ 
+Lett med ett sted å levere, men opplever stadig surr og rot med tanke på hvor pasienten skal 
+lgv/mott. Ofte diskusjon med amb om hvorfor pas skal til mott. Kan vel heller begynne på lgv etc. 
+ 
+Vi kjører til ett sted så får de bli enige om hvem som skal ta pasienten.  
+ 
+Ambulansetjenesten opererer med medisinsk/operativ manual og som ved alle andre legevakter 
+i Oslo/Akershus vurderer paramedic hvor pasienten skal leveres. Det er også den eneste 
+legevakt som "ikke" tar imot på en høflig måte om man ikke har meldt inn. Det er også mye flott 
+personell på legevakt, men for det meste oppleves pasientene som et problem. 
+ 
+Kasteball mellom legevakt og mottak. Det virker også tydelig at det er underbemanning i mottak. 
+Frustrasjon og utslitt personell kan oppleves. 
+ 
+Føler at det er flere konflikter og uro i de ulike personalgruppene etter fam ble innført.  
+ 
+Leger ved legevakten: 
+Mer upersonlig miljø. Lengre avstander, dårligere hjelp fra sykepleierene, delvis fordi staben i stor 
+grad er skiftet ut, delvis fordi sykepleierene er lite tilgjengelige, selv om de stort sett er flere enn 
+før.  
+ 
+Leger er lite integrert i arbeidsmiljøet på legevakten. Kompetanseoverføringen mellom sab og 
+legene ved legevakten er minimal og finner bare sted ved konferering ved eventuelt innleggelse. 
+ 
+Bedre lokaler, bedre organisering, men: Mindre effektivitet og kanskje lengre ventetider? 
+Personvernet er dårlig ivaretatt i hvilerom og i "luka". Hovedvurdering: Det medisinske faglige 
+innholdet er stort sett uforandret 
+ 
+De nye lokalene er store og moderne, men mindre effektive og jeg opplever at det praktiske 
+samarbeidet med staben på lv er mindre smidig. Innredningen av kontorene kunne vært mer 
+gjennomarbeidet og mer i overensstemmelse med det de fleste har i praksisene sine.  
+  
+101 
+ 
+ 
+Bedre flyt, lettere å få hjelp, tryggere for lv leger. 
+ 
+Større venteværelse. Hvilerom for dårlige pasienter. 
+ 
+ 
+Leger ved akuttmottaket: 
+De har blitt mer kravstore. Dersom lv ikke gir tilfredsstillende info, "kreves" spesialistutredelse for 
+til tider meningsløse bagateller og de blir henvist. 
+ 
+Inntrykket er lenger ventetid. Sykepleiere har mindre tid til pasientene. Sykepleiene dårligere 
+tilgjengelighet bl. A. er de fraværende ved gyn. Us. Kommer først ved ti minutter etter at de er 
+tilkalt. (gynekolog) 
+ 
+Legevakten har slik jeg ser det, for mye vikarer. Har sjeldent eller andri møtt en erfaren fastlege. 
+De har ansatt nyutdannede og nyinnflyttede kollegaer som etter mitt skjønn ikke har nok 
+kompetanse for å gi fam den kvalitet som vel er intensjonen.  
+(anestesilege) 
+ 
+Inntrykket er lenger ventetid. Sykepleiere har mindre tid til pasientene. Sykepleiene dårligere 
+tilgjengelighet bl. A. er de fraværende ved gyn. Us. Kommer først ved ti minutter etter at de er 
+tilkalt. (gynekolog) 
+ 
+FAM må forbedre/ferdiggjøre pasienten adekvat før videresendelse i systemet. Opplever at 
+støttepersonell er altfor opptatt av å få pasienten ut av mott, noe som reduserer kvaliteten. Aku 
+pas bør ha fått veneflon, skiftet klær på og tatt relevante prøver /urinprøve/røntgen. Dette fungerer 
+for dårlig. Sykepleiers oppgave må klargjøres, mangel her skaper masse ekstraarbeid for overfylte 
+sengeposter og forsinker videre behandling.  
+(anestesi) 
+ 
+Det er ikke samhandlingen det er noe galt med, men hver institusjon for seg. Det er rett og slett 
+ulovlig/uetisk av legevakten å ta full takst for å sende folk på røntgen. Altfor få pleiere i mottak, 
+med for mange pålagte ikke kliniske oppgaver. Det må kunne gå ann å få samlet regning. Det må 
+tydeliggjøres for pasienter at de er forkjellige institusjoner og hvorfor de venter.  
+Pas behandles ikke ferdig på lv. Pas skyves over på et ……. Nivå. Eks udisloserte frakturer som 
+opplagt ikke skal sykehusbehandles står timer i kø og fortrenger også "viktigere" pasientgrupper.  
+(ortoped) 
+  
+102 
+ 
+ 
+ 
+Sykepleiere Legevakten: 
+Forskjellige datasystemer er hinder for samarbeid og felles prosedyrer. Hinder for effektivitet i 
+pasientflyt. Felles bruk av dips for leger i lv og sykehus vil gi bedre kvalitet i pasientbehandling 
+(innsyn i journal for legevaktslege.  
+ 
+Fysiske avstander mellom lv og aku redusert, raskere behandling av dårlige pasienter. Kortere 
+avstand mellom lv, aku og røntgen, alt på ett sted. Bedre utstyr og mer utstyr. Mer kompetanse for 
+pasienten i nærhet (f eks hjertestansteam). Ett sted for henvendelse skapte feil forventninger for 
+pasientene, fastleger er første ledd i de fleste situasjoner. 
+ 
+Merkantile oppgaver bør ivaretas av merkantilt personell,  - betalingsrutiner, - håndtering av 
+prøvesvar etter legekontroll (lab+rtg),  - kontroll av pasientlister i dips mot betalingsrutiner. Faglig 
+utvikling/felles fora for leger i lv/sykehus. 
+ 
+Dårlige pasienter som har behov for akutt behandling som er mer omfattende enn det vi kan gi på 
+legevakten kan komme rett inn til aku. Bra for pasientene med brudd/frakturer da vi også har 
+akuttrøntgen i området.  
+Betalingsprosedyrer som er forskjellig forvirrer og irriterer pas, også vanskelig for personalet/ 
+ressurskrevende 
+ 
+Pas henvender seg på en plass, trenger ikke tenke på om de skal henvende seg på akuttmottak 
+(sykehuset) eller legevakt. Pas blir henvist til riktig behandlingsnivå ved henvendelse direkte. 
+ 
+Kompetansestrid. Uklare skiller mellom lv og aku. 
+Det kan være vanskelig å hastegradsvurdere en pas og ev plassere pasienten i riktig 
+behandlingsnivå, ettersom at man ikke har samme sorteringsverktøy/kriterier i lv versus aku. 
+Pasientsortering blir ofte personavhengig, alt etter hvor "streng" akuttmottakskoordinator er den 
+aktuelle dagen 
+ 
+Når pasienter som er meldt inn til aku blir liggende på hvilerommet på lv kan de bli liggende uten 
+tilsyn/observasjon, dette er skummelt i.f.t. dårlige pasienter og det skjer ofte. 
+  
+103 
+ 
+ 
+ 
+Sykepleiere akuttmottaket: 
+Noen pasienter skulle vært behandlet hos primærlege/lv/polikl. Alt for mange i akuttmottak som 
+ikke har noe der å gjøre.  
+ 
+Økt tilstrømning av pasienter - større arbeidspress. Lavere terskel for å henvise pasienten videre 
+inn til aku. Mange erfarne kollegaer har sluttet.  
+ 
+Akuttmedisinsk tjeneste er ikke blitt bedre i form av bedre ressurser/ressurstilgang, kompetanse. 
+Men pasientflyten mellom legevakt sykehus er bedret i og med samlokalisering. Gir et bedre 
+helhetsinntrykk av akuttmed. tjeneste 
+ 
+Det går raskere å ta imot pasienter fra legevakten eller pasienter som melder seg mot legevakten 
+og som trenger akutt hjelp blir kjørt på riktig sted på kort tid.  
+ 
+Flere pasienter bør utredes på lv først. "Psykososiale pasienter" blir henvist fra lv til akuttmottak 
+(føles ofte det er av bekvemlighetsårsaker).  
+ 
+Mindre vei mellom lv og aku - raskere behandling - tilsyn ved alvorlige tilstander. Pasienten har 
+kun ett sted å forholde seg/henvende seg til - raskere sortering av pas som skal direkte til 
+sykehus. 
+ 
+Høyere arbeidspress. Mindre forsvarlighet. Mindre fokus på faglighet. Mindre arbeidsglede. For 
+mange personer å forholde seg til, for mye adm. Personell tilknyttet til akuttmottak (drift). Dårlig 
+ledelse  
+ 
+Omorganisering og sammenslåing har ført til redusert faglig fokus for aku. 
+ 
+ 
+Tilleggspørsmål 2 
+Hvordan mener du at din arbeidssituasjon har endret seg etter innføringen av FAM? 
+ 
+  
+104 
+ 
+Ambulansearbeidere: 
+Økning i belastning og vurderingsturer av pasienter grunnet lite aktivitet av kjørelege.  
+ 
+Fam har fratatt delegert amb personell muligheten i mange tilfeller til å avgjøre rett beh nivå. Dette 
+mener jeg er feil 
+Flere unødvendige ledd å gå igjennom for å få levert pasient til legevakt. Ofte ber legevakt om at 
+det gjøres ny vurdering i mottak før pasienten går inn til lv. Dette er uhørt og oppleves 
+provoserende 
+ 
+Opplever i større grad å arbeide alene. Kommuniserer med spl, men via skjemaer og data, mindre 
+ansikt til ansikt. Opplever at spl er pasientadministratorer mer enn helsepersonell. Tempo er 
+roligere, men antallet behandlede pasienter per vakt er lavere. Samarbeidet lgv/mottak er ikke det  
+mest kritiske, men derimot den interne org på lgv. Behov: Internkontroll, bedre prosedyrer og 
+.....støtte, fagligt.  
+ 
+Mer upersonlig miljø. Lengre avstander, dårligere hjelp fra sykepleierne, delvis fordi staben i stor 
+grad er skiftet ut, delvis fordi sykepleierne er lite tilgjengelige, selv om de stort sett er flere enn før.  
+ 
+ 
+Leger ved Legevakten 
+Avstanden mellom legevakt og akuttmottaket er kort, derfor har man mulighet for å gå direkte til 
+mellomvakten for å diskutere problemer og vise dem EKG, for eksempel. Eller de kan komme og 
+se på pasienter på legevakten, dette skjedde 2 - 3 ganger med meg. Dette var ikke aktuelt på den 
+gamle legevakten 
+ 
+Bedre lokaler. Noe dårligere stemning i lv mtp samarbeidet med akuttmottaket. Stort minus: Jeg 
+opplever at pasienter ligger på lv (delvis timesvis) i påvente av de kan trilles bort på akuttmottaket. 
+(Dette ved stort press på akuttmottaket).  
+Det er gode lokaler, lettere innleggelse for pasienten. Lettere undersøkelse, bedre kontakt med 
+sykehuset.  
+ 
+Positivt med nærhet til sykehuset. Negativt med lang fysisk avstand mellom legekontor og 
+knutepunkt. Fører til mye unødvendig løping.  
+ 
+Mulighet for vakthavende lege på sykehus å komme innom for å se til pas. Dette kan hindre 
+unødvendig innleggelse ved usikkerhet hos legevaktslege 
+ 
+  
+105 
+ 
+Leger Akuttmottaket 
+Dårligere fysiske rammer for legene mhp IT og kontorfasiliteter.  
+ 
+Mulig lettere tilgjengelig legevakt 
+ 
+Opplysninger om prøver som er tatt, og faglig vurdering av pasientens plager i stedet for 
+oppramsing. Opplever unntaksvis at noen (få) av legene mangler grunnleggende kompetanse 
+innen særdeles viktige områder! Og tar ikke tilbakemelding på dette 
+ 
+Bedre dialog med legevakten 
+ 
+Synes av og til at det tar noe lenger tid i nye fam enn det gamle. Mer tid til elektronisk registrering, 
+mindre til til assistanse fra hjelpepersonell i mottak. Må gjøre flere prosedyrer uten assistanse enn 
+tidligere 
+ 
+Synes det av og til er for enkelt av legevaktslegen å sende pasienten videre, for de har for "mye" å 
+gjøre. 
+ 
+Det er færre rom i nye aku, hvilket medfører mye arbeid med plassering av pasienter. Sengene 
+fylles fort opp, og det blir raskt en stemning som dreier seg om å bli raskt "ferdig" med pasienten, 
+fremfor fokus på kvalitet. Generelt synes undertegnede at sykepleierne bruker uforholdsmessig  
+ 
+mye tid på dokumentasjon; De kunne med fordel fulgt med inn til pasienten sammen med legene, 
+fremfor å dokumentere i dips.  
+Ny funksjon, nye utfordrende oppgaver. Kontinuerlig kompetanseutvikling, større fagmiljø. Ny 
+organisering av ledelse gir flere muligheter for fagutvikling av personell i avdelingen. Del av større 
+organisasjon med flere støtteavdelinger (IT,IST,portør osv). Delaktig i en organisasjon/nærvær og 
+fagmiljø. Høyere støynivå på grunn av mange ansatte på felles avd. 
+ 
+Bedre/systematisk fagutvikling. Muligheter til større faglige utfordringer (rullering). 
+ 
+Sykepleiere Akuttmottaket 
+Flere travle vakter, ingen spisepause eller dobesøk. Dårligere turnus. Større sykefravær. Stor 
+utskiftning av personell. Nye flotte lokaler. 
+ 
+Mye mer å gjøres. Mindre faglig forsvarlighet. Litt mindre arbeidsglede.  
+ 
+Arbeidsmengde matpause/går på wc kan ofte utebli, særlig på senvakter. Lettere å henvise 
+pasient til aku fra lv bare for sikkerhets skyld? 
+ 
+  
+106 
+ 
+Travlere vakter, lengre avstand mellom akuttrom og øvrige behandlingsrom fører til mye mer 
+gåing. Dårligere vaktrom, ikke noe sted å spise maten uten å bli sett. Flere å få hjelp fra på travle 
+vakter. Har fått hjelp av kollegaer på lv når de har hatt det stille og vi har det travelt. 
+ 
+ 
+ 
+  
+107 
+ 
+Vedlegg 7 Notat om Felles akutt mottak Steinar Hunskår 2008, 
+  
+ 
+  
+108 
+ 
+ 
+  
+109 
+ 
+  
+110 
+ 
+Vedlegg 8 Aktivitetstall legevakten 2003 - 2007 
+ 
+Aktivitetstall legevakten 2003 - 2007, legekontakter inkl. 
+sykebesøk 
+2003 2004 2005 2006 2007 
+2907 3387 3614 3519 3510 
+2799 3011 3198 3092 2998 
+3271 3142 3883 3539 3221 
+3320 3265 3482 3589 3274 
+3376 3606 3968 3540 3518 
+3378 3246 3384 3565 3292 
+3230 3100 3408 3271 2906 
+3455 3583 3187 3245 3120 
+2973 3104 3247 3361 3037 
+2948 3391 3318 3327 3085 
+3272 3015 3389 3122 3064 
+ 
+3965 3612 3911 3674 4111 
+Total pr år 38894 39462 41989 40844 39136 
+Gjennomsnitt pr. mnd 3241 3289 3499 3404 3261 
+ 
+ 
+ 
+ 

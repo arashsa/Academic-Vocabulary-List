@@ -1,0 +1,714 @@
+setSpec com_10852_1
+setName Det matematisk-naturvitenskapelige fakultet
+setSpec com_10852_2
+setName Institutt for informatikk
+setSpec com_10852_5
+setName Matematisk institutt
+setSpec com_10852_10
+setName Institutt for teoretisk astrofysikk
+setSpec com_10852_13
+setName Fysisk institutt
+setSpec com_10852_16
+setName Institutt for molekylær biovitenskap ( -2012)
+setSpec com_10852_22
+setName Biologisk institutt ( -2012)
+setSpec com_10852_31
+setName Farmasøytisk institutt
+setSpec com_10852_34
+setName Institutt for geofag
+setSpec com_10852_43
+setName Kjemisk institutt
+setSpec com_10852_46
+setName Senter for entreprenørskap
+setSpec com_10852_38732
+setName Naturfagsenteret
+setSpec com_10852_37314
+setName Institutt for biovitenskap
+
+
+setSpec com_10852_49
+setName Det samfunnsvitenskapelige fakultet
+setSpec com_10852_50
+setName Institutt for statsvitenskap
+setSpec com_10852_53
+setName Institutt for sosiologi og samfunnsgeografi
+setSpec com_10852_57
+setName Sosialantropologisk institutt
+setSpec com_10852_60
+setName Økonomisk institutt
+setSpec com_10852_63
+setName Senter for teknologi, innovasjon og kultur
+setSpec com_10852_65
+setName Psykologisk institutt
+setSpec com_10852_41639
+setName ARENA Senter for europaforskning
+
+
+setSpec com_10852_68
+setName Det juridiske fakultet
+setSpec com_10852_69
+setName Institutt for kriminologi og rettssosiologi
+setSpec com_10852_72
+setName Institutt for privatrett
+setSpec com_10852_74
+setName Institutt for offentlig rett
+setSpec com_10852_76
+setName Nordisk institutt for sjørett
+setSpec com_10852_78
+setName Norsk senter for menneskerettigheter
+setSpec com_10852_80
+setName Senter for europarett
+setSpec com_10852_82
+setName Senter for rettsinformatikk
+setSpec com_10852_84
+setName Avdeling for forvaltningsinformatikk
+
+
+setSpec com_10852_87
+setName Det humanistiske fakultet
+setSpec com_10852_88
+setName Institutt for arkeologi, konservering og historie
+setSpec com_10852_93
+setName Institutt for kulturstudier og orientalske språk
+setSpec com_10852_118
+setName Institutt for filosofi, ide- og kunsthistorie og klassiske språk
+setSpec com_10852_127
+setName Institutt for litteratur, områdestudier og europeiske språk
+setSpec com_10852_149
+setName Institutt for lingvistiske og nordiske studier
+setSpec com_10852_169
+setName Institutt for musikkvitenskap
+setSpec com_10852_173
+setName Senter for Ibsen-studier
+setSpec com_10852_175
+setName Institutt for medier og kommunikasjon
+
+
+setSpec com_10852_181
+setName Det medisinske fakultet
+setSpec com_10852_182
+setName Institutt for sykepleievitenskap og helsefag ( -2009)
+setSpec com_10852_186
+setName Institutt for medisinske basalfag
+setSpec com_10852_190
+setName Profesjonsstudiet medisin
+setSpec com_10852_221
+setName Institutt for allmenn- og samfunnsmedisin ( -2009)
+setSpec com_10852_225
+setName Institutt for helseledelse og helseøkonomi ( -2009)
+setSpec com_10852_227
+setName Den medisinske Forskerlinjen
+setSpec com_10852_229
+setName Psykiatri
+setSpec com_10852_37322
+setName Institutt for helse og samfunn
+setSpec com_10852_37330
+setName Institutt for klinisk medisin
+
+
+setSpec com_10852_234
+setName Det utdanningsvitenskapelige fakultet
+setSpec com_10852_235
+setName Institutt for pedagogikk
+setSpec com_10852_238
+setName Institutt for spesialpedagogikk
+setSpec com_10852_243
+setName Institutt for lærerutdanning og skoleforskning
+setSpec com_10852_251
+setName Intermedia
+
+
+setSpec com_10852_266
+setName Det teologiske fakultet
+setSpec col_10852_37309
+setName Teologi
+setSpec col_10852_37304
+setName Religion og samfunn
+setSpec col_10852_37305
+setName Profesjonsetikk og diakonivitenskap
+setSpec col_10852_37303
+setName Kristendomsstudier
+
+
+setSpec com_10852_270
+setName Det odontologiske fakultet
+
+
+setSpec com_10852_274
+setName Museene
+setSpec com_10852_275
+setName Naturhistorisk museum
+setSpec com_10852_277
+setName Kulturhistorisk museum
+
+
+setSpec com_10852_280
+setName Universitetsbiblioteket i Oslo
+setSpec com_10852_281
+setName HumSam-biblioteket
+setSpec com_10852_283
+setName Medisinsk bibliotek
+setSpec com_10852_285
+setName Juridisk bibliotek
+setSpec com_10852_287
+setName Realfagsbiblioteket
+
+
+setSpec com_10852_290
+setName Administrative enheter
+setSpec com_10852_291
+setName Universitetets senter for informasjonsteknologi (USIT)
+setSpec com_10852_293
+setName Informasjonsavdelingen
+
+setSpec com_10852_254
+setName Andre enheter
+setSpec com_10852_255
+setName Senter for utvikling og miljø
+setSpec com_10852_257
+setName Cicero
+setSpec com_10852_259
+setName Senter for tverrfaglig kjønnsforskning
+setSpec com_10852_261
+setName Atferdssenteret
+setSpec com_10852_263
+setName Kulturell kompleksitet i det nye Norge (CULCOM)
+setSpec com_10852_41509
+setName UiO Energi
+setSpec com_10852_34688
+setName Cristin
+
+
+--- Old Records
+setSpec com_10852_41639
+setName ARENA Senter for europaforskning
+setSpec col_10852_3
+setName Institutt for informatikk
+setSpec col_10852_4
+setName Informatikk
+setSpec col_10852_6
+setName Matematisk institutt
+setSpec col_10852_7
+setName Matematikk
+setSpec col_10852_8
+setName Modellering og dataanalyse
+setSpec col_10852_9
+setName Anvendt matematikk og og mekanikk
+setSpec col_10852_11
+setName Institutt for teoretisk astrofysikk
+setSpec col_10852_12
+setName Astronomi
+setSpec col_10852_14
+setName Fysisk institutt
+setSpec col_10852_15
+setName Fysikk
+setSpec col_10852_17
+setName Institutt for molekylær biovitenskap
+setSpec col_10852_18
+setName Biokjemisk instiutt ( -2003)
+setSpec col_10852_19
+setName Biokjemi
+setSpec col_10852_20
+setName Fysiologi
+setSpec col_10852_21
+setName Molekylærbiologi
+setSpec col_10852_23
+setName Biologisk institutt
+setSpec col_10852_24
+setName Marinbiologi og limnologi
+setSpec col_10852_25
+setName Botanikk og plantefysiologi
+setSpec col_10852_26
+setName Zoologi
+setSpec col_10852_27
+setName Økologi
+setSpec col_10852_28
+setName Evolusjon og biodiversitet
+setSpec col_10852_29
+setName Toksikologi
+setSpec col_10852_30
+setName Økologi og evolusjon
+setSpec col_10852_32
+setName Farmasøytisk institutt
+setSpec col_10852_33
+setName Farmasi
+setSpec col_10852_35
+setName Institutt for geofag
+setSpec col_10852_36
+setName Miljøgeologi og naturkatastrofer
+setSpec col_10852_37
+setName Geologi
+setSpec col_10852_38
+setName Geofysikk
+setSpec col_10852_39
+setName Meteorologi og oseanografi
+setSpec col_10852_40
+setName Petroleumsgeologi og petroleumsgeofysikk
+setSpec col_10852_41
+setName Naturgeografi, hydrologi og geomatikk
+setSpec col_10852_42
+setName Geologiske prosessers fysikk
+setSpec col_10852_44
+setName Kjemisk institutt
+setSpec col_10852_45
+setName Kjemi
+setSpec col_10852_47
+setName Senter for entreprenørskap
+
+
+setSpec col_10852_48
+setName Det matematisk-naturvitenskapelige fakultet
+setSpec col_10852_51
+setName Institutt for statsvitenskap
+setSpec col_10852_52
+setName Statsvitenskap
+setSpec col_10852_54
+setName Institutt for sosiologi og samfunnsgeografi
+setSpec col_10852_55
+setName Sosiologi
+setSpec col_10852_56
+setName Samfunnsgeografi
+setSpec col_10852_58
+setName Sosialantropologisk institutt
+setSpec col_10852_59
+setName Sosialantropologi
+setSpec col_10852_61
+setName Økonomisk institutt
+setSpec col_10852_62
+setName Samfunnsøkonomi
+setSpec col_10852_64
+setName Senter for teknologi, innovasjon og kultur
+setSpec col_10852_66
+setName Psykologisk institutt
+
+
+setSpec col_10852_67
+setName Det samfunnsvitenskapelige fakultet
+setSpec col_10852_70
+setName Institutt for kriminologi og rettssosiologi
+setSpec col_10852_71
+setName Kriminologi og rettssosiologi
+setSpec col_10852_73
+setName Institutt for privatrett
+setSpec col_10852_75
+setName Institutt for offentlig rett
+setSpec col_10852_77
+setName Nordisk institutt for sjørett
+setSpec col_10852_79
+setName Norsk senter for menneskerettigheter
+setSpec col_10852_81
+setName Senter for europarett
+setSpec col_10852_83
+setName Senter for rettsinformatikk
+setSpec col_10852_85
+setName Avdeling for forvaltningsinformatikk
+
+
+setSpec col_10852_86
+setName Det juridiske fakultet
+setSpec col_10852_89
+setName Institutt for arkeologi, konservering og historie
+setSpec col_10852_90
+setName Arkeologi
+setSpec col_10852_91
+setName Historie
+setSpec col_10852_92
+setName Konservering
+setSpec col_10852_94
+setName Institutt for kulturstudier og orientalske språk
+setSpec col_10852_95
+setName Etnologi
+setSpec col_10852_96
+setName Religionshistorie
+setSpec col_10852_97
+setName Folkloristikk
+setSpec col_10852_98
+setName Kinesisk
+setSpec col_10852_99
+setName Teatervitenskap
+setSpec col_10852_100
+setName Japansk
+setSpec col_10852_101
+setName Tyrkisk
+setSpec col_10852_102
+setName Sanskrit
+setSpec col_10852_103
+setName Urdu
+setSpec col_10852_104
+setName Arabisk
+setSpec col_10852_105
+setName Tibetologi
+setSpec col_10852_106
+setName Hindi
+setSpec col_10852_107
+setName Hebraisk
+setSpec col_10852_108
+setName Arkiv- og museumsfag
+setSpec col_10852_109
+setName Kulturhistorie
+setSpec col_10852_110
+setName Midtøsten- og Nord-Afrikakunnskap
+setSpec col_10852_111
+setName Semittisk språkvitenskap
+setSpec col_10852_112
+setName Sør-Asiakunnskap
+setSpec col_10852_113
+setName Øst-Asiakunnskap
+setSpec col_10852_114
+setName Frankofone Afrika (sør for Sahara)
+setSpec col_10852_115
+setName Humanistisk prosjektsemester
+setSpec col_10852_116
+setName Persisk
+setSpec col_10852_117
+setName Teatervitenskap, estetiske studier
+setSpec col_10852_119
+setName Institutt for filosofi, ide- og kunsthistorie og klassiske språk
+setSpec col_10852_120
+setName Kunsthistorie
+setSpec col_10852_121
+setName Filosofi
+setSpec col_10852_122
+setName Idehistorie
+setSpec col_10852_123
+setName Latin
+setSpec col_10852_124
+setName Gresk
+setSpec col_10852_125
+setName Antikkens kultur
+setSpec col_10852_126
+setName Kunsthistorie, estetiske studier
+setSpec col_10852_128
+setName Institutt for litteratur, områdestudier og europeiske språk
+setSpec col_10852_129
+setName Engelsk
+setSpec col_10852_130
+setName Tysk
+setSpec col_10852_131
+setName Nederlandsk
+setSpec col_10852_132
+setName Fransk
+setSpec col_10852_133
+setName Italiensk
+setSpec col_10852_134
+setName Spansk
+setSpec col_10852_135
+setName Romansk filologi
+setSpec col_10852_136
+setName Allmenn litteraturvitenskap
+setSpec col_10852_137
+setName Bosnisk/Kroatisk/Serbisk
+setSpec col_10852_138
+setName Bulgarsk
+setSpec col_10852_139
+setName Polsk
+setSpec col_10852_140
+setName Russisk
+setSpec col_10852_141
+setName Tsjekkisk
+setSpec col_10852_142
+setName Portugisisk
+setSpec col_10852_143
+setName Nord-Amerikakunnskap
+setSpec col_10852_144
+setName Germansk språkvitenskap
+setSpec col_10852_145
+setName Russland-, Sentral-Europa og Balkan-studier
+setSpec col_10852_146
+setName Litteraturformidling
+setSpec col_10852_147
+setName Allmenn litteraturvitenskap, estetiske studier
+setSpec col_10852_148
+setName Engelsk, estetiske studier
+setSpec col_10852_150
+setName Institutt for lingvistiske og nordiske studier
+setSpec col_10852_151
+setName Lingvistikk
+setSpec col_10852_152
+setName Anvendt lingvistikk
+setSpec col_10852_153
+setName Språk, logikk og informasjon (SLI)
+setSpec col_10852_154
+setName Nordisk litteratur
+setSpec col_10852_155
+setName Vikingtid og nordisk middelalder
+setSpec col_10852_156
+setName Senter for studier i vikingtid og nordisk middelalder
+setSpec col_10852_157
+setName Norsk som andrespråk
+setSpec col_10852_158
+setName Nordisk språk
+setSpec col_10852_159
+setName Humanistisk informatikk
+setSpec col_10852_160
+setName Nordisk fagdidaktikk
+setSpec col_10852_161
+setName Irsk
+setSpec col_10852_162
+setName Keltisk språkvitenskap
+setSpec col_10852_163
+setName Leksikografi
+setSpec col_10852_164
+setName Navnegransking
+setSpec col_10852_165
+setName Norrøn filologi
+setSpec col_10852_166
+setName Islandsk
+setSpec col_10852_167
+setName Retorikk og språklig kommunikasjon
+setSpec col_10852_168
+setName Nordisk litteratur, estetiske studier
+setSpec col_10852_170
+setName Institutt for musikkvitenskap
+setSpec col_10852_171
+setName Musikkvitenskap
+setSpec col_10852_172
+setName Musikkvitenskap, estetiske studier
+setSpec col_10852_174
+setName Senter for Ibsen-studier
+setSpec col_10852_176
+setName Institutt for medier og kommunikasjon
+setSpec col_10852_177
+setName Medievitenskap
+setSpec col_10852_178
+setName Journalistikk
+setSpec col_10852_179
+setName Medievitenskap, estetiske studier
+
+
+setSpec col_10852_180
+setName Det humanistiske fakultet
+setSpec col_10852_183
+setName Institutt for sykepleievitenskap og helsefag
+setSpec col_10852_184
+setName Sykepleievitenskap
+setSpec col_10852_185
+setName Helsefag
+setSpec col_10852_187
+setName Institutt for medisinske basalfag
+setSpec col_10852_188
+setName Ernæringsvitenskap
+setSpec col_10852_189
+setName Atferdsvitenskap
+setSpec col_10852_191
+setName Profesjonsstudiet medisin
+setSpec col_10852_192
+setName Allmennmedisin
+setSpec col_10852_193
+setName Anatomi
+setSpec col_10852_194
+setName Anestesiologi
+setSpec col_10852_195
+setName Barnesykdommer
+setSpec col_10852_196
+setName Ernæringslære
+setSpec col_10852_197
+setName Farmakologi
+setSpec col_10852_198
+setName Fysikalsk medisin
+setSpec col_10852_199
+setName Fysiologi og nevrofysiologi
+setSpec col_10852_200
+setName Fødselshjelp og kvinnesykdommer
+setSpec col_10852_201
+setName Hudsykdommer
+setSpec col_10852_202
+setName Immunologi
+setSpec col_10852_203
+setName Indremedisin
+setSpec col_10852_204
+setName Kirurgi
+setSpec col_10852_205
+setName Klinisk biokjemi og fysiologi
+setSpec col_10852_206
+setName Medisinske atferdsfag
+setSpec col_10852_207
+setName Medisinsk biokjemi
+setSpec col_10852_208
+setName Medisinsk etikk
+setSpec col_10852_209
+setName Medisinsk genetikk
+setSpec col_10852_210
+setName Medisinsk mikrobiologi
+setSpec col_10852_211
+setName Medisinsk statistikk
+setSpec col_10852_212
+setName Nevrologi
+setSpec col_10852_213
+setName Patologi
+setSpec col_10852_214
+setName Psykiatri
+setSpec col_10852_215
+setName Radiologi
+setSpec col_10852_216
+setName Rettsmedisin
+setSpec col_10852_217
+setName Samfunnsmedisin
+setSpec col_10852_218
+setName Øre-nese-halssykdommer
+setSpec col_10852_219
+setName Øyesykdommer
+setSpec col_10852_220
+setName Kunnskapshåndtering, ledelse og kvalitet
+setSpec col_10852_222
+setName Institutt for allmenn- og samfunnsmedisin
+setSpec col_10852_223
+setName Internasjonal helse
+setSpec col_10852_224
+setName Medisinsk etikk
+setSpec col_10852_226
+setName Institutt for helseledelse og helseøkonomi
+setSpec col_10852_228
+setName Den medisinske Forskerlinjen
+setSpec col_10852_230
+setName Psykiatri
+setSpec col_10852_231
+setName Selvmordsforskning og -forebygging
+setSpec col_10852_232
+setName Barne og ungdomspsykiatri
+
+
+setSpec col_10852_233
+setName Det medisinske fakultet
+setSpec col_10852_236
+setName Institutt for pedagogikk
+setSpec col_10852_237
+setName Pedagogikk
+setSpec col_10852_239
+setName Institutt for spesialpedagogikk
+setSpec col_10852_240
+setName Spesialpedagogikk
+setSpec col_10852_241
+setName Tilpassa opplæring
+setSpec col_10852_242
+setName Special needs education
+setSpec col_10852_244
+setName Institutt for lærerutdanning og skoleforskning
+setSpec col_10852_245
+setName Realfagdidaktikk
+setSpec col_10852_246
+setName Nordisk didaktikk
+setSpec col_10852_247
+setName Engelsk didaktikk
+setSpec col_10852_248
+setName Utdanningsledelse
+setSpec col_10852_249
+setName Religions- og etikkdidaktikk
+setSpec col_10852_250
+setName Samfunnsfagdidaktikk
+setSpec col_10852_252
+setName Intermedia
+
+
+setSpec col_10852_253
+setName Det utdanningsvitenskapelige fakultet
+setSpec col_10852_256
+setName Senter for utvikling og miljø
+setSpec col_10852_258
+setName Cicero
+setSpec col_10852_260
+setName Senter for tverrfaglig kjønnsforskning
+setSpec col_10852_262
+setName Atferdssenteret
+setSpec col_10852_264
+setName Kulturell kompleksitet i det nye Norge (CULCOM)
+setSpec col_10852_265
+setName Andre enheter
+
+
+setSpec col_10852_269
+setName Det teologiske fakultet
+setSpec col_10852_272
+setName Odontologi
+
+
+setSpec col_10852_273
+setName Det odontologiske fakultet
+setSpec col_10852_276
+setName Naturhistorisk museum
+setSpec col_10852_278
+setName Kulturhistorisk museum
+setSpec col_10852_279
+setName Museene
+setSpec col_10852_282
+setName HumSam-biblioteket
+setSpec col_10852_284
+setName Medisinsk bibliotek
+setSpec col_10852_286
+setName Juridisk bibliotek
+setSpec col_10852_288
+setName Realfagsbiblioteket
+setSpec col_10852_289
+setName Universitetsbiblioteket i Oslo
+setSpec col_10852_292
+setName Universitetets senter for informasjonsteknologi (USIT)
+setSpec col_10852_294
+setName Informasjonsavdelingen
+setSpec col_10852_295
+setName Administrative enheter
+setSpec col_10852_34689
+setName Cristin høstingsarkiv
+setSpec col_10852_37303
+setName Kristendomsstudier
+setSpec col_10852_37304
+setName Religion og samfunn
+setSpec col_10852_37305
+setName Profesjonsetikk og diakonivitenskap
+setSpec col_10852_37306
+setName Intercontextual Theology
+setSpec col_10852_37307
+setName Religious Roots of Europe
+setSpec col_10852_37308
+setName Praktisk teologi
+setSpec col_10852_37309
+setName Teologi
+setSpec col_10852_37310
+setName Museologi
+setSpec col_10852_37311
+setName Latin-Amerika
+setSpec col_10852_37312
+setName Oversettelsesstudier
+setSpec col_10852_37313
+setName Master i lesing og skriving
+setSpec col_10852_37315
+setName Institutt for biovitenskap
+setSpec col_10852_37316
+setName Toksikologi
+setSpec col_10852_37317
+setName Marinbiologi og limnologi
+setSpec col_10852_37318
+setName Økologi og evolusjon
+setSpec col_10852_37319
+setName Biokjemi
+setSpec col_10852_37320
+setName Fysiologi
+setSpec col_10852_37321
+setName Molekylærbiologi
+setSpec col_10852_37323
+setName Institutt for helse og samfunn
+setSpec col_10852_37324
+setName Samfunnsmedisin
+setSpec col_10852_37325
+setName Allmennmedisin
+setSpec col_10852_37326
+setName Helsefag
+setSpec col_10852_37327
+setName Sykepleievitenskap
+setSpec col_10852_37328
+setName Helseledelse og helseøkonomi
+setSpec col_10852_37329
+setName Medisinsk etikk
+setSpec col_10852_37331
+setName Institutt for klinisk medisin
+setSpec col_10852_37332
+setName Psykososialt arbeid
+setSpec col_10852_38733
+setName UiO Energi
+setSpec col_10852_39920
+setName Organisasjon, ledelse og arbeid
+setSpec col_10852_39921
+setName Special and inclusive education
+setSpec col_10852_41510
+setName Naturfagsenteret
+setSpec col_10852_41640
+setName ARENA Senter for europaforskning

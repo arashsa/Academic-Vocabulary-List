@@ -1,0 +1,2 @@
+setSpec com_10852_270
+setName Det odontologiske fakultet
