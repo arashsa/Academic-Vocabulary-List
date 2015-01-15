@@ -2,7 +2,16 @@
 # -*- coding: utf-8 -*-
 import os
 import shutil
-from my_additions import create_dir
+import sys
+import errno
+
+
+def create_dir(path):
+    try:
+        os.makedirs(path)
+    except OSError as exception:
+        if exception.errno != errno.EEXIST:
+            raise
 
 
 class Detection():
@@ -114,4 +123,5 @@ class Detection():
             self.en_count, self.bm_count, self.nn_count, self.corrupt_count))
         self.info.write("-" * 30)
 
-test = Detection('DUO')
+if __name__ == '__main__':
+    Detection(sys.argv[1])

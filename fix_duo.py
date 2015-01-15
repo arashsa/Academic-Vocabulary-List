@@ -1,4 +1,5 @@
 import os
+import sys
 
 
 def remove_pdf(path):
@@ -21,7 +22,6 @@ def remove_pdf(path):
 
 def count_words(path):
     """
-    Removes broken metadata files
     :param path:
     :return:
     """
@@ -37,6 +37,7 @@ def count_words(path):
                     for line in duo_file.readlines():
                         words += len(line.split())
                         print line.split()
-
-
     data.write('DUO-Corpus:\n Files: {}\n Words: {}'.format(count, words))
+
+if __name__ == '__main__':
+    remove_pdf(sys.argv[1])
