@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 import os
 import shutil
-import sys
 import errno
 
 
@@ -97,18 +96,24 @@ class Detection():
         if self.word_count_en_bm_nn[key] < 50:
             self.corrupt_count += 1
             create_dir('DUO-Corrupted/' + root)
-            shutil.move(path_to_file, 'DUO-Corrupted/' + path_to_file)
-            shutil.move(meta, 'DUO-Corrupted/' + meta)
+            if os.path.isfile(path_to_file):
+                shutil.move(path_to_file, 'DUO-Corrupted/' + path_to_file)
+            if os.path.isfile(meta):
+                shutil.move(meta, 'DUO-Corrupted/' + meta)
         elif key == 'nn':
             self.nn_count += 1
             create_dir('DUO-NN/' + root)
-            shutil.move(path_to_file, 'DUO-NN/' + path_to_file)
-            shutil.move(meta, 'DUO-NN/' + meta)
+            if os.path.isfile(path_to_file):
+                shutil.move(path_to_file, 'DUO-NN/' + path_to_file)
+            if os.path.isfile(meta):
+                shutil.move(meta, 'DUO-NN/' + meta)
         elif key == 'en':
             self.en_count += 1
             create_dir('DUO-English/' + root)
-            shutil.move(path_to_file, 'DUO-English/' + path_to_file)
-            shutil.move(meta, 'DUO-English/' + meta)
+            if os.path.isfile(path_to_file):
+                shutil.move(path_to_file, 'DUO-English/' + path_to_file)
+            if os.path.isfile(meta):
+                shutil.move(meta, 'DUO-English/' + meta)
 
         self.word_count_en_bm_nn['bm'] = 0
         self.word_count_en_bm_nn['nn'] = 0
@@ -119,9 +124,8 @@ class Detection():
         self.info.write("-" * 30+'\n')
         self.info.write("DUO corpus:"+'\n')
         self.info.write("All articles: {}\n".format(self.all_count))
-        self.info.write("English articles: {}\nBM articles: {}\nNN articles: {}\nCorrupt articles: {}+'\n'".format(
+        self.info.write("English articles: {}\nBM articles: {}\nNN articles: {}\nCorrupt articles: {}'\n'".format(
             self.en_count, self.bm_count, self.nn_count, self.corrupt_count))
         self.info.write("-" * 30)
 
-if __name__ == '__main__':
-    Detection(sys.argv[1])
+Detection('DUO')
