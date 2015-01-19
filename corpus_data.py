@@ -26,4 +26,9 @@ def write_to_data(words, articles, faculty):
     data.write('\n{}: {} articles {} words'.format(faculty, articles, words))
     data.close()
 
-gather_data('DUO_new_BB/' + current_faculty + current_path)
+
+def gather_obt_data(path):
+    for root, dirs, files in os.walk(path):
+        for f in files:
+            if f.endswith('txt.obt'):
+                print f

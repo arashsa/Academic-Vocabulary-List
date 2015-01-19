@@ -36,10 +36,9 @@ import sys
 # compress = open('specs_compressed.txt', 'w')
 
 
-def test():
-    print sys.argv[1]
-    time.sleep(2)
-
+# def test():
+#     print sys.argv[1]
+#     time.sleep(2)
 
 if __name__ == '__main__':
-    test()
+    pass
